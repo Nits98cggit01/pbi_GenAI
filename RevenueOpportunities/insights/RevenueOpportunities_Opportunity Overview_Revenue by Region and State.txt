@@ -1,0 +1,65 @@
+Report Name: RevenueOpportunities
+Page Name: Opportunity Overview
+Visual Name: Revenue by Region and State
+
+Insights:
+Categorical Fields:
+Region, State
+
+Numerical Fields:
+Revenue
+
+Field: Region
+ - East: 8
+ - Central: 7
+ - West: 4
+
+Field: State
+ - New York: 1
+ - West Virginia: 1
+ - Florida: 1
+ - Maine: 1
+ - Minnesota: 1
+ - Pennsylvania: 1
+ - Illinois: 1
+ - Nevada: 1
+ - Washington: 1
+ - Virginia: 1
+ - Iowa: 1
+ - North Carolina: 1
+ - California: 1
+ - Oregon: 1
+ - Georgia: 1
+ - Texas: 1
+ - Kansas: 1
+ - Nebraska: 1
+ - Wisconsin: 1
+
+Numerical Insights for Revenue grouped by Region:
+ Region  count             sum            mean             max            min
+Central      7 $723,517,680.00 $103,359,668.57 $156,543,230.00 $23,491,898.00
+   East      8 $840,243,113.00 $105,030,389.12 $259,277,278.00 $30,750,119.00
+   West      4 $404,490,146.00 $101,122,536.50 $120,345,357.00 $74,981,830.00
+
+Numerical Insights for Revenue grouped by State:
+         State  count             sum            mean             max             min
+    California      1 $116,331,542.00 $116,331,542.00 $116,331,542.00 $116,331,542.00
+       Florida      1  $30,750,119.00  $30,750,119.00  $30,750,119.00  $30,750,119.00
+       Georgia      1 $129,124,564.00 $129,124,564.00 $129,124,564.00 $129,124,564.00
+      Illinois      1  $73,329,707.00  $73,329,707.00  $73,329,707.00  $73,329,707.00
+          Iowa      1 $156,543,230.00 $156,543,230.00 $156,543,230.00 $156,543,230.00
+        Kansas      1 $139,705,491.00 $139,705,491.00 $139,705,491.00 $139,705,491.00
+         Maine      1  $51,715,421.00  $51,715,421.00  $51,715,421.00  $51,715,421.00
+     Minnesota      1  $55,242,656.00  $55,242,656.00  $55,242,656.00  $55,242,656.00
+      Nebraska      1 $140,687,095.00 $140,687,095.00 $140,687,095.00 $140,687,095.00
+        Nevada      1  $74,981,830.00  $74,981,830.00  $74,981,830.00  $74,981,830.00
+      New York      1 $259,277,278.00 $259,277,278.00 $259,277,278.00 $259,277,278.00
+North Carolina      1 $106,863,412.00 $106,863,412.00 $106,863,412.00 $106,863,412.00
+        Oregon      1 $120,345,357.00 $120,345,357.00 $120,345,357.00 $120,345,357.00
+  Pennsylvania      1  $68,037,156.00  $68,037,156.00  $68,037,156.00  $68,037,156.00
+         Texas      1 $134,517,603.00 $134,517,603.00 $134,517,603.00 $134,517,603.00
+      Virginia      1  $97,742,943.00  $97,742,943.00  $97,742,943.00  $97,742,943.00
+    Washington      1  $92,831,417.00  $92,831,417.00  $92,831,417.00  $92,831,417.00
+ West Virginia      1  $96,732,220.00  $96,732,220.00  $96,732,220.00  $96,732,220.00
+     Wisconsin      1  $23,491,898.00  $23,491,898.00  $23,491,898.00  $23,491,898.00
+

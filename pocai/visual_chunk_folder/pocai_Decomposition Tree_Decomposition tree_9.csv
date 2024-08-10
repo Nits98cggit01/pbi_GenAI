@@ -1,0 +1,161 @@
+Product category,Product,Region,Industry,Sales owner,Territory,Sales Opportunity
+Computers,Desktops,North America,Real Estate Investment Trusts,Eric Gruber,US-MIDWEST,$1300
+Electronics,Laser Printers,EMEA,Food Distributors,Anne Weiler,France,$1300
+Electronics,Laser Printers,LATAM,Major Pharmaceuticals,Greg Winston,Brazil,$1300
+Electronics,Laser Printers,LATAM,,Greg Winston,Brazil,$1300
+Electronics,Laser Printers,LATAM,,Sanjay Shah,Colombia,$1300
+Electronics,Laser Printers,LATAM,,Sanjay Shah,Peru,$1300
+Electronics,Laser Printers,LATAM,Real Estate Investment Trusts,Sanjay Shah,Peru,$1300
+Electronics,Laser Printers,North America,Clothing/Shoe/Accessory Stores,Julian Isla,US-NORTHEAST,$1300
+Electronics,Laser Printers,North America,Oil/Gas Transmission,Eric Gruber,US-MIDWEST,$1300
+Electronics,Laser Printers,North America,Oilfield Services/Equipment,Julian Isla,US-NORTHEAST,$1300
+Electronics,Scanners,North America,Hospital/Nursing Management,David So,US-SOUTH,$1300
+Electronics,Webcams,APAC,,Renee Lo,Japan,$1300
+Electronics,Webcams,EMEA,Home Furnishings,Anne Weiler,France,$1300
+Electronics,Webcams,LATAM,Home Furnishings,Sanjay Shah,Colombia,$1300
+Electronics,Webcams,LATAM,,Sanjay Shah,Peru,$1300
+Electronics,Webcams,North America,Computer Software: Prepackaged Software,Molly Clark,US-SOUTH,$1300
+Electronics,Webcams,North America,,Alan Steiner,Canada,$1300
+Electronics,Webcams,North America,Oilfield Services/Equipment,Julian Isla,US-NORTHEAST,$1300
+Furniture,Ergonomic Seating,LATAM,Computer Software: Prepackaged Software,Sanjay Shah,Panama,$1300
+Computers,Desktops,EMEA,Integrated oil Companies,Anne Weiler,France,$1200
+Computers,Desktops,EMEA,Major Chemicals,Anne Weiler,United Arab Emirates,$1200
+Computers,Desktops,North America,EDP Services,David So,US-SOUTH,$1200
+Computers,Desktops,North America,Major Pharmaceuticals,Spencer Low,US-SOUTH,$1200
+Computers,Desktops,North America,Medical/Dental Instruments,Eric Gruber,US-MIDWEST,$1200
+Electronics,Laser Printers,APAC,Oil & Gas Production,Renee Lo,Australia,$1200
+Electronics,Laser Printers,EMEA,Computer Software: Prepackaged Software,Anne Weiler,Germany,$1200
+Electronics,Laser Printers,EMEA,Real Estate Investment Trusts,Anne Weiler,United Kingdom,$1200
+Electronics,Laser Printers,LATAM,Major Banks,Sanjay Shah,Colombia,$1200
+Electronics,Laser Printers,LATAM,Telecommunications Equipment,Sanjay Shah,Colombia,$1200
+Electronics,Laser Printers,North America,Electric Utilities: Central,Julian Isla,US-NORTHEAST,$1200
+Electronics,Laser Printers,North America,Oil & Gas Production,Alan Steiner,Canada,$1200
+Electronics,Laser Printers,North America,Oil & Gas Production,David So,US-SOUTH,$1200
+Electronics,Laser Printers,North America,Oil & Gas Production,Eric Gruber,US-MIDWEST,$1200
+Electronics,Laser Printers,North America,Oilfield Services/Equipment,Molly Clark,Mexico,$1200
+Electronics,Scanners,North America,Major Banks,Spencer Low,US-SOUTH,$1200
+Electronics,Scanners,North America,Oilfield Services/Equipment,Molly Clark,US-SOUTH,$1200
+Electronics,Webcams,EMEA,Air Freight/Delivery Services,Anne Weiler,France,$1200
+Electronics,Webcams,EMEA,Major Pharmaceuticals,Anne Weiler,United Kingdom,$1200
+Electronics,Webcams,LATAM,Major Banks,Greg Winston,Brazil,$1200
+Electronics,Webcams,LATAM,,Sanjay Shah,Colombia,$1200
+Electronics,Webcams,North America,Biotechnology: Commercial Physical & Biological Resarch,Alan Steiner,Canada,$1200
+Electronics,Webcams,North America,Major Pharmaceuticals,Spencer Low,US-SOUTH,$1200
+Electronics,Webcams,North America,Medical/Dental Instruments,Eric Gruber,US-MIDWEST,$1200
+Electronics,Webcams,North America,Real Estate Investment Trusts,Alan Steiner,Canada,$1200
+Electronics,Webcams,North America,Specialty Foods,Julian Isla,US-NORTHEAST,$1200
+Electronics,Webcams,North America,Transportation Services,Eric Gruber,US-MIDWEST,$1200
+Furniture,Ergonomic Seating,North America,Medical/Nursing Services,Alan Steiner,Canada,$1200
+Furniture,Ergonomic Seating,North America,Specialty Foods,David So,US-SOUTH,$1200
+Computers,Desktops,EMEA,Restaurants,Anne Weiler,United Kingdom,$1100
+Computers,Desktops,LATAM,Major Banks,Sanjay Shah,Peru,$1100
+Computers,Desktops,LATAM,Oilfield Services/Equipment,Sanjay Shah,Costa Rica,$1100
+Computers,Desktops,LATAM,Telecommunications Equipment,Greg Winston,Chile,$1100
+Computers,Desktops,North America,Automotive Aftermarket,Molly Clark,US-SOUTH,$1100
+Computers,Desktops,North America,Business Services,Molly Clark,US-WEST,$1100
+Computers,Desktops,North America,Hospital/Nursing Management,Alan Steiner,Canada,$1100
+Computers,Desktops,North America,Oilfield Services/Equipment,Molly Clark,Mexico,$1100
+Electronics,Laser Printers,EMEA,Business Services,Anne Weiler,South Africa,$1100
+Electronics,Laser Printers,EMEA,Hospital/Nursing Management,Anne Weiler,United Kingdom,$1100
+Electronics,Laser Printers,LATAM,Telecommunications Equipment,Greg Winston,Chile,$1100
+Electronics,Laser Printers,North America,Computer Manufacturing,Eric Gruber,US-MIDWEST,$1100
+Electronics,Laser Printers,North America,Computer Software: Prepackaged Software,Molly Clark,US-WEST,$1100
+Electronics,Laser Printers,North America,Real Estate Investment Trusts,Eric Gruber,US-MIDWEST,$1100
+Electronics,Scanners,APAC,Automotive Aftermarket,Renee Lo,Australia,$1100
+Electronics,Scanners,North America,Precious Metals,Julian Isla,US-NORTHEAST,$1100
+Electronics,Webcams,EMEA,Major Pharmaceuticals,Anne Weiler,Netherlands,$1100
+Electronics,Webcams,EMEA,,Anne Weiler,United Kingdom,$1100
+Electronics,Webcams,North America,Investment Managers,Alan Steiner,Canada,$1100
+Furniture,Ergonomic Seating,EMEA,Integrated oil Companies,Anne Weiler,France,$1100
+Computers,Desktops,EMEA,,Anne Weiler,United Kingdom,$1000
+Computers,Tablets,LATAM,Telecommunications Equipment,Sanjay Shah,Colombia,$1000
+Electronics,Laser Printers,APAC,,Renee Lo,Japan,$1000
+Electronics,Laser Printers,APAC,Transportation Services,Renee Lo,Australia,$1000
+Electronics,Laser Printers,EMEA,Medical/Nursing Services,Anne Weiler,Russia,$1000
+Electronics,Laser Printers,North America,Food Distributors,Alicia Thomber,US-WEST,$1000
+Electronics,Laser Printers,North America,Major Banks,Molly Clark,US-SOUTH,$1000
+Electronics,Scanners,EMEA,Clothing/Shoe/Accessory Stores,Anne Weiler,Germany,$1000
+Electronics,Scanners,EMEA,,Anne Weiler,Finland,$1000
+Electronics,Scanners,North America,Oilfield Services/Equipment,Molly Clark,Mexico,$1000
+Electronics,Webcams,APAC,Investment Managers,Renee Lo,Thailand,$1000
+Electronics,Webcams,LATAM,,Sanjay Shah,Guatemala,$1000
+Electronics,Webcams,North America,Savings Institutions,Alicia Thomber,US-WEST,$1000
+Furniture,Ergonomic Seating,EMEA,Hospital/Nursing Management,Anne Weiler,United Kingdom,$1000
+Electronics,Scanners,North America,Air Freight/Delivery Services,Jeff Hay,US-MIDWEST,$900
+Electronics,Webcams,LATAM,Restaurants,Greg Winston,Argentina,$900
+Electronics,Webcams,LATAM,Telecommunications Equipment,Sanjay Shah,Colombia,$900
+Electronics,Webcams,North America,Clothing/Shoe/Accessory Stores,Alan Steiner,Canada,$900
+Electronics,Webcams,North America,Food Distributors,Alan Steiner,Canada,$900
+Electronics,Webcams,North America,Forest Products,Jeff Hay,US-MIDWEST,$900
+Electronics,Webcams,North America,Hospital/Nursing Management,Alan Steiner,Canada,$900
+Electronics,Webcams,North America,Life Insurance,Alan Steiner,Canada,$900
+Electronics,Webcams,North America,Marine Transportation,Molly Clark,US-SOUTH,$900
+Electronics,Webcams,North America,Medical/Dental Instruments,Alan Steiner,Canada,$900
+Electronics,Webcams,North America,Medical/Dental Instruments,Molly Clark,Mexico,$900
+Electronics,Webcams,North America,Oilfield Services/Equipment,Molly Clark,Mexico,$900
+Electronics,Webcams,North America,Ordnance And Accessories,Alan Steiner,Canada,$900
+Electronics,Webcams,North America,Real Estate,Jeff Hay,US-MIDWEST,$900
+Furniture,Ergonomic Seating,North America,Major Chemicals,Molly Clark,US-WEST,$900
+Electronics,Scanners,LATAM,Telecommunications Equipment,Sanjay Shah,Colombia,$800
+Electronics,Scanners,North America,Major Chemicals,Jeff Hay,US-MIDWEST,$800
+Electronics,Scanners,North America,Real Estate Investment Trusts,Julian Isla,US-NORTHEAST,$800
+Electronics,Webcams,EMEA,Packaged Foods,Anne Weiler,France,$800
+Electronics,Webcams,LATAM,Computer Software: Prepackaged Software,Sanjay Shah,Panama,$800
+Electronics,Webcams,LATAM,EDP Services,Sanjay Shah,Colombia,$800
+Electronics,Webcams,LATAM,Real Estate Investment Trusts,Sanjay Shah,Peru,$800
+Electronics,Webcams,North America,Major Banks,Spencer Low,US-SOUTH,$800
+Electronics,Webcams,North America,Packaged Foods,Jeff Hay,US-MIDWEST,$800
+Electronics,Webcams,North America,Property-Casualty Insurers,Alan Steiner,Canada,$800
+Electronics,Webcams,North America,Property-Casualty Insurers,Alicia Thomber,US-WEST,$800
+Furniture,Ergonomic Seating,LATAM,Integrated oil Companies,Sanjay Shah,Colombia,$800
+Furniture,Ergonomic Seating,LATAM,Major Pharmaceuticals,Greg Winston,Argentina,$800
+Electronics,Webcams,LATAM,Major Pharmaceuticals,Greg Winston,Brazil,$700
+Electronics,Webcams,LATAM,Medical Specialities,Sanjay Shah,Guatemala,$700
+Electronics,Webcams,North America,Air Freight/Delivery Services,Eric Gruber,US-MIDWEST,$700
+Electronics,Webcams,North America,Electric Utilities: Central,Spencer Low,US-SOUTH,$700
+Electronics,Webcams,North America,Oil & Gas Production,David So,US-SOUTH,$700
+Electronics,Webcams,North America,Restaurants,David So,US-SOUTH,$700
+Electronics,Scanners,North America,Oil/Gas Transmission,Molly Clark,US-SOUTH,$600
+Electronics,Webcams,EMEA,Medical/Nursing Services,Anne Weiler,France,$600
+Electronics,Webcams,EMEA,Oil & Gas Production,Anne Weiler,United Kingdom,$600
+Electronics,Webcams,North America,Integrated oil Companies,Eric Gruber,US-MIDWEST,$600
+Electronics,Webcams,North America,Investment Managers,Jeff Hay,US-MIDWEST,$600
+Electronics,Webcams,North America,Marine Transportation,Alan Steiner,Canada,$600
+Electronics,Webcams,North America,Savings Institutions,David So,US-SOUTH,$600
+Furniture,Ergonomic Seating,LATAM,Medical Specialities,Sanjay Shah,Guatemala,$600
+Electronics,Scanners,EMEA,Hospital/Nursing Management,Anne Weiler,United Kingdom,$500
+Electronics,Scanners,EMEA,,Anne Weiler,United Kingdom,$500
+Electronics,Webcams,APAC,Oil & Gas Production,Renee Lo,Australia,$500
+Electronics,Webcams,EMEA,Real Estate Investment Trusts,Anne Weiler,United Kingdom,$500
+Electronics,Webcams,EMEA,Telecommunications Equipment,Anne Weiler,Germany,$500
+Electronics,Webcams,LATAM,"Computer Software: Programming, Data Processing",Sanjay Shah,Colombia,$500
+Electronics,Webcams,LATAM,Telecommunications Equipment,Greg Winston,Chile,$500
+Electronics,Webcams,North America,Air Freight/Delivery Services,Jeff Hay,US-MIDWEST,$500
+Electronics,Webcams,North America,Automotive Aftermarket,Molly Clark,US-SOUTH,$500
+Electronics,Webcams,North America,Electric Utilities: Central,Julian Isla,US-NORTHEAST,$500
+Electronics,Webcams,North America,Food Distributors,David So,US-SOUTH,$500
+Electronics,Webcams,North America,Hospital/Nursing Management,Molly Clark,Mexico,$500
+Electronics,Webcams,North America,Major Banks,Molly Clark,US-SOUTH,$500
+Electronics,Webcams,North America,Oilfield Services/Equipment,Jeff Hay,US-MIDWEST,$500
+Electronics,Webcams,North America,Restaurants,Alan Steiner,Canada,$500
+Electronics,Webcams,EMEA,Food Distributors,Anne Weiler,France,$400
+Electronics,Webcams,EMEA,Hospital/Nursing Management,Anne Weiler,Germany,$400
+Electronics,Webcams,EMEA,Medical/Nursing Services,Anne Weiler,Russia,$400
+Electronics,Webcams,North America,Biotechnology: Commercial Physical & Biological Resarch,Eric Gruber,US-MIDWEST,$400
+Electronics,Webcams,North America,Major Chemicals,Jeff Hay,US-MIDWEST,$400
+Electronics,Webcams,North America,Real Estate Investment Trusts,David So,US-SOUTH,$400
+Electronics,Webcams,North America,Transportation Services,David So,US-SOUTH,$400
+Electronics,Webcams,APAC,Property-Casualty Insurers,Renee Lo,Japan,$300
+Electronics,Webcams,EMEA,Restaurants,Anne Weiler,United Kingdom,$300
+Electronics,Webcams,North America,Major Pharmaceuticals,Eric Gruber,US-MIDWEST,$300
+Electronics,Webcams,North America,Oil/Gas Transmission,Eric Gruber,US-MIDWEST,$300
+Electronics,Webcams,North America,Oil/Gas Transmission,Molly Clark,US-SOUTH,$300
+Electronics,Webcams,North America,Oilfield Services/Equipment,Molly Clark,US-SOUTH,$300
+Electronics,Webcams,North America,Precious Metals,Jeff Hay,US-MIDWEST,$300
+Electronics,Webcams,EMEA,Clothing/Shoe/Accessory Stores,Anne Weiler,Germany,$200
+Electronics,Webcams,EMEA,Real Estate Investment Trusts,Anne Weiler,Sweden,$200
+Electronics,Webcams,EMEA,Business Services,Anne Weiler,South Africa,$100
+Electronics,Webcams,EMEA,Major Chemicals,Anne Weiler,United Arab Emirates,$100
+Electronics,Webcams,EMEA,Precious Metals,Anne Weiler,France,$100
+Electronics,Webcams,LATAM,Major Banks,Sanjay Shah,Colombia,$100
+Electronics,Webcams,LATAM,Oilfield Services/Equipment,Sanjay Shah,Panama,$100

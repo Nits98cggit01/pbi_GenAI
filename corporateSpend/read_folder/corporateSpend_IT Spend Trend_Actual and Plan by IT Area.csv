@@ -1,0 +1,26 @@
+,IT Area,IT Sub Area,Actual,Plan
+0,Infrastructure,Productivity,$8289687,$6969807
+1,BU Support,Manufacturing,$6208613,$5997870
+2,Infrastructure,Networking,$3593673,$3169951
+3,Infrastructure,Data Centers,$2235533,$3624070
+4,Functional,R2,$2188511,$3036563
+5,Functional,R1,$1982560,$2383815
+6,Governance,GRC,$1784813,$1999146
+7,Functional,R3,$1576645,$912610
+8,BU Support,Distribution,$1447760,$1031255
+9,BU Support,R&D,$1205115,$1281972
+10,Infrastructure,Help Desk,$734766,$138025
+11,BU Support,Planning,$509556,$445123
+12,Enablement,Mobility,$360314,$17316
+13,BU Support,Development,$313506,$230650
+14,Governance,Administration,$222665,($365769)
+15,Infrastructure,Core Infrastructure,$196112,
+16,Enablement,Enterprise Capabilities,$177603,$220827
+17,Enablement,Data Management,$131751,$96541
+18,Infrastructure,Hosting,$111170,
+19,Enablement,EIM,$95801,$113781
+20,Enablement,Innovation,$78212,$46978
+21,BU Support,Emerging,$76971,
+22,Governance,Other,$6208,
+23,BU Support,Production,,$47250
+24,BU Support,Core,($4),

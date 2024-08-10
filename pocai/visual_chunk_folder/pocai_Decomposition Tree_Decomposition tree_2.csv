@@ -1,0 +1,216 @@
+Product category,Product,Region,Industry,Sales owner,Territory,Sales Opportunity
+Software,Design app,North America,,Alan Steiner,Canada,$35800
+Software,Mobile app,LATAM,,Greg Winston,Brazil,$35800
+Software,Design app,APAC,Automotive Aftermarket,Renee Lo,Australia,$35700
+Software,Design app,LATAM,"Computer Software: Programming, Data Processing",Greg Winston,Argentina,$35700
+Computers,All-in-One,EMEA,Oilfield Services/Equipment,Anne Weiler,France,$35600
+Furniture,Stand-up Desks,LATAM,,Greg Winston,Chile,$35500
+Software,Mobile app,North America,Major Chemicals,Eric Gruber,US-MIDWEST,$35400
+Computers,All-in-One,North America,,Alicia Thomber,US-WEST,$35300
+Computers,All-in-One,North America,Real Estate Investment Trusts,Molly Clark,US-SOUTH,$35300
+Computers,Tablets,EMEA,Real Estate Investment Trusts,Anne Weiler,France,$35100
+Software,Design app,LATAM,Home Furnishings,Sanjay Shah,Colombia,$35000
+Software,Design app,North America,Automotive Aftermarket,Molly Clark,US-SOUTH,$34900
+Computers,Tablets,North America,Hospital/Nursing Management,David So,US-SOUTH,$34700
+Computers,Tablets,LATAM,Major Pharmaceuticals,Greg Winston,Argentina,$34600
+Computers,Tablets,North America,Real Estate,Molly Clark,US-SOUTH,$34300
+Furniture,Stand-up Desks,North America,Industrial Machinery/Components,David So,US-SOUTH,$34300
+Computers,Tablets,LATAM,Life Insurance,Greg Winston,Brazil,$34200
+Software,Mobile app,LATAM,Computer Software: Prepackaged Software,Greg Winston,Brazil,$34000
+Computers,All-in-One,North America,Forest Products,Julian Isla,US-NORTHEAST,$33900
+Software,Design app,North America,Recreational Products/Toys,Alan Steiner,Canada,$33700
+Computers,All-in-One,North America,Real Estate,Molly Clark,US-SOUTH,$33400
+Software,Design app,LATAM,Telecommunications Equipment,Greg Winston,Chile,$33300
+Furniture,Stand-up Desks,LATAM,Computer Software: Prepackaged Software,Greg Winston,Brazil,$33200
+Software,Mobile app,North America,Computer Manufacturing,Eric Gruber,US-MIDWEST,$33100
+Software,Design app,LATAM,Marine Transportation,Greg Winston,Brazil,$32900
+Computers,Tablets,North America,Air Freight/Delivery Services,Molly Clark,US-SOUTH,$32800
+Computers,Tablets,North America,Paper,Eric Gruber,US-MIDWEST,$32700
+Computers,Desktops,North America,,David So,US-SOUTH,$32600
+Computers,Tablets,North America,Industrial Machinery/Components,David So,US-SOUTH,$32600
+Computers,Tablets,North America,Computer Software: Prepackaged Software,David So,US-SOUTH,$32500
+Software,Mobile app,North America,Property-Casualty Insurers,Molly Clark,US-WEST,$32500
+Furniture,Stand-up Desks,North America,,Molly Clark,US-SOUTH,$32300
+Furniture,Ergonomic Seating,North America,,Spencer Low,US-SOUTH,$32200
+Furniture,Stand-up Desks,North America,Savings Institutions,Spencer Low,US-SOUTH,$32000
+Software,Design app,North America,Food Distributors,Alicia Thomber,US-WEST,$31800
+Software,Mobile app,LATAM,Business Services,Greg Winston,Argentina,$31600
+Software,Mobile app,North America,Real Estate,Molly Clark,US-SOUTH,$31600
+Computers,Tablets,North America,Property-Casualty Insurers,Molly Clark,US-WEST,$31500
+Computers,Tablets,North America,Marine Transportation,David So,US-SOUTH,$31400
+Software,Mobile app,LATAM,Marine Transportation,Greg Winston,Brazil,$31300
+Software,Mobile app,North America,,Alan Steiner,Canada,$31300
+Software,Mobile app,North America,Oil & Gas Production,Eric Gruber,US-MIDWEST,$31200
+Software,Design app,North America,Major Pharmaceuticals,Eric Gruber,US-MIDWEST,$31100
+Computers,All-in-One,LATAM,,Greg Winston,Brazil,$31000
+Computers,Tablets,North America,Oil/Gas Transmission,Molly Clark,US-WEST,$31000
+Furniture,Stand-up Desks,APAC,,Renee Lo,New Zealand,$30900
+Software,Design app,North America,Savings Institutions,Alicia Thomber,US-WEST,$30900
+Computers,All-in-One,North America,,Alan Steiner,Canada,$30800
+Computers,Tablets,LATAM,,Greg Winston,Chile,$30800
+Software,Design app,North America,Marine Transportation,Molly Clark,US-SOUTH,$30800
+Software,Mobile app,LATAM,Restaurants,Greg Winston,Argentina,$30700
+Computers,All-in-One,LATAM,Major Pharmaceuticals,Greg Winston,Brazil,$30600
+Computers,All-in-One,North America,Paper,Eric Gruber,US-MIDWEST,$30500
+Software,Design app,North America,Transportation Services,Julian Isla,US-NORTHEAST,$30500
+Software,Design app,North America,Telecommunications Equipment,Alicia Thomber,US-WEST,$30400
+Software,Mobile app,North America,,Alicia Thomber,US-WEST,$30400
+Furniture,Stand-up Desks,North America,Major Pharmaceuticals,Alicia Thomber,US-WEST,$30100
+Software,Design app,North America,Major Banks,Molly Clark,US-SOUTH,$30100
+Computers,Tablets,North America,Major Pharmaceuticals,Alicia Thomber,US-WEST,$30000
+Software,Design app,North America,Electric Utilities: Central,Spencer Low,US-SOUTH,$30000
+Software,Mobile app,North America,Business Services,Molly Clark,US-SOUTH,$30000
+Computers,Tablets,North America,Major Pharmaceuticals,Julian Isla,US-NORTHEAST,$29900
+Software,Design app,North America,Oilfield Services/Equipment,Julian Isla,US-NORTHEAST,$29900
+Computers,All-in-One,North America,Food Distributors,Molly Clark,US-WEST,$29800
+Computers,Tablets,North America,Major Chemicals,Molly Clark,US-SOUTH,$29800
+Computers,All-in-One,North America,Major Pharmaceuticals,David So,US-SOUTH,$29700
+Furniture,Ergonomic Seating,North America,Computer Software: Prepackaged Software,Alicia Thomber,US-WEST,$29700
+Software,Design app,LATAM,,Greg Winston,Argentina,$29600
+Computers,Tablets,North America,Real Estate Investment Trusts,Spencer Low,US-SOUTH,$29300
+Furniture,Stand-up Desks,North America,Computer Software: Prepackaged Software,Molly Clark,US-WEST,$29000
+Furniture,Stand-up Desks,North America,Other Specialty Stores,David So,US-SOUTH,$29000
+Software,Design app,LATAM,Major Pharmaceuticals,Greg Winston,Argentina,$29000
+Computers,All-in-One,North America,Industrial Machinery/Components,Spencer Low,US-SOUTH,$28900
+Software,Design app,North America,Oilfield Services/Equipment,Molly Clark,Mexico,$28700
+Software,Mobile app,LATAM,Life Insurance,Greg Winston,Chile,$28600
+Software,Mobile app,LATAM,Major Banks,Greg Winston,Brazil,$28500
+Furniture,Stand-up Desks,North America,Oil & Gas Production,Eric Gruber,US-MIDWEST,$28400
+Software,Mobile app,North America,Major Chemicals,Molly Clark,US-SOUTH,$28300
+Computers,Tablets,North America,Precious Metals,David So,US-SOUTH,$28200
+Furniture,Stand-up Desks,North America,Diversified Commercial Services,Alicia Thomber,US-WEST,$28200
+Software,Mobile app,North America,Recreational Products/Toys,Alan Steiner,Canada,$28200
+Computers,All-in-One,North America,Major Pharmaceuticals,Eric Gruber,US-MIDWEST,$28100
+Computers,All-in-One,North America,Medical/Nursing Services,David So,US-SOUTH,$28100
+Computers,All-in-One,North America,Oil & Gas Production,Molly Clark,US-SOUTH,$28100
+Software,Design app,APAC,Transportation Services,Renee Lo,Australia,$28100
+Software,Design app,LATAM,Major Banks,Sanjay Shah,Colombia,$28100
+Furniture,Stand-up Desks,North America,Medical Specialities,Eric Gruber,US-MIDWEST,$28000
+Software,Design app,North America,Property-Casualty Insurers,Alicia Thomber,US-WEST,$28000
+Software,Design app,North America,Real Estate Investment Trusts,Julian Isla,US-NORTHEAST,$28000
+Software,Design app,APAC,Precious Metals,Renee Lo,Australia,$27900
+Software,Mobile app,LATAM,Major Pharmaceuticals,Greg Winston,Argentina,$27900
+Furniture,Ergonomic Seating,North America,Major Pharmaceuticals,Jeff Hay,US-MIDWEST,$27800
+Electronics,Laser Printers,North America,,Alicia Thomber,US-WEST,$27700
+Software,Design app,North America,Property-Casualty Insurers,Molly Clark,Mexico,$27700
+Computers,Tablets,North America,Industrial Machinery/Components,Molly Clark,US-WEST,$27600
+Computers,Tablets,North America,Other Specialty Stores,David So,US-SOUTH,$27500
+Software,Mobile app,LATAM,Industrial Machinery/Components,Greg Winston,Chile,$27500
+Software,Design app,North America,Paper,Eric Gruber,US-MIDWEST,$27400
+Computers,All-in-One,LATAM,Marine Transportation,Greg Winston,Brazil,$27300
+Furniture,Ergonomic Seating,North America,Oil & Gas Production,Alicia Thomber,US-WEST,$27300
+Computers,Tablets,LATAM,Marine Transportation,Greg Winston,Brazil,$27200
+Furniture,Stand-up Desks,EMEA,,Anne Weiler,Finland,$27200
+Computers,Tablets,North America,Major Chemicals,Eric Gruber,US-MIDWEST,$26700
+Computers,Tablets,North America,Medical/Nursing Services,David So,US-SOUTH,$26700
+Software,Mobile app,LATAM,,Greg Winston,Argentina,$26700
+Computers,All-in-One,LATAM,Industrial Machinery/Components,Greg Winston,Chile,$26600
+Furniture,Stand-up Desks,North America,Real Estate,Alicia Thomber,US-WEST,$26600
+Computers,All-in-One,North America,Marine Transportation,David So,US-SOUTH,$26500
+Furniture,Stand-up Desks,LATAM,Business Services,Greg Winston,Argentina,$26500
+Furniture,Stand-up Desks,North America,Major Chemicals,Molly Clark,US-SOUTH,$26500
+Software,Design app,EMEA,Real Estate Investment Trusts,Anne Weiler,United Kingdom,$26500
+Furniture,Stand-up Desks,North America,Major Chemicals,Eric Gruber,US-MIDWEST,$26400
+Furniture,Stand-up Desks,North America,Oil/Gas Transmission,Molly Clark,US-WEST,$26300
+Computers,All-in-One,North America,Business Services,Molly Clark,US-SOUTH,$25800
+Software,Design app,APAC,Property-Casualty Insurers,Renee Lo,Japan,$25800
+Software,Mobile app,LATAM,Life Insurance,Greg Winston,Brazil,$25800
+Computers,Tablets,LATAM,Telecommunications Equipment,Greg Winston,Chile,$25600
+Computers,Tablets,North America,Medical Specialities,Eric Gruber,US-MIDWEST,$25600
+Computers,Tablets,North America,Oil & Gas Production,Alicia Thomber,US-WEST,$25500
+Furniture,Stand-up Desks,North America,Major Banks,Spencer Low,US-SOUTH,$25500
+Software,Design app,North America,Oilfield Services/Equipment,Molly Clark,US-SOUTH,$25400
+Computers,Desktops,North America,,Alicia Thomber,US-WEST,$25300
+Software,Design app,North America,Clothing/Shoe/Accessory Stores,Julian Isla,US-NORTHEAST,$25300
+Computers,Tablets,LATAM,"Computer Software: Programming, Data Processing",Greg Winston,Argentina,$25200
+Software,Mobile app,North America,Oil/Gas Transmission,Molly Clark,US-WEST,$25200
+Electronics,Scanners,North America,Major Pharmaceuticals,Molly Clark,US-SOUTH,$25000
+Software,Mobile app,North America,Industrial Machinery/Components,Spencer Low,US-SOUTH,$25000
+Software,Design app,North America,Computer Software: Prepackaged Software,Molly Clark,US-SOUTH,$24900
+Computers,All-in-One,North America,Medical/Dental Instruments,Alan Steiner,Canada,$24800
+Software,Design app,North America,Major Chemicals,Molly Clark,Mexico,$24600
+Software,Mobile app,North America,Hospital/Nursing Management,Alan Steiner,Canada,$24500
+Computers,All-in-One,North America,Major Pharmaceuticals,Alicia Thomber,US-WEST,$24400
+Computers,Tablets,LATAM,Industrial Machinery/Components,Greg Winston,Chile,$24300
+Electronics,Laser Printers,North America,,Jeff Hay,US-MIDWEST,$24300
+Furniture,Ergonomic Seating,North America,Industrial Machinery/Components,David So,US-SOUTH,$24200
+Software,Design app,North America,Major Chemicals,David So,US-SOUTH,$24200
+Furniture,Stand-up Desks,North America,Real Estate,Molly Clark,US-SOUTH,$24100
+Software,Design app,EMEA,Telecommunications Equipment,Anne Weiler,France,$24100
+Software,Mobile app,North America,Major Pharmaceuticals,Eric Gruber,US-MIDWEST,$24100
+Computers,Tablets,LATAM,Home Furnishings,Sanjay Shah,Colombia,$24000
+Computers,Tablets,LATAM,Computer Software: Prepackaged Software,Greg Winston,Brazil,$23900
+Computers,Tablets,North America,Computer Software: Prepackaged Software,Molly Clark,US-WEST,$23800
+Computers,Tablets,North America,Oil & Gas Production,Alan Steiner,Canada,$23800
+Software,Mobile app,LATAM,Packaged Foods,Greg Winston,Argentina,$23800
+Computers,Tablets,EMEA,Medical/Nursing Services,Anne Weiler,Russia,$23700
+Computers,Tablets,North America,Real Estate,Alicia Thomber,US-WEST,$23700
+Furniture,Stand-up Desks,North America,Oil & Gas Production,Molly Clark,US-SOUTH,$23600
+Furniture,Ergonomic Seating,North America,,Jeff Hay,US-MIDWEST,$23500
+Software,Design app,APAC,Oil & Gas Production,Renee Lo,Australia,$23500
+Software,Design app,EMEA,Packaged Foods,Anne Weiler,France,$23400
+Computers,Desktops,North America,Major Pharmaceuticals,Molly Clark,US-SOUTH,$23300
+Software,Mobile app,North America,Home Furnishings,Julian Isla,US-NORTHEAST,$23300
+Computers,Tablets,North America,Computer Manufacturing,Eric Gruber,US-MIDWEST,$23200
+Computers,All-in-One,North America,Integrated oil Companies,Spencer Low,US-SOUTH,$23100
+Software,Design app,EMEA,Telecommunications Equipment,Anne Weiler,Germany,$23100
+Furniture,Stand-up Desks,EMEA,Forest Products,Anne Weiler,France,$23000
+Furniture,Stand-up Desks,North America,Air Freight/Delivery Services,Molly Clark,US-SOUTH,$22900
+Furniture,Stand-up Desks,North America,Major Pharmaceuticals,Jeff Hay,US-MIDWEST,$22900
+Furniture,Stand-up Desks,North America,Real Estate Investment Trusts,Eric Gruber,US-MIDWEST,$22900
+Software,Design app,North America,Savings Institutions,David So,US-SOUTH,$22900
+Software,Design app,North America,Savings Institutions,Spencer Low,US-SOUTH,$22900
+Software,Mobile app,North America,Real Estate Investment Trusts,Molly Clark,US-SOUTH,$22900
+Computers,All-in-One,North America,Hospital/Nursing Management,David So,US-SOUTH,$22800
+Computers,Tablets,LATAM,Packaged Foods,Greg Winston,Argentina,$22800
+Software,Mobile app,LATAM,Telecommunications Equipment,Greg Winston,Chile,$22800
+Computers,Tablets,EMEA,Forest Products,Anne Weiler,France,$22700
+Furniture,Stand-up Desks,North America,Air Freight/Delivery Services,Alan Steiner,Canada,$22700
+Software,Design app,LATAM,Restaurants,Greg Winston,Argentina,$22700
+Furniture,Stand-up Desks,North America,Major Pharmaceuticals,David So,US-SOUTH,$22600
+Furniture,Stand-up Desks,North America,,Alan Steiner,Canada,$22600
+Software,Mobile app,North America,Industrial Machinery/Components,Molly Clark,US-WEST,$22500
+Software,Mobile app,North America,Major Banks,Alan Steiner,Canada,$22500
+Software,Design app,North America,Oil/Gas Transmission,Eric Gruber,US-MIDWEST,$22200
+Software,Design app,North America,Specialty Foods,Julian Isla,US-NORTHEAST,$22200
+Computers,Tablets,LATAM,,Greg Winston,Argentina,$22100
+Software,Design app,North America,Recreational Products/Toys,Molly Clark,US-WEST,$22100
+Computers,Tablets,LATAM,Major Banks,Greg Winston,Argentina,$22000
+Furniture,Stand-up Desks,LATAM,Home Furnishings,Sanjay Shah,Colombia,$21900
+Furniture,Stand-up Desks,North America,Computer Software: Prepackaged Software,David So,US-SOUTH,$21900
+Software,Design app,EMEA,Major Pharmaceuticals,Anne Weiler,Netherlands,$21900
+Computers,All-in-One,North America,,Spencer Low,US-SOUTH,$21800
+Computers,Desktops,North America,Major Pharmaceuticals,Molly Clark,US-WEST,$21800
+Electronics,Webcams,North America,,Alicia Thomber,US-WEST,$21800
+Software,Design app,North America,Oilfield Services/Equipment,Alan Steiner,Canada,$21800
+Software,Mobile app,North America,Food Distributors,Molly Clark,US-WEST,$21800
+Furniture,Ergonomic Seating,EMEA,Recreational Products/Toys,Anne Weiler,France,$21700
+Software,Design app,EMEA,Restaurants,Anne Weiler,United Kingdom,$21700
+Computers,Desktops,North America,,Jeff Hay,US-MIDWEST,$21600
+Electronics,Laser Printers,North America,Major Pharmaceuticals,Alicia Thomber,US-WEST,$21600
+Computers,All-in-One,North America,Business Services,Alicia Thomber,US-WEST,$21500
+Computers,All-in-One,North America,Recreational Products/Toys,Alan Steiner,Canada,$21500
+Computers,Tablets,North America,Major Pharmaceuticals,Jeff Hay,US-MIDWEST,$21400
+Software,Design app,North America,Air Freight/Delivery Services,Eric Gruber,US-MIDWEST,$21300
+Software,Design app,North America,Clothing/Shoe/Accessory Stores,Alan Steiner,Canada,$21300
+Computers,Tablets,LATAM,Life Insurance,Greg Winston,Chile,$21200
+Furniture,Ergonomic Seating,North America,Industrial Machinery/Components,Spencer Low,US-SOUTH,$21200
+Furniture,Stand-up Desks,North America,Major Banks,Alan Steiner,Canada,$21200
+Software,Design app,North America,Precious Metals,Julian Isla,US-NORTHEAST,$21200
+Software,Mobile app,North America,Industrial Machinery/Components,David So,US-SOUTH,$21100
+Software,Mobile app,North America,Major Pharmaceuticals,David So,US-SOUTH,$21100
+Computers,All-in-One,LATAM,Telecommunications Equipment,Greg Winston,Chile,$20800
+Computers,All-in-One,North America,"Computer Software: Programming, Data Processing",Eric Gruber,US-MIDWEST,$20800
+Furniture,Stand-up Desks,LATAM,Industrial Machinery/Components,Greg Winston,Chile,$20800
+Computers,Tablets,North America,Forest Products,Julian Isla,US-NORTHEAST,$20700
+Computers,Tablets,North America,Oil & Gas Production,Molly Clark,US-SOUTH,$20700
+Furniture,Stand-up Desks,North America,Major Banks,David So,US-SOUTH,$20700
+Software,Design app,North America,Major Chemicals,Molly Clark,US-WEST,$20700
+Software,Mobile app,North America,,Jeff Hay,US-MIDWEST,$20700
+Furniture,Ergonomic Seating,North America,Marine Transportation,David So,US-SOUTH,$20600
+Computers,All-in-One,EMEA,Recreational Products/Toys,Anne Weiler,France,$20500
+Computers,All-in-One,North America,,Molly Clark,US-SOUTH,$20500
+Software,Mobile app,North America,Real Estate Investment Trusts,Eric Gruber,US-MIDWEST,$20500
+Software,Design app,EMEA,Major Chemicals,Anne Weiler,France,$20400
+Computers,Desktops,APAC,Major Pharmaceuticals,Renee Lo,China,$20300
+Computers,Tablets,LATAM,Major Banks,Greg Winston,Brazil,$20300

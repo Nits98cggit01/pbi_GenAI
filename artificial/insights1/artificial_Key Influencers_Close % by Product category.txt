@@ -1,0 +1,15 @@
+Report Name: artificial
+Page Name: Key Influencers
+Visual Name: Close % by Product category
+
+Insights:
+Columns: Close %, Product category
+
+Count of unique Close % and Product category combinations:
+
+Close % Product category  Count
+  53.1%      Electronics      1
+  64.4%         Software      1
+  71.2%        Furniture      1
+  75.6%        Computers      1
+

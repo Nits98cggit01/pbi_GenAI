@@ -1,0 +1,9 @@
+Report Name: corporateSpend
+Page Name: Plan Variance Analysis
+Visual Name: Var LE3 %
+
+Insights:
+Single Column: Var LE3 %
+
+This csv contains only 1 entry that is Var LE3 % and the value is 3.65%
+

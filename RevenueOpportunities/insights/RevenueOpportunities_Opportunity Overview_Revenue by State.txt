@@ -1,0 +1,30 @@
+Report Name: RevenueOpportunities
+Page Name: Opportunity Overview
+Visual Name: Revenue by State
+
+Insights:
+Columns: State, Revenue
+
+Sum of Revenue grouped by State:
+
+         State     Revenue
+    California 116331542.0
+       Florida  30750119.0
+       Georgia 129124564.0
+      Illinois  73329707.0
+          Iowa 156543230.0
+        Kansas 139705491.0
+         Maine  51715421.0
+     Minnesota  55242656.0
+      Nebraska 140687095.0
+        Nevada  74981830.0
+      New York 259277278.0
+North Carolina 106863412.0
+        Oregon 120345357.0
+  Pennsylvania  68037156.0
+         Texas 134517603.0
+      Virginia  97742943.0
+    Washington  92831417.0
+ West Virginia  96732220.0
+     Wisconsin  23491898.0
+

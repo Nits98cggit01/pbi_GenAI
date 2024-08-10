@@ -1,0 +1,85 @@
+,Period,Business Area,Actual
+0,12,Infrastructure,$15527462
+1,11,Infrastructure,$13673655
+2,10,Infrastructure,$12277094
+3,9,Infrastructure,$11060446
+4,8,Infrastructure,$9534671
+5,7,Infrastructure,$8434070
+6,6,Infrastructure,$6953902
+7,12,Manufacturing,$6208613
+8,11,Manufacturing,$5563762
+9,5,Infrastructure,$5543072
+10,12,BU,$5083931
+11,10,Manufacturing,$5080667
+12,9,Manufacturing,$4567634
+13,11,BU,$4530163
+14,4,Infrastructure,$4231853
+15,8,Manufacturing,$4123015
+16,10,BU,$4024165
+17,7,Manufacturing,$3617999
+18,3,Infrastructure,$3544403
+19,9,BU,$3480934
+20,8,BU,$3107151
+21,6,Manufacturing,$3044166
+22,5,Manufacturing,$2646970
+23,7,BU,$2566767
+24,6,BU,$2229896
+25,12,Office & Administrative,$2188511
+26,11,Office & Administrative,$2056949
+27,12,R&D,$2028178
+28,12,Distribution,$2007478
+29,4,Manufacturing,$2004809
+30,2,Infrastructure,$1976793
+31,10,Office & Administrative,$1865598
+32,11,Distribution,$1863421
+33,11,R&D,$1827169
+34,5,BU,$1765223
+35,9,Office & Administrative,$1713129
+36,10,Distribution,$1678473
+37,10,R&D,$1668941
+38,3,Manufacturing,$1648623
+39,8,Office & Administrative,$1554425
+40,9,Distribution,$1521749
+41,9,R&D,$1467968
+42,4,BU,$1393570
+43,8,Distribution,$1372967
+44,7,Office & Administrative,$1342266
+45,6,Office & Administrative,$1282325
+46,8,R&D,$1238231
+47,7,Distribution,$1192209
+48,7,R&D,$1134023
+49,2,Manufacturing,$1110712
+50,5,Office & Administrative,$1021423
+51,6,Distribution,$1009448
+52,6,R&D,$994081
+53,3,BU,$967490
+54,5,Distribution,$819708
+55,5,R&D,$788576
+56,4,Office & Administrative,$725580
+57,1,Infrastructure,$691531
+58,4,R&D,$666955
+59,1,Manufacturing,$598517
+60,2,BU,$596260
+61,4,Distribution,$559646
+62,3,Office & Administrative,$547540
+63,3,R&D,$531988
+64,12,Services,$483366
+65,11,Services,$425957
+66,3,Distribution,$416968
+67,10,Services,$367629
+68,2,R&D,$338614
+69,2,Office & Administrative,$327884
+70,9,Services,$326080
+71,8,Services,$281427
+72,7,Services,$247196
+73,5,Services,$239667
+74,1,BU,$218070
+75,2,Distribution,$203827
+76,6,Services,$198307
+77,2,Services,$188475
+78,4,Services,$183728
+79,1,Office & Administrative,$168829
+80,1,Services,$138533
+81,3,Services,$114160
+82,1,R&D,$112008
+83,1,Distribution,$93708

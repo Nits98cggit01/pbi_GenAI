@@ -1,0 +1,57 @@
+Report Name: RevenueOpportunities
+Page Name: Opportunity Overview
+Visual Name: Product Slicer
+
+Insights:
+Single Column: Product Code
+
+Abbas - 1
+
+Lacuna - 1
+
+Umbra - 1
+
+Talus - 1
+
+Sato - 1
+
+Recolo - 1
+
+Quanti - 1
+
+Paratus - 1
+
+Omins - 1
+
+Nimis - 1
+
+Maximus - 1
+
+Magis - 1
+
+Juvenis - 1
+
+Aqua - 1
+
+Ignis - 1
+
+Habitus - 1
+
+Gratus - 1
+
+Fatum - 1
+
+Eligo - 1
+
+Decimus - 1
+
+Carmen - 1
+
+Campana - 1
+
+Bellus - 1
+
+Basium - 1
+
+Vero - 1
+

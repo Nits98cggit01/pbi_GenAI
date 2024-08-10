@@ -1,0 +1,59 @@
+Report Name: corporateSpend
+Page Name: Plan Variance Analysis
+Visual Name: Matrix
+
+Insights:
+Categorical columns:
+Month, Business Area
+
+Numerical columns:
+Var Plan %
+
+Columns: Month
+ - Jan: 7
+ - Feb: 7
+ - Mar: 7
+ - Apr: 7
+ - May: 7
+ - Jun: 7
+ - Jul: 7
+ - Aug: 7
+ - Sep: 7
+ - Oct: 7
+ - Nov: 7
+ - Dec: 7
+
+Columns: Business Area
+ - BU: 12
+ - Distribution: 12
+ - Infrastructure: 12
+ - Manufacturing: 12
+ - Office & Administrative: 12
+ - R&D: 12
+ - Services: 12
+
+Numerical Insights for Var Plan % grouped by Month:
+Month  count     sum   mean     max     min
+  Apr      7 $-42.94 $-6.13   $7.88 $-29.05
+  Aug      7  $-7.54 $-1.08  $25.82 $-23.60
+  Dec      7  $30.94  $4.42  $22.90 $-27.93
+  Feb      7  $20.64  $2.95 $105.18 $-35.87
+  Jan      7  $35.16  $5.02 $201.63 $-42.91
+  Jul      7 $-15.02 $-2.15  $24.81 $-24.77
+  Jun      7 $-20.01 $-2.86  $23.21 $-20.29
+  Mar      7 $-47.40 $-6.77   $2.75 $-28.61
+  May      7  $-1.45 $-0.21  $20.11 $-20.09
+  Nov      7  $19.23  $2.75  $24.30 $-26.17
+  Oct      7   $4.49  $0.64  $23.13 $-26.42
+  Sep      7  $-2.00 $-0.29  $24.00 $-25.02
+
+Numerical Insights for Var Plan % grouped by Business Area:
+          Business Area  count      sum    mean     max     min
+                     BU     12  $-22.63  $-1.89  $16.21 $-40.14
+           Distribution     12  $137.18  $11.43  $25.82 $-30.64
+         Infrastructure     12  $-47.78  $-3.98  $11.55 $-42.91
+          Manufacturing     12  $-14.20  $-1.18   $5.31  $-9.23
+Office & Administrative     12 $-317.89 $-26.49 $-16.40 $-35.87
+                    R&D     12   $-7.24  $-0.60  $13.92 $-24.13
+               Services     12  $246.66  $20.55 $201.63 $-20.29
+

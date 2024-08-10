@@ -1,0 +1,151 @@
+Status,Purchase Process,Sales owner,Industry,Product,Value,Manager,Product category,Campaign Name,Discount
+Lost,Individual,Sanjay Shah,Major Banks,Stand-up Desks,$6300,"Low, Spencer",Furniture,,3.2%
+Lost,Individual,Sanjay Shah,Medical Specialities,All-in-One,$2500,"Low, Spencer",Computers,,1.1%
+Lost,Individual,Sanjay Shah,Medical Specialities,Laser Printers,$1100,"Low, Spencer",Electronics,Monthly Newsletter,2.6%
+Lost,Individual,Sanjay Shah,Medical Specialities,Mobile app,$2600,"Low, Spencer",Software,,1.1%
+Lost,Individual,Sanjay Shah,Medical Specialities,Scanners,$2900,"Low, Spencer",Electronics,,0.1%
+Lost,Individual,Sanjay Shah,Medical Specialities,Stand-up Desks,$2300,"Low, Spencer",Furniture,,3.1%
+Lost,Individual,Sanjay Shah,,All-in-One,$7100,"Low, Spencer",Computers,,1.2%
+Lost,Individual,Sanjay Shah,,Design app,$3600,"Low, Spencer",Software,,3.2%
+Lost,Individual,Sanjay Shah,,Desktops,$2100,"Low, Spencer",Computers,,3.6%
+Lost,Individual,Sanjay Shah,,Laser Printers,$2400,"Low, Spencer",Electronics,,2.2%
+Lost,Individual,Sanjay Shah,,Laser Printers,$1100,"Low, Spencer",Electronics,Monthly Newsletter,2.6%
+Lost,Individual,Sanjay Shah,,Mobile app,$11000,"Low, Spencer",Software,,1.2%
+Lost,Individual,Sanjay Shah,,Webcams,$1800,"Low, Spencer",Electronics,,3.2%
+Lost,Individual,Sanjay Shah,Oil & Gas Production,Mobile app,$2600,"Low, Spencer",Software,,1.1%
+Lost,Individual,Sanjay Shah,Oil & Gas Production,Mobile app,$2400,"Low, Spencer",Software,Customer Care Campaign,3.6%
+Lost,Individual,Sanjay Shah,Oil & Gas Production,Webcams,$100,"Low, Spencer",Electronics,,3.1%
+Lost,Individual,Sanjay Shah,Oilfield Services/Equipment,All-in-One,$3100,"Low, Spencer",Computers,,1.1%
+Lost,Individual,Sanjay Shah,Oilfield Services/Equipment,Design app,$11800,"Low, Spencer",Software,,3.1%
+Lost,Individual,Sanjay Shah,Oilfield Services/Equipment,Desktops,$2300,"Low, Spencer",Computers,,3.6%
+Lost,Individual,Sanjay Shah,Oilfield Services/Equipment,Ergonomic Seating,$3800,"Low, Spencer",Furniture,,3.6%
+Lost,Individual,Sanjay Shah,Real Estate Investment Trusts,All-in-One,$3800,"Low, Spencer",Computers,,1.2%
+Lost,Individual,Sanjay Shah,Real Estate Investment Trusts,Mobile app,$2600,"Low, Spencer",Software,,1.2%
+Lost,Individual,Sanjay Shah,Telecommunications Equipment,Design app,$6800,"Low, Spencer",Software,,3.2%
+Lost,Individual,Sanjay Shah,Telecommunications Equipment,Stand-up Desks,$10800,"Low, Spencer",Furniture,,3.2%
+Lost,Individual,Sanjay Shah,Telecommunications Equipment,Webcams,$700,"Low, Spencer",Electronics,,3.2%
+Lost,Individual,Sanjay Shah,Transportation Services,Design app,$3200,"Low, Spencer",Software,Monthly Newsletter,3.6%
+Lost,Individual,Sanjay Shah,Transportation Services,Scanners,$2500,"Low, Spencer",Electronics,,0.1%
+Lost,Individual,Sanjay Shah,Transportation Services,Scanners,$1300,"Low, Spencer",Electronics,Twitter,0.6%
+Lost,Individual,Spencer Low,"Computer Software: Programming, Data Processing",All-in-One,$16600,"Low, Spencer",Computers,,1.3%
+Lost,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Mobile app,$7600,"Low, Spencer",Software,,1.3%
+Lost,Individual,Spencer Low,Food Distributors,Mobile app,$5000,"Low, Spencer",Software,,1.3%
+Lost,Individual,Spencer Low,Industrial Machinery/Components,All-in-One,$22900,"Low, Spencer",Computers,,1.3%
+Lost,Individual,Spencer Low,Industrial Machinery/Components,Mobile app,$9300,"Low, Spencer",Software,,1.3%
+Lost,Individual,Spencer Low,Integrated oil Companies,Mobile app,$2000,"Low, Spencer",Software,,1.3%
+Lost,Individual,Spencer Low,Major Chemicals,All-in-One,$2500,"Low, Spencer",Computers,,1.3%
+Lost,Individual,Spencer Low,Major Chemicals,Mobile app,$2000,"Low, Spencer",Software,,1.3%
+Lost,Individual,Spencer Low,Major Chemicals,Scanners,$1800,"Low, Spencer",Electronics,,0.3%
+Lost,Individual,Spencer Low,Major Pharmaceuticals,All-in-One,$9200,"Low, Spencer",Computers,,1.3%
+Lost,Individual,Spencer Low,,All-in-One,$11600,"Low, Spencer",Computers,,1.3%
+Lost,Individual,Spencer Low,,Mobile app,$10200,"Low, Spencer",Software,,1.3%
+Lost,Individual,Spencer Low,,Scanners,$5200,"Low, Spencer",Electronics,,0.3%
+Lost,Individual,Spencer Low,,Scanners,$2800,"Low, Spencer",Electronics,Twitter,0.8%
+Lost,Individual,Spencer Low,Real Estate Investment Trusts,All-in-One,$3800,"Low, Spencer",Computers,,1.3%
+Lost,Individual,Spencer Low,Savings Institutions,All-in-One,$2500,"Low, Spencer",Computers,,1.3%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,All-in-One,$12300,"Weiler, Anne",Computers,,1.4%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,All-in-One,$2600,"Weiler, Anne",Computers,Consumer Tradeshow,2.8%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Design app,$3500,"Weiler, Anne",Software,,3.3%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Design app,$5700,"Weiler, Anne",Software,Customer Care Campaign,6.0%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Design app,$3800,"Weiler, Anne",Software,Customer Follow-up,6.0%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Design app,$9000,"Weiler, Anne",Software,Monthly Newsletter,3.9%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Desktops,$3200,"Weiler, Anne",Computers,,3.9%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Mobile app,$6300,"Weiler, Anne",Software,,1.4%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Stand-up Desks,$15000,"Weiler, Anne",Furniture,,3.3%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Tablets,$16800,"Weiler, Anne",Computers,,6.3%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Webcams,$900,"Weiler, Anne",Electronics,,3.4%
+Won,Individual,Alan Steiner,Air Freight/Delivery Services,Webcams,$1300,"Weiler, Anne",Electronics,Market Trends Newsletter,4.9%
+Won,Individual,Alan Steiner,Biotechnology: Commercial Physical & Biological Resarch,All-in-One,$5500,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Biotechnology: Commercial Physical & Biological Resarch,Design app,$3100,"Weiler, Anne",Software,,3.5%
+Won,Individual,Alan Steiner,Biotechnology: Commercial Physical & Biological Resarch,Desktops,$2700,"Weiler, Anne",Computers,,4.0%
+Won,Individual,Alan Steiner,Biotechnology: Commercial Physical & Biological Resarch,Ergonomic Seating,$1900,"Weiler, Anne",Furniture,Consumer Tradeshow,5.5%
+Won,Individual,Alan Steiner,Biotechnology: Commercial Physical & Biological Resarch,Mobile app,$4900,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Biotechnology: Commercial Physical & Biological Resarch,Stand-up Desks,$8700,"Weiler, Anne",Furniture,,3.5%
+Won,Individual,Alan Steiner,Biotechnology: Commercial Physical & Biological Resarch,Tablets,$1300,"Weiler, Anne",Computers,,6.5%
+Won,Individual,Alan Steiner,Clothing/Shoe/Accessory Stores,Design app,$11000,"Weiler, Anne",Software,,3.5%
+Won,Individual,Alan Steiner,Clothing/Shoe/Accessory Stores,Mobile app,$2400,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Clothing/Shoe/Accessory Stores,Tablets,$5000,"Weiler, Anne",Computers,,6.5%
+Won,Individual,Alan Steiner,Diversified Commercial Services,All-in-One,$3900,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Diversified Commercial Services,Mobile app,$5500,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Diversified Commercial Services,Tablets,$19100,"Weiler, Anne",Computers,,6.5%
+Won,Individual,Alan Steiner,Food Distributors,All-in-One,$2500,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Food Distributors,Design app,$2500,"Weiler, Anne",Software,,3.5%
+Won,Individual,Alan Steiner,Food Distributors,Desktops,$2600,"Weiler, Anne",Computers,,4.0%
+Won,Individual,Alan Steiner,Food Distributors,Mobile app,$3300,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Food Distributors,Mobile app,$6200,"Weiler, Anne",Software,Customer Care Campaign,4.0%
+Won,Individual,Alan Steiner,Food Distributors,Stand-up Desks,$3600,"Weiler, Anne",Furniture,,3.5%
+Won,Individual,Alan Steiner,Food Distributors,Stand-up Desks,$2400,"Weiler, Anne",Furniture,Market Trends Newsletter,5.0%
+Won,Individual,Alan Steiner,Food Distributors,Tablets,$1400,"Weiler, Anne",Computers,,6.5%
+Won,Individual,Alan Steiner,Food Distributors,Tablets,$1900,"Weiler, Anne",Computers,Consumer Tradeshow,8.0%
+Won,Individual,Alan Steiner,Food Distributors,Webcams,$900,"Weiler, Anne",Electronics,,3.5%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,All-in-One,$3600,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,All-in-One,$3100,"Weiler, Anne",Computers,Monthly Newsletter,2.0%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,Design app,$6500,"Weiler, Anne",Software,,3.5%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,Design app,$2500,"Weiler, Anne",Software,Monthly Newsletter,4.0%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,Mobile app,$2800,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,Mobile app,$4600,"Weiler, Anne",Software,Customer Care Campaign,4.0%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,Tablets,$3200,"Weiler, Anne",Computers,,6.5%
+Won,Individual,Alan Steiner,Hospital/Nursing Management,Webcams,$800,"Weiler, Anne",Electronics,,3.5%
+Won,Individual,Alan Steiner,Industrial Machinery/Components,All-in-One,$3600,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Industrial Machinery/Components,All-in-One,$3300,"Weiler, Anne",Computers,Monthly Newsletter,2.0%
+Won,Individual,Alan Steiner,Industrial Machinery/Components,Design app,$2600,"Weiler, Anne",Software,Monthly Newsletter,4.0%
+Won,Individual,Alan Steiner,Industrial Machinery/Components,Mobile app,$2900,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Industrial Machinery/Components,Stand-up Desks,$4300,"Weiler, Anne",Furniture,,3.5%
+Won,Individual,Alan Steiner,Industrial Machinery/Components,Tablets,$4400,"Weiler, Anne",Computers,,6.5%
+Won,Individual,Alan Steiner,Investment Managers,All-in-One,$6500,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Investment Managers,Desktops,$2100,"Weiler, Anne",Computers,,4.0%
+Won,Individual,Alan Steiner,Investment Managers,Mobile app,$2900,"Weiler, Anne",Software,Customer Care Campaign,4.0%
+Won,Individual,Alan Steiner,Investment Managers,Tablets,$3300,"Weiler, Anne",Computers,Customer Care Campaign,9.0%
+Won,Individual,Alan Steiner,Investment Managers,Webcams,$300,"Weiler, Anne",Electronics,,3.5%
+Won,Individual,Alan Steiner,Life Insurance,Design app,$3300,"Weiler, Anne",Software,,3.5%
+Won,Individual,Alan Steiner,Life Insurance,Webcams,$900,"Weiler, Anne",Electronics,,3.5%
+Won,Individual,Alan Steiner,Major Banks,All-in-One,$10000,"Weiler, Anne",Computers,,1.3%
+Won,Individual,Alan Steiner,Major Banks,Design app,$9100,"Weiler, Anne",Software,,3.3%
+Won,Individual,Alan Steiner,Major Banks,Desktops,$1600,"Weiler, Anne",Computers,,3.8%
+Won,Individual,Alan Steiner,Major Banks,Ergonomic Seating,$3900,"Weiler, Anne",Furniture,,3.8%
+Won,Individual,Alan Steiner,Major Banks,Mobile app,$7800,"Weiler, Anne",Software,,1.3%
+Won,Individual,Alan Steiner,Major Banks,Stand-up Desks,$6200,"Weiler, Anne",Furniture,,3.3%
+Won,Individual,Alan Steiner,Major Banks,Stand-up Desks,$4000,"Weiler, Anne",Furniture,Consumer Tradeshow,4.8%
+Won,Individual,Alan Steiner,Major Banks,Stand-up Desks,$3300,"Weiler, Anne",Furniture,New Product Releases,4.8%
+Won,Individual,Alan Steiner,Major Banks,Tablets,$2700,"Weiler, Anne",Computers,,6.3%
+Won,Individual,Alan Steiner,Major Banks,Webcams,$800,"Weiler, Anne",Electronics,,3.3%
+Won,Individual,Alan Steiner,Major Banks,Webcams,$100,"Weiler, Anne",Electronics,Market Trends Newsletter,4.8%
+Won,Individual,Alan Steiner,Major Banks,Webcams,$500,"Weiler, Anne",Electronics,New Product Releases,4.8%
+Won,Individual,Alan Steiner,Major Pharmaceuticals,All-in-One,$6400,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Major Pharmaceuticals,Stand-up Desks,$6300,"Weiler, Anne",Furniture,,3.5%
+Won,Individual,Alan Steiner,Major Pharmaceuticals,Stand-up Desks,$4300,"Weiler, Anne",Furniture,Twitter,4.0%
+Won,Individual,Alan Steiner,Major Pharmaceuticals,Tablets,$3000,"Weiler, Anne",Computers,,6.5%
+Won,Individual,Alan Steiner,Marine Transportation,All-in-One,$2800,"Weiler, Anne",Computers,Consumer Tradeshow,3.0%
+Won,Individual,Alan Steiner,Marine Transportation,Design app,$5900,"Weiler, Anne",Software,Monthly Newsletter,4.0%
+Won,Individual,Alan Steiner,Marine Transportation,Ergonomic Seating,$3100,"Weiler, Anne",Furniture,,4.0%
+Won,Individual,Alan Steiner,Marine Transportation,Webcams,$600,"Weiler, Anne",Electronics,,3.5%
+Won,Individual,Alan Steiner,Medical Specialities,All-in-One,$3600,"Weiler, Anne",Computers,,1.5%
+Won,Individual,Alan Steiner,Medical Specialities,Desktops,$1200,"Weiler, Anne",Computers,,4.0%
+Won,Individual,Alan Steiner,Medical Specialities,Mobile app,$2300,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Medical Specialities,Stand-up Desks,$3600,"Weiler, Anne",Furniture,,3.5%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,All-in-One,$9400,"Weiler, Anne",Computers,,1.3%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Design app,$23900,"Weiler, Anne",Software,,3.3%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Design app,$2800,"Weiler, Anne",Software,Monthly Newsletter,3.8%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Desktops,$3900,"Weiler, Anne",Computers,,3.8%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Mobile app,$11100,"Weiler, Anne",Software,,1.3%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Mobile app,$6900,"Weiler, Anne",Software,Customer Care Campaign,3.8%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Mobile app,$3000,"Weiler, Anne",Software,Market Trends Newsletter,2.8%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Stand-up Desks,$8600,"Weiler, Anne",Furniture,,3.3%
+Won,Individual,Alan Steiner,Medical/Dental Instruments,Webcams,$100,"Weiler, Anne",Electronics,,3.3%
+Won,Individual,Alan Steiner,Medical/Nursing Services,Design app,$2700,"Weiler, Anne",Software,,3.5%
+Won,Individual,Alan Steiner,Medical/Nursing Services,Mobile app,$2600,"Weiler, Anne",Software,,1.5%
+Won,Individual,Alan Steiner,Medical/Nursing Services,Mobile app,$2400,"Weiler, Anne",Software,Customer Care Campaign,4.0%
+Won,Individual,Alan Steiner,Medical/Nursing Services,Stand-up Desks,$3600,"Weiler, Anne",Furniture,,3.5%
+Won,Individual,Alan Steiner,Medical/Nursing Services,Webcams,$400,"Weiler, Anne",Electronics,,3.5%
+Won,Individual,Alan Steiner,,All-in-One,$15500,"Weiler, Anne",Computers,,1.3%
+Won,Individual,Alan Steiner,,All-in-One,$2600,"Weiler, Anne",Computers,Monthly Newsletter,1.8%
+Won,Individual,Alan Steiner,,Design app,$12800,"Weiler, Anne",Software,,3.3%
+Won,Individual,Alan Steiner,,Design app,$5900,"Weiler, Anne",Software,Customer Follow-up,5.8%
+Won,Individual,Alan Steiner,,Design app,$2500,"Weiler, Anne",Software,Monthly Newsletter,3.8%
+Won,Individual,Alan Steiner,,Desktops,$1500,"Weiler, Anne",Computers,,3.8%
+Won,Individual,Alan Steiner,,Mobile app,$8100,"Weiler, Anne",Software,,1.3%
+Won,Individual,Alan Steiner,,Stand-up Desks,$15500,"Weiler, Anne",Furniture,,3.3%
+Won,Individual,Alan Steiner,,Stand-up Desks,$2400,"Weiler, Anne",Furniture,New Product Releases,4.8%
+Won,Individual,Alan Steiner,,Tablets,$2800,"Weiler, Anne",Computers,,6.3%
+Won,Individual,Alan Steiner,,Webcams,$600,"Weiler, Anne",Electronics,,3.3%
+Won,Individual,Alan Steiner,Oil & Gas Production,All-in-One,$7200,"Weiler, Anne",Computers,,1.3%

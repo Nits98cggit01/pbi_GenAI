@@ -1,0 +1,205 @@
+Report Name: corporateSpend
+Page Name: IT Spend Trend
+Visual Name: Decomposition tree
+
+Insights:
+Categorical columns:
+Sales Region, IT Area, IT Sub Area, Country/Region
+
+Numerical columns:
+Var Plan, Period
+
+Columns: Sales Region
+ - Europe: 1112
+
+Columns: IT Area
+ - Infrastructure: 358
+ - BU Support: 323
+ - Functional: 236
+ - Governance: 99
+ - Enablement: 96
+
+Columns: IT Sub Area
+ - Productivity: 170
+ - Distribution: 96
+ - R2: 84
+ - R1: 77
+ - R3: 75
+ - Manufacturing: 72
+ - Data Centers: 72
+ - GRC: 60
+ - Planning: 48
+ - Networking: 48
+ - Development: 48
+ - Administration: 36
+ - Help Desk: 36
+ - EIM: 24
+ - R&D: 24
+ - Data Management: 24
+ - Enterprise Capabilities: 24
+ - Core Infrastructure: 20
+ - Emerging: 12
+ - Hosting: 12
+ - Innovation: 12
+ - Mobility: 12
+ - Production: 12
+ - Core: 11
+ - Other: 3
+
+Columns: Country/Region
+ - United Kingdom: 222
+ - Spain: 168
+ - Germany: 144
+ - Italy: 108
+ - Switzerland: 99
+ - France: 84
+ - Belgium: 84
+ - Ireland: 60
+ - Austria: 49
+ - Netherlands: 24
+ - Hungary: 10
+ - Czech Republic: 10
+ - Portugal: 9
+ - Poland: 8
+ - Slovakia: 5
+ - Sweden: 4
+ - Finland: 4
+ - Norway: 4
+ - Denmark: 4
+ - Slovenia: 3
+ - Romania: 3
+ - Bosnia: 3
+ - Croatia: 3
+
+Numerical Insights for Var Plan grouped by Sales Region:
+Sales Region  count         sum    mean         max            min
+      Europe   1112 $288,041.97 $259.03 $938,078.89 $-1,014,263.24
+
+Numerical Insights for Period grouped by Sales Region:
+Sales Region  count       sum  mean    max   min
+      Europe   1112 $7,548.00 $6.79 $12.00 $1.00
+
+Numerical Insights for Var Plan grouped by IT Area:
+       IT Area  count            sum        mean         max            min
+    BU Support    323  $1,155,962.91   $3,578.83 $226,260.56   $-199,650.57
+    Enablement     96  $2,689,764.82  $28,018.38 $342,997.69   $-105,014.17
+    Functional    236 $-5,005,590.50 $-21,210.13 $573,211.46   $-898,913.53
+    Governance     99  $2,204,843.62  $22,271.15 $650,642.59   $-269,517.17
+Infrastructure    358   $-756,938.89  $-2,114.35 $938,078.89 $-1,014,263.24
+
+Numerical Insights for Period grouped by IT Area:
+       IT Area  count       sum  mean    max   min
+    BU Support    323 $2,152.00 $6.66 $12.00 $1.00
+    Enablement     96   $624.00 $6.50 $12.00 $1.00
+    Functional    236 $1,565.00 $6.63 $12.00 $1.00
+    Governance     99   $657.00 $6.64 $12.00 $1.00
+Infrastructure    358 $2,550.00 $7.12 $12.00 $1.00
+
+Numerical Insights for Var Plan grouped by IT Sub Area:
+            IT Sub Area  count             sum         mean         max            min
+         Administration     36   $3,306,160.75   $91,837.80 $650,642.59   $-145,760.40
+                   Core     11         $973.59       $88.51     $165.90         $-4.36
+    Core Infrastructure     20     $439,917.50   $21,995.88 $161,037.61    $-13,772.51
+           Data Centers     72 $-10,737,396.24 $-149,130.50  $44,696.48 $-1,014,263.24
+        Data Management     24     $614,835.47   $25,618.14 $121,676.41     $-6,750.75
+            Development     48     $633,533.75   $13,198.62  $41,484.40     $-5,222.77
+           Distribution     96   $1,301,531.28   $13,557.62 $153,700.31   $-100,200.53
+                    EIM     24    $-260,633.64  $-10,859.74   $5,630.86    $-40,244.43
+               Emerging     12     $504,562.67   $42,046.89  $76,970.60          $1.94
+Enterprise Capabilities     24    $-208,834.99   $-8,701.46  $81,441.02   $-105,014.17
+                    GRC     60  $-1,199,020.53  $-19,983.68 $252,485.65   $-269,517.17
+              Help Desk     36   $3,998,978.41  $111,082.73 $597,551.18    $-11,502.08
+                Hosting     12     $769,931.56   $64,160.96 $111,170.44     $14,709.64
+             Innovation     12    $-149,321.12  $-12,443.43  $31,233.88    $-23,477.31
+          Manufacturing     72    $-433,215.97   $-6,016.89 $226,260.56   $-199,650.57
+               Mobility     12   $2,693,719.11  $224,476.59 $342,997.69     $33,535.54
+             Networking     48   $1,682,632.77   $35,054.85 $744,122.33   $-566,081.32
+                  Other      3      $97,703.41   $32,567.80  $62,032.67      $6,207.77
+               Planning     48     $460,236.01    $9,588.25 $213,241.64   $-148,568.92
+             Production     12    $-307,125.00  $-25,593.75  $-3,937.50    $-47,250.00
+           Productivity    170   $3,088,997.11   $18,170.57 $938,078.89   $-500,163.91
+                    R&D     24  $-1,004,533.42  $-41,855.56  $18,909.07   $-124,986.12
+                     R1     77  $-4,587,094.58  $-59,572.66 $161,724.84   $-531,407.73
+                     R2     84  $-5,035,668.31  $-59,948.43  $77,330.68   $-898,913.53
+                     R3     75   $4,617,172.40   $61,562.30 $573,211.46    $-70,706.71
+
+Numerical Insights for Period grouped by IT Sub Area:
+            IT Sub Area  count       sum   mean    max    min
+         Administration     36   $234.00  $6.50 $12.00  $1.00
+                   Core     11    $77.00  $7.00 $12.00  $2.00
+    Core Infrastructure     20   $153.00  $7.65 $12.00  $1.00
+           Data Centers     72   $468.00  $6.50 $12.00  $1.00
+        Data Management     24   $156.00  $6.50 $12.00  $1.00
+            Development     48   $312.00  $6.50 $12.00  $1.00
+           Distribution     96   $671.00  $6.99 $12.00  $1.00
+                    EIM     24   $156.00  $6.50 $12.00  $1.00
+               Emerging     12    $78.00  $6.50 $12.00  $1.00
+Enterprise Capabilities     24   $156.00  $6.50 $12.00  $1.00
+                    GRC     60   $390.00  $6.50 $12.00  $1.00
+              Help Desk     36   $234.00  $6.50 $12.00  $1.00
+                Hosting     12    $78.00  $6.50 $12.00  $1.00
+             Innovation     12    $78.00  $6.50 $12.00  $1.00
+          Manufacturing     72   $468.00  $6.50 $12.00  $1.00
+               Mobility     12    $78.00  $6.50 $12.00  $1.00
+             Networking     48   $312.00  $6.50 $12.00  $1.00
+                  Other      3    $33.00 $11.00 $12.00 $10.00
+               Planning     48   $312.00  $6.50 $12.00  $1.00
+             Production     12    $78.00  $6.50 $12.00  $1.00
+           Productivity    170 $1,305.00  $7.68 $12.00  $1.00
+                    R&D     24   $156.00  $6.50 $12.00  $1.00
+                     R1     77   $518.00  $6.73 $12.00  $1.00
+                     R2     84   $546.00  $6.50 $12.00  $1.00
+                     R3     75   $501.00  $6.68 $12.00  $1.00
+
+Numerical Insights for Var Plan grouped by Country/Region:
+Country/Region  count            sum        mean         max            min
+       Austria     49    $-49,859.86  $-1,017.55  $48,846.62    $-47,806.35
+       Belgium     84    $-59,423.44    $-707.42 $161,724.84   $-166,853.21
+        Bosnia      3      $1,159.84     $386.61     $930.77         $70.46
+       Croatia      3        $515.66     $171.89     $532.11       $-292.82
+Czech Republic     10     $91,395.29   $9,139.53  $38,353.69     $-3,542.21
+       Denmark      4     $85,662.65  $21,415.66  $46,344.88      $2,673.79
+       Finland      4     $32,539.00   $8,134.75  $23,034.14     $-1,255.27
+        France     84 $-3,434,898.49 $-40,891.65 $226,260.56   $-500,163.91
+       Germany    144  $4,623,537.52  $32,107.90 $556,325.26   $-145,760.40
+       Hungary     10     $90,593.76   $9,059.38  $33,543.41     $-1,277.40
+       Ireland     60 $-2,791,567.63 $-46,526.13 $744,122.33 $-1,014,263.24
+         Italy    108 $-5,128,090.82 $-47,482.32 $106,440.80   $-531,407.73
+   Netherlands     24   $-554,379.40 $-23,099.14   $3,472.22    $-59,724.01
+        Norway      4     $39,355.47   $9,838.87  $14,311.37        $547.92
+        Poland      8     $92,826.19  $11,603.27  $29,791.17      $1,890.08
+      Portugal      9    $164,832.34  $18,314.70  $42,994.36      $1,413.77
+       Romania      3     $34,008.01  $11,336.00  $12,842.53      $8,697.21
+      Slovakia      5     $16,384.45   $3,276.89   $9,002.10        $575.45
+      Slovenia      3     $33,772.01  $11,257.34  $17,497.43      $5,057.05
+         Spain    168  $4,494,602.29  $26,753.59 $938,078.89   $-106,274.36
+        Sweden      4     $62,602.49  $15,650.62  $29,521.80     $-1,733.26
+   Switzerland     99  $1,315,899.23  $13,291.91 $290,402.79   $-234,549.34
+United Kingdom    222  $1,126,575.42   $5,074.66 $650,642.59   $-898,913.53
+
+Numerical Insights for Period grouped by Country/Region:
+Country/Region  count       sum   mean    max    min
+       Austria     49   $324.00  $6.61 $12.00  $1.00
+       Belgium     84   $546.00  $6.50 $12.00  $1.00
+        Bosnia      3    $33.00 $11.00 $12.00 $10.00
+       Croatia      3    $33.00 $11.00 $12.00 $10.00
+Czech Republic     10   $100.00 $10.00 $12.00  $8.00
+       Denmark      4    $42.00 $10.50 $12.00  $9.00
+       Finland      4    $42.00 $10.50 $12.00  $9.00
+        France     84   $546.00  $6.50 $12.00  $1.00
+       Germany    144   $936.00  $6.50 $12.00  $1.00
+       Hungary     10   $100.00 $10.00 $12.00  $8.00
+       Ireland     60   $390.00  $6.50 $12.00  $1.00
+         Italy    108   $702.00  $6.50 $12.00  $1.00
+   Netherlands     24   $156.00  $6.50 $12.00  $1.00
+        Norway      4    $42.00 $10.50 $12.00  $9.00
+        Poland      8    $84.00 $10.50 $12.00  $9.00
+      Portugal      9    $99.00 $11.00 $12.00 $10.00
+       Romania      3    $33.00 $11.00 $12.00 $10.00
+      Slovakia      5    $50.00 $10.00 $12.00  $8.00
+      Slovenia      3    $33.00 $11.00 $12.00 $10.00
+         Spain    168 $1,092.00  $6.50 $12.00  $1.00
+        Sweden      4    $42.00 $10.50 $12.00  $9.00
+   Switzerland     99   $657.00  $6.64 $12.00  $1.00
+United Kingdom    222 $1,466.00  $6.60 $12.00  $1.00
+

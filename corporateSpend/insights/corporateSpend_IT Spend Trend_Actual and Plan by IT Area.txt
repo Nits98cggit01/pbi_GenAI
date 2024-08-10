@@ -1,0 +1,117 @@
+Report Name: corporateSpend
+Page Name: IT Spend Trend
+Visual Name: Actual and Plan by IT Area
+
+Insights:
+Categorical columns:
+IT Area, IT Sub Area
+
+Numerical columns:
+Actual, Plan
+
+Columns: IT Area
+ - BU Support: 8
+ - Infrastructure: 6
+ - Enablement: 5
+ - Functional: 3
+ - Governance: 3
+
+Columns: IT Sub Area
+ - Productivity: 1
+ - Development: 1
+ - Production: 1
+ - Other: 1
+ - Emerging: 1
+ - Innovation: 1
+ - EIM: 1
+ - Hosting: 1
+ - Data Management: 1
+ - Enterprise Capabilities: 1
+ - Core Infrastructure: 1
+ - Administration: 1
+ - Mobility: 1
+ - Manufacturing: 1
+ - Planning: 1
+ - Help Desk: 1
+ - R&D: 1
+ - Distribution: 1
+ - R3: 1
+ - GRC: 1
+ - R1: 1
+ - R2: 1
+ - Data Centers: 1
+ - Networking: 1
+ - Core: 1
+
+Numerical Insights for Actual grouped by IT Area:
+       IT Area  count            sum          mean           max           min
+    BU Support      7  $9,761,525.00 $1,394,503.57 $6,208,613.00         $4.00
+    Enablement      5    $843,681.00   $168,736.20   $360,314.00    $78,212.00
+    Functional      3  $5,747,716.00 $1,915,905.33 $2,188,511.00 $1,576,645.00
+    Governance      3  $2,013,686.00   $671,228.67 $1,784,813.00     $6,208.00
+Infrastructure      6 $15,160,941.00 $2,526,823.50 $8,289,687.00   $111,170.00
+
+Numerical Insights for Plan grouped by IT Area:
+       IT Area  count            sum          mean           max         min
+    BU Support      6  $9,034,120.00 $1,505,686.67 $5,997,870.00  $47,250.00
+    Enablement      5    $495,443.00    $99,088.60   $220,827.00  $17,316.00
+    Functional      3  $6,332,988.00 $2,110,996.00 $3,036,563.00 $912,610.00
+    Governance      2  $2,364,915.00 $1,182,457.50 $1,999,146.00 $365,769.00
+Infrastructure      4 $13,901,853.00 $3,475,463.25 $6,969,807.00 $138,025.00
+
+Numerical Insights for Actual grouped by IT Sub Area:
+            IT Sub Area  count           sum          mean           max           min
+         Administration      1   $222,665.00   $222,665.00   $222,665.00   $222,665.00
+                   Core      1         $4.00         $4.00         $4.00         $4.00
+    Core Infrastructure      1   $196,112.00   $196,112.00   $196,112.00   $196,112.00
+           Data Centers      1 $2,235,533.00 $2,235,533.00 $2,235,533.00 $2,235,533.00
+        Data Management      1   $131,751.00   $131,751.00   $131,751.00   $131,751.00
+            Development      1   $313,506.00   $313,506.00   $313,506.00   $313,506.00
+           Distribution      1 $1,447,760.00 $1,447,760.00 $1,447,760.00 $1,447,760.00
+                    EIM      1    $95,801.00    $95,801.00    $95,801.00    $95,801.00
+               Emerging      1    $76,971.00    $76,971.00    $76,971.00    $76,971.00
+Enterprise Capabilities      1   $177,603.00   $177,603.00   $177,603.00   $177,603.00
+                    GRC      1 $1,784,813.00 $1,784,813.00 $1,784,813.00 $1,784,813.00
+              Help Desk      1   $734,766.00   $734,766.00   $734,766.00   $734,766.00
+                Hosting      1   $111,170.00   $111,170.00   $111,170.00   $111,170.00
+             Innovation      1    $78,212.00    $78,212.00    $78,212.00    $78,212.00
+          Manufacturing      1 $6,208,613.00 $6,208,613.00 $6,208,613.00 $6,208,613.00
+               Mobility      1   $360,314.00   $360,314.00   $360,314.00   $360,314.00
+             Networking      1 $3,593,673.00 $3,593,673.00 $3,593,673.00 $3,593,673.00
+                  Other      1     $6,208.00     $6,208.00     $6,208.00     $6,208.00
+               Planning      1   $509,556.00   $509,556.00   $509,556.00   $509,556.00
+             Production      0         $0.00          $nan          $nan          $nan
+           Productivity      1 $8,289,687.00 $8,289,687.00 $8,289,687.00 $8,289,687.00
+                    R&D      1 $1,205,115.00 $1,205,115.00 $1,205,115.00 $1,205,115.00
+                     R1      1 $1,982,560.00 $1,982,560.00 $1,982,560.00 $1,982,560.00
+                     R2      1 $2,188,511.00 $2,188,511.00 $2,188,511.00 $2,188,511.00
+                     R3      1 $1,576,645.00 $1,576,645.00 $1,576,645.00 $1,576,645.00
+
+Numerical Insights for Plan grouped by IT Sub Area:
+            IT Sub Area  count           sum          mean           max           min
+         Administration      1   $365,769.00   $365,769.00   $365,769.00   $365,769.00
+                   Core      0         $0.00          $nan          $nan          $nan
+    Core Infrastructure      0         $0.00          $nan          $nan          $nan
+           Data Centers      1 $3,624,070.00 $3,624,070.00 $3,624,070.00 $3,624,070.00
+        Data Management      1    $96,541.00    $96,541.00    $96,541.00    $96,541.00
+            Development      1   $230,650.00   $230,650.00   $230,650.00   $230,650.00
+           Distribution      1 $1,031,255.00 $1,031,255.00 $1,031,255.00 $1,031,255.00
+                    EIM      1   $113,781.00   $113,781.00   $113,781.00   $113,781.00
+               Emerging      0         $0.00          $nan          $nan          $nan
+Enterprise Capabilities      1   $220,827.00   $220,827.00   $220,827.00   $220,827.00
+                    GRC      1 $1,999,146.00 $1,999,146.00 $1,999,146.00 $1,999,146.00
+              Help Desk      1   $138,025.00   $138,025.00   $138,025.00   $138,025.00
+                Hosting      0         $0.00          $nan          $nan          $nan
+             Innovation      1    $46,978.00    $46,978.00    $46,978.00    $46,978.00
+          Manufacturing      1 $5,997,870.00 $5,997,870.00 $5,997,870.00 $5,997,870.00
+               Mobility      1    $17,316.00    $17,316.00    $17,316.00    $17,316.00
+             Networking      1 $3,169,951.00 $3,169,951.00 $3,169,951.00 $3,169,951.00
+                  Other      0         $0.00          $nan          $nan          $nan
+               Planning      1   $445,123.00   $445,123.00   $445,123.00   $445,123.00
+             Production      1    $47,250.00    $47,250.00    $47,250.00    $47,250.00
+           Productivity      1 $6,969,807.00 $6,969,807.00 $6,969,807.00 $6,969,807.00
+                    R&D      1 $1,281,972.00 $1,281,972.00 $1,281,972.00 $1,281,972.00
+                     R1      1 $2,383,815.00 $2,383,815.00 $2,383,815.00 $2,383,815.00
+                     R2      1 $3,036,563.00 $3,036,563.00 $3,036,563.00 $3,036,563.00
+                     R3      1   $912,610.00   $912,610.00   $912,610.00   $912,610.00
+

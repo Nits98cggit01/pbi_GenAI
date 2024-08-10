@@ -1,0 +1,113 @@
+Var Plan,Sales Region,Period,IT Area,IT Sub Area,Country/Region
+-99621.23399999998,Europe,11,Enablement,Enterprise Capabilities,United Kingdom
+-100200.53100000008,Europe,12,BU Support,Distribution,France
+-100601.13299999991,Europe,10,BU Support,Manufacturing,Ireland
+-101978.553,Europe,4,Governance,GRC,United Kingdom
+-102851.98199999984,Europe,4,BU Support,Manufacturing,France
+-103679.706,Europe,4,Functional,R1,Belgium
+-104742.93000000012,Europe,9,Infrastructure,Productivity,Ireland
+-105014.17199999998,Europe,12,Enablement,Enterprise Capabilities,United Kingdom
+-105322.86000000004,Europe,11,Governance,GRC,Spain
+-105593.778,Europe,4,Governance,Administration,Germany
+-106215.50399999996,Europe,7,BU Support,R&D,United Kingdom
+-106274.36100000003,Europe,12,Governance,GRC,Spain
+-107877.099,Europe,11,Infrastructure,Productivity,Ireland
+-109950.96600000004,Europe,5,Infrastructure,Productivity,Ireland
+-110389.55099999996,Europe,4,Infrastructure,Productivity,Switzerland
+-110706.6240000001,Europe,8,Infrastructure,Productivity,Ireland
+-110837.1,Europe,3,Governance,Administration,Germany
+-111079.96800000012,Europe,7,Functional,R1,Belgium
+-111153.55499999996,Europe,11,BU Support,Planning,France
+-113535.924,Europe,10,Infrastructure,Productivity,Ireland
+-115561.12499999994,Europe,12,Infrastructure,Productivity,Ireland
+-117363.975,Europe,2,Functional,R1,Belgium
+-117763.11,Europe,5,BU Support,Manufacturing,Italy
+-124491.18899999995,Europe,3,Functional,R1,Italy
+-124986.12300000014,Europe,8,BU Support,R&D,United Kingdom
+-126524.5469999999,Europe,3,Infrastructure,Productivity,France
+-127512.624,Europe,5,Infrastructure,Productivity,Switzerland
+-138667.28099999996,Europe,7,BU Support,Manufacturing,Italy
+-145760.4,Europe,2,Governance,Administration,Germany
+-146960.811,Europe,6,Governance,GRC,United Kingdom
+-148568.922,Europe,12,BU Support,Planning,France
+-165141.43500000003,Europe,3,Functional,R1,Belgium
+-166265.65500000003,Europe,12,BU Support,Manufacturing,Italy
+-166269.81299999997,Europe,4,Functional,R1,Italy
+-166853.21399999992,Europe,5,Functional,R1,Belgium
+-166902.48600000003,Europe,8,BU Support,Manufacturing,Italy
+-167593.44300000006,Europe,1,Infrastructure,Data Centers,United Kingdom
+-168076.326,Europe,7,Governance,GRC,United Kingdom
+-174575.13900000002,Europe,2,Functional,R2,United Kingdom
+-178363.46100000013,Europe,5,Infrastructure,Networking,United Kingdom
+-181097.466,Europe,8,Governance,GRC,United Kingdom
+-190439.2859999999,Europe,12,Infrastructure,Productivity,Switzerland
+-192159.036,Europe,9,Infrastructure,Productivity,Switzerland
+-195615.27300000016,Europe,9,BU Support,Manufacturing,Italy
+-195921.2969999999,Europe,11,Infrastructure,Productivity,Switzerland
+-197401.047,Europe,6,Infrastructure,Productivity,Switzerland
+-199650.56999999983,Europe,10,BU Support,Manufacturing,Italy
+-209827.98299999995,Europe,10,Infrastructure,Productivity,Switzerland
+-210403.173,Europe,7,Infrastructure,Productivity,Switzerland
+-211933.479,Europe,5,Functional,R1,Italy
+-215341.78199999995,Europe,9,Governance,GRC,United Kingdom
+-215851.73100000003,Europe,3,Functional,R2,United Kingdom
+-226019.157,Europe,3,Infrastructure,Networking,United Kingdom
+-231301.506,Europe,10,Governance,GRC,United Kingdom
+-234549.336,Europe,8,Infrastructure,Productivity,Switzerland
+-244781.45999999985,Europe,4,Infrastructure,Productivity,France
+-244926.96600000007,Europe,11,Governance,GRC,United Kingdom
+-252566.37599999987,Europe,5,Infrastructure,Productivity,France
+-252589.85399999985,Europe,6,Functional,R2,United Kingdom
+-257863.392,Europe,6,Functional,R1,Italy
+-260790.102,Europe,5,Functional,R2,United Kingdom
+-267706.6110000001,Europe,2,Infrastructure,Data Centers,United Kingdom
+-269517.174,Europe,12,Governance,GRC,United Kingdom
+-278324.313,Europe,4,Functional,R2,United Kingdom
+-278509.73399999994,Europe,6,Infrastructure,Networking,United Kingdom
+-284880.282,Europe,1,Infrastructure,Networking,United Kingdom
+-303416.8109999999,Europe,7,Functional,R1,Italy
+-306690.48600000003,Europe,4,Infrastructure,Networking,United Kingdom
+-309440.04299999983,Europe,7,Infrastructure,Networking,United Kingdom
+-316248.3869999999,Europe,9,Infrastructure,Productivity,France
+-318733.9650000005,Europe,10,Infrastructure,Data Centers,United Kingdom
+-322079.5560000008,Europe,12,Infrastructure,Data Centers,United Kingdom
+-325370.59800000023,Europe,5,Infrastructure,Data Centers,United Kingdom
+-328564.1879999994,Europe,9,Infrastructure,Networking,United Kingdom
+-329211.1799999998,Europe,7,Infrastructure,Productivity,France
+-338986.3499999996,Europe,8,Infrastructure,Productivity,France
+-340545.792,Europe,4,Infrastructure,Data Centers,Ireland
+-341340.2939999999,Europe,6,Infrastructure,Productivity,France
+-344368.91699999943,Europe,8,Infrastructure,Networking,United Kingdom
+-348892.971,Europe,8,Functional,R1,Italy
+-364279.182,Europe,2,Infrastructure,Networking,United Kingdom
+-381246.1050000007,Europe,11,Infrastructure,Data Centers,United Kingdom
+-392293.9980000004,Europe,9,Infrastructure,Data Centers,United Kingdom
+-394431.636,Europe,9,Functional,R1,Italy
+-395570.46900000016,Europe,3,Infrastructure,Data Centers,United Kingdom
+-419203.2990000004,Europe,8,Infrastructure,Data Centers,United Kingdom
+-424732.518,Europe,5,Infrastructure,Data Centers,Ireland
+-426345.0059999998,Europe,10,Infrastructure,Productivity,France
+-435751.8630000004,Europe,6,Infrastructure,Data Centers,United Kingdom
+-440125.296,Europe,10,Functional,R1,Italy
+-440292.3150000002,Europe,4,Infrastructure,Data Centers,United Kingdom
+-448598.733,Europe,7,Functional,R2,United Kingdom
+-452163.7590000002,Europe,7,Infrastructure,Data Centers,United Kingdom
+-485453.883,Europe,11,Functional,R1,Italy
+-488957.6099999999,Europe,11,Infrastructure,Productivity,France
+-491289.588,Europe,8,Functional,R2,United Kingdom
+-500163.9089999993,Europe,12,Infrastructure,Productivity,France
+-508942.629,Europe,6,Infrastructure,Data Centers,Ireland
+-531407.727,Europe,12,Functional,R1,Italy
+-531902.8439999996,Europe,10,Infrastructure,Networking,United Kingdom
+-552233.0730000003,Europe,11,Infrastructure,Networking,United Kingdom
+-566081.3190000001,Europe,12,Infrastructure,Networking,United Kingdom
+-585295.3349999997,Europe,9,Functional,R2,United Kingdom
+-593146.644,Europe,7,Infrastructure,Data Centers,Ireland
+-677355.7080000001,Europe,8,Infrastructure,Data Centers,Ireland
+-683128.2119999996,Europe,10,Functional,R2,United Kingdom
+-744281.648999999,Europe,11,Functional,R2,United Kingdom
+-761558.7180000001,Europe,9,Infrastructure,Data Centers,Ireland
+-845796.7050000001,Europe,10,Infrastructure,Data Centers,Ireland
+-898913.5260000001,Europe,12,Functional,R2,United Kingdom
+-930011.1,Europe,11,Infrastructure,Data Centers,Ireland
+-1014263.2410000002,Europe,12,Infrastructure,Data Centers,Ireland

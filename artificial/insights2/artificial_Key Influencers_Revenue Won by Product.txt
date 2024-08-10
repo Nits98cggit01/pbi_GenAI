@@ -1,0 +1,21 @@
+Report Name: artificial
+Page Name: Key Influencers
+Visual Name: Revenue Won by Product
+
+Insights:
+Columns: Revenue Won, Product
+
+Count of unique Revenue Won and Product combinations:
+
+Revenue Won           Product  Count
+$10130200.0        Design app      1
+ $1085900.0          Desktops      1
+ $1110000.0    Laser Printers      1
+ $1572500.0 Ergonomic Seating      1
+ $2703300.0        Mobile app      1
+ $3602500.0        All-in-One      1
+ $4106300.0           Tablets      1
+ $4279800.0    Stand-up Desks      1
+  $468200.0          Scanners      1
+  $562300.0           Webcams      1
+

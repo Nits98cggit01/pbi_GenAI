@@ -1,0 +1,216 @@
+Product category,Product,Region,Industry,Sales owner,Territory,Sales Opportunity
+Computers,Tablets,North America,Major Banks,Alan Steiner,Canada,$13100
+Computers,Tablets,North America,Medical/Dental Instruments,Eric Gruber,US-MIDWEST,$13100
+Furniture,Stand-up Desks,North America,Major Chemicals,Molly Clark,Mexico,$13100
+Furniture,Stand-up Desks,North America,Savings Institutions,Molly Clark,US-SOUTH,$13100
+Software,Mobile app,North America,Computer Software: Prepackaged Software,Molly Clark,US-SOUTH,$13100
+Computers,All-in-One,North America,Computer Software: Prepackaged Software,David So,US-SOUTH,$13000
+Computers,Tablets,North America,Food Distributors,Spencer Low,US-SOUTH,$13000
+Computers,All-in-One,EMEA,Life Insurance,Anne Weiler,United Kingdom,$12900
+Computers,Tablets,North America,Electric Utilities: Central,Spencer Low,US-SOUTH,$12900
+Electronics,Scanners,North America,Automotive Aftermarket,Alicia Thomber,US-WEST,$12900
+Furniture,Stand-up Desks,North America,Property-Casualty Insurers,Molly Clark,Mexico,$12900
+Furniture,Stand-up Desks,North America,Recreational Products/Toys,Alan Steiner,Canada,$12900
+Software,Design app,North America,EDP Services,David So,US-SOUTH,$12900
+Computers,Tablets,North America,Biotechnology: Commercial Physical & Biological Resarch,Alicia Thomber,US-WEST,$12800
+Furniture,Stand-up Desks,North America,Automotive Aftermarket,Molly Clark,US-SOUTH,$12800
+Computers,All-in-One,EMEA,,Anne Weiler,United Kingdom,$12700
+Computers,All-in-One,North America,Air Freight/Delivery Services,Eric Gruber,US-MIDWEST,$12700
+Computers,All-in-One,North America,Medical/Dental Instruments,Eric Gruber,US-MIDWEST,$12700
+Computers,Desktops,North America,Air Freight/Delivery Services,Molly Clark,US-SOUTH,$12700
+Electronics,Laser Printers,North America,Biotechnology: Commercial Physical & Biological Resarch,Alicia Thomber,US-WEST,$12700
+Furniture,Ergonomic Seating,North America,Clothing/Shoe/Accessory Stores,Molly Clark,US-SOUTH,$12700
+Furniture,Stand-up Desks,LATAM,Oil & Gas Production,Sanjay Shah,Panama,$12700
+Software,Design app,North America,Diversified Commercial Services,Alan Steiner,Canada,$12700
+Computers,All-in-One,EMEA,Real Estate Investment Trusts,Anne Weiler,France,$12600
+Computers,All-in-One,North America,Diversified Commercial Services,Alicia Thomber,US-WEST,$12600
+Furniture,Ergonomic Seating,North America,Major Chemicals,Molly Clark,US-SOUTH,$12600
+Furniture,Stand-up Desks,North America,Biotechnology: Commercial Physical & Biological Resarch,Alan Steiner,Canada,$12600
+Software,Design app,North America,Medical Specialities,David So,US-SOUTH,$12600
+Furniture,Ergonomic Seating,North America,Biotechnology: Commercial Physical & Biological Resarch,Alicia Thomber,US-WEST,$12500
+Furniture,Ergonomic Seating,North America,Oil/Gas Transmission,Molly Clark,US-SOUTH,$12500
+Software,Design app,North America,Investment Managers,Jeff Hay,US-MIDWEST,$12500
+Electronics,Laser Printers,North America,Major Banks,David So,US-SOUTH,$12400
+Electronics,Laser Printers,North America,Major Pharmaceuticals,Molly Clark,US-WEST,$12300
+Electronics,Laser Printers,North America,Packaged Foods,Jeff Hay,US-MIDWEST,$12300
+Electronics,Scanners,North America,Air Freight/Delivery Services,Molly Clark,US-SOUTH,$12300
+Computers,Desktops,North America,Automotive Aftermarket,Alicia Thomber,US-WEST,$12200
+Electronics,Scanners,APAC,Major Pharmaceuticals,Renee Lo,China,$12200
+Software,Design app,North America,Restaurants,David So,US-SOUTH,$12200
+Software,Mobile app,North America,Automotive Aftermarket,Eric Gruber,US-MIDWEST,$12200
+Software,Mobile app,North America,Biotechnology: Commercial Physical & Biological Resarch,Alicia Thomber,US-WEST,$12200
+Software,Mobile app,North America,Hospital/Nursing Management,Molly Clark,Mexico,$12200
+Computers,All-in-One,North America,Major Banks,Alicia Thomber,US-WEST,$12100
+Furniture,Stand-up Desks,EMEA,Home Furnishings,Anne Weiler,France,$12100
+Software,Mobile app,North America,Automotive Aftermarket,Molly Clark,US-SOUTH,$12100
+Computers,Desktops,North America,Ordnance And Accessories,David So,US-SOUTH,$12000
+Computers,Tablets,EMEA,Major Chemicals,Anne Weiler,Iceland,$12000
+Computers,Tablets,North America,Diversified Commercial Services,Julian Isla,US-NORTHEAST,$12000
+Electronics,Laser Printers,North America,Major Pharmaceuticals,Jeff Hay,US-MIDWEST,$12000
+Electronics,Laser Printers,North America,Oil & Gas Production,Molly Clark,US-SOUTH,$12000
+Furniture,Stand-up Desks,EMEA,Air Freight/Delivery Services,Anne Weiler,France,$12000
+Furniture,Stand-up Desks,North America,Property-Casualty Insurers,Alicia Thomber,US-WEST,$12000
+Software,Design app,North America,Medical Specialities,Alan Steiner,Canada,$12000
+Software,Mobile app,North America,Business Services,Alicia Thomber,US-WEST,$12000
+Computers,All-in-One,EMEA,,Anne Weiler,Finland,$11900
+Computers,Desktops,North America,Business Services,Molly Clark,US-SOUTH,$11900
+Electronics,Scanners,North America,Industrial Machinery/Components,Molly Clark,US-WEST,$11900
+Furniture,Ergonomic Seating,North America,Computer Software: Prepackaged Software,Molly Clark,US-WEST,$11900
+Furniture,Ergonomic Seating,North America,Oil & Gas Production,Alan Steiner,Canada,$11900
+Software,Design app,North America,Marine Transportation,Alan Steiner,Canada,$11900
+Software,Mobile app,EMEA,Recreational Products/Toys,Anne Weiler,France,$11900
+Software,Mobile app,North America,Savings Institutions,Molly Clark,US-WEST,$11900
+Computers,All-in-One,North America,Automotive Aftermarket,Alicia Thomber,US-WEST,$11800
+Computers,All-in-One,North America,Ordnance And Accessories,Alan Steiner,Canada,$11800
+Computers,All-in-One,North America,Property-Casualty Insurers,Alan Steiner,Canada,$11800
+Software,Design app,LATAM,,Sanjay Shah,Guatemala,$11800
+Software,Mobile app,North America,Major Pharmaceuticals,Julian Isla,US-NORTHEAST,$11800
+Computers,Desktops,North America,Savings Institutions,Molly Clark,US-SOUTH,$11700
+Computers,Tablets,EMEA,Hospital/Nursing Management,Anne Weiler,Germany,$11700
+Furniture,Stand-up Desks,EMEA,Hospital/Nursing Management,Anne Weiler,United Kingdom,$11700
+Furniture,Stand-up Desks,North America,Food Distributors,Spencer Low,US-SOUTH,$11700
+Software,Design app,North America,Diversified Commercial Services,Julian Isla,US-NORTHEAST,$11700
+Computers,All-in-One,North America,Real Estate,Jeff Hay,US-MIDWEST,$11600
+Electronics,Webcams,North America,Business Services,Alicia Thomber,US-WEST,$11600
+Furniture,Ergonomic Seating,North America,Computer Software: Prepackaged Software,David So,US-SOUTH,$11600
+Furniture,Stand-up Desks,EMEA,Major Pharmaceuticals,Anne Weiler,United Kingdom,$11600
+Software,Design app,APAC,Investment Managers,Renee Lo,Thailand,$11600
+Furniture,Ergonomic Seating,North America,Business Services,Molly Clark,US-SOUTH,$11500
+Computers,Desktops,North America,Home Furnishings,Alicia Thomber,US-WEST,$11400
+Computers,Desktops,North America,Paper,Eric Gruber,US-MIDWEST,$11400
+Electronics,Laser Printers,EMEA,Oilfield Services/Equipment,Anne Weiler,France,$11400
+Electronics,Laser Printers,North America,Major Banks,Alicia Thomber,US-WEST,$11400
+Furniture,Stand-up Desks,LATAM,Major Banks,Greg Winston,Brazil,$11400
+Furniture,Stand-up Desks,North America,Business Services,Molly Clark,US-WEST,$11400
+Furniture,Stand-up Desks,North America,Precious Metals,Julian Isla,US-NORTHEAST,$11400
+Software,Design app,EMEA,Air Freight/Delivery Services,Anne Weiler,France,$11400
+Software,Mobile app,North America,Real Estate,Alicia Thomber,US-WEST,$11400
+Electronics,Laser Printers,North America,Property-Casualty Insurers,Molly Clark,US-WEST,$11300
+Furniture,Ergonomic Seating,North America,Medical/Nursing Services,David So,US-SOUTH,$11300
+Software,Mobile app,North America,Transportation Services,Eric Gruber,US-MIDWEST,$11300
+Computers,Tablets,North America,Oilfield Services/Equipment,Jeff Hay,US-MIDWEST,$11200
+Electronics,Scanners,North America,Oil & Gas Production,Molly Clark,US-SOUTH,$11200
+Computers,Tablets,North America,Food Distributors,Alan Steiner,Canada,$11100
+Computers,Tablets,North America,Investment Managers,Jeff Hay,US-MIDWEST,$11100
+Furniture,Stand-up Desks,North America,Oilfield Services/Equipment,Julian Isla,US-NORTHEAST,$11000
+Computers,Tablets,EMEA,Clothing/Shoe/Accessory Stores,Anne Weiler,Germany,$10900
+Computers,Tablets,North America,Specialty Foods,Julian Isla,US-NORTHEAST,$10900
+Electronics,Laser Printers,North America,Marine Transportation,David So,US-SOUTH,$10900
+Furniture,Ergonomic Seating,North America,Real Estate,Alicia Thomber,US-WEST,$10900
+Furniture,Stand-up Desks,North America,Real Estate Investment Trusts,David So,US-SOUTH,$10900
+Software,Mobile app,North America,Computer Software: Prepackaged Software,David So,US-SOUTH,$10900
+Computers,Desktops,North America,Hospital/Nursing Management,David So,US-SOUTH,$10800
+Computers,Tablets,EMEA,Telecommunications Equipment,Anne Weiler,France,$10800
+Computers,Tablets,North America,Real Estate,Jeff Hay,US-MIDWEST,$10800
+Furniture,Stand-up Desks,EMEA,Business Services,Anne Weiler,South Africa,$10800
+Software,Design app,North America,Packaged Foods,Alan Steiner,Canada,$10800
+Computers,All-in-One,North America,Major Chemicals,Molly Clark,US-WEST,$10700
+Electronics,Laser Printers,North America,Precious Metals,David So,US-SOUTH,$10700
+Furniture,Stand-up Desks,North America,Hospital/Nursing Management,Molly Clark,Mexico,$10700
+Software,Mobile app,North America,Clothing/Shoe/Accessory Stores,Alan Steiner,Canada,$10700
+Computers,Tablets,North America,Hospital/Nursing Management,Alan Steiner,Canada,$10600
+Electronics,Laser Printers,APAC,,Renee Lo,New Zealand,$10600
+Electronics,Laser Printers,North America,Industrial Machinery/Components,Molly Clark,US-WEST,$10600
+Electronics,Scanners,North America,Industrial Machinery/Components,Spencer Low,US-SOUTH,$10600
+Electronics,Scanners,North America,,Alicia Thomber,US-WEST,$10600
+Furniture,Ergonomic Seating,North America,Medical Specialities,Eric Gruber,US-MIDWEST,$10600
+Furniture,Stand-up Desks,North America,Transportation Services,David So,US-SOUTH,$10600
+Software,Design app,EMEA,"Computer Software: Programming, Data Processing",Anne Weiler,Germany,$10600
+Software,Mobile app,North America,Automotive Aftermarket,Alicia Thomber,US-WEST,$10600
+Software,Mobile app,North America,Hospital/Nursing Management,David So,US-SOUTH,$10600
+Software,Mobile app,North America,Water Supply,Eric Gruber,US-MIDWEST,$10600
+Computers,All-in-One,North America,Packaged Foods,Alan Steiner,Canada,$10500
+Computers,All-in-One,North America,Restaurants,Alan Steiner,Canada,$10500
+Computers,Tablets,EMEA,Food Distributors,Anne Weiler,France,$10500
+Computers,Tablets,LATAM,EDP Services,Sanjay Shah,Colombia,$10500
+Computers,Tablets,North America,Recreational Products/Toys,Molly Clark,US-WEST,$10500
+Electronics,Webcams,North America,Industrial Machinery/Components,Spencer Low,US-SOUTH,$10500
+Furniture,Ergonomic Seating,North America,Medical/Dental Instruments,Alan Steiner,Canada,$10500
+Furniture,Stand-up Desks,APAC,Transportation Services,Renee Lo,Australia,$10500
+Furniture,Stand-up Desks,LATAM,Transportation Services,Sanjay Shah,Panama,$10500
+Software,Design app,North America,Life Insurance,Alan Steiner,Canada,$10500
+Computers,All-in-One,North America,Food Distributors,Spencer Low,US-SOUTH,$10400
+Furniture,Stand-up Desks,LATAM,Major Banks,Greg Winston,Argentina,$10400
+Software,Design app,North America,Integrated oil Companies,Eric Gruber,US-MIDWEST,$10400
+Software,Mobile app,North America,Investment Managers,Molly Clark,US-WEST,$10400
+Computers,Desktops,LATAM,Computer Software: Prepackaged Software,Greg Winston,Brazil,$10300
+Computers,Tablets,North America,Restaurants,Alan Steiner,Canada,$10300
+Furniture,Ergonomic Seating,North America,Packaged Foods,Jeff Hay,US-MIDWEST,$10300
+Software,Design app,EMEA,Computer Software: Prepackaged Software,Anne Weiler,Germany,$10300
+Software,Design app,LATAM,Major Banks,Sanjay Shah,Peru,$10300
+Computers,Desktops,North America,Air Freight/Delivery Services,Alan Steiner,Canada,$10200
+Computers,Tablets,EMEA,Life Insurance,Anne Weiler,United Kingdom,$10200
+Software,Design app,EMEA,Industrial Machinery/Components,Anne Weiler,France,$10200
+Computers,All-in-One,North America,Telecommunications Equipment,Alicia Thomber,US-WEST,$10100
+Computers,Tablets,EMEA,"Computer Software: Programming, Data Processing",Anne Weiler,Germany,$10100
+Computers,Tablets,EMEA,Major Chemicals,Anne Weiler,United Arab Emirates,$10100
+Electronics,Laser Printers,North America,Real Estate,Molly Clark,US-SOUTH,$10100
+Software,Design app,EMEA,Hospital/Nursing Management,Anne Weiler,United Kingdom,$10100
+Software,Mobile app,North America,Computer Software: Prepackaged Software,Alicia Thomber,US-WEST,$10100
+Computers,All-in-One,APAC,,Renee Lo,New Zealand,$10000
+Computers,Desktops,EMEA,Oilfield Services/Equipment,Anne Weiler,France,$10000
+Computers,Desktops,North America,Forest Products,Julian Isla,US-NORTHEAST,$10000
+Electronics,Scanners,North America,,Spencer Low,US-SOUTH,$10000
+Electronics,Webcams,North America,Major Pharmaceuticals,Molly Clark,US-WEST,$10000
+Software,Design app,North America,Paper,David So,US-SOUTH,$10000
+Software,Design app,North America,Real Estate Investment Trusts,Alan Steiner,Canada,$10000
+Computers,All-in-One,EMEA,Precious Metals,Anne Weiler,France,$9900
+Computers,All-in-One,North America,Precious Metals,Jeff Hay,US-MIDWEST,$9900
+Computers,All-in-One,North America,Transportation Services,Julian Isla,US-NORTHEAST,$9900
+Furniture,Stand-up Desks,North America,Major Pharmaceuticals,Spencer Low,US-SOUTH,$9900
+Software,Mobile app,APAC,Major Pharmaceuticals,Renee Lo,China,$9900
+Computers,Desktops,North America,Major Pharmaceuticals,Julian Isla,US-NORTHEAST,$9800
+Computers,Tablets,North America,Clothing/Shoe/Accessory Stores,Alan Steiner,Canada,$9800
+Electronics,Laser Printers,North America,Real Estate,Alicia Thomber,US-WEST,$9800
+Electronics,Scanners,North America,Investment Managers,Molly Clark,US-WEST,$9800
+Furniture,Ergonomic Seating,LATAM,Marine Transportation,Greg Winston,Brazil,$9800
+Furniture,Stand-up Desks,EMEA,Major Chemicals,Anne Weiler,United Arab Emirates,$9800
+Software,Mobile app,North America,Real Estate,Jeff Hay,US-MIDWEST,$9800
+Computers,All-in-One,North America,Savings Institutions,Molly Clark,US-WEST,$9700
+Computers,Desktops,North America,Packaged Foods,Jeff Hay,US-MIDWEST,$9700
+Computers,Tablets,North America,Home Furnishings,David So,US-SOUTH,$9700
+Furniture,Ergonomic Seating,North America,Major Banks,Alicia Thomber,US-WEST,$9700
+Software,Design app,EMEA,Medical/Nursing Services,Anne Weiler,France,$9700
+Software,Mobile app,North America,Medical/Dental Instruments,Molly Clark,Mexico,$9700
+Computers,All-in-One,North America,Food Distributors,Alan Steiner,Canada,$9600
+Computers,All-in-One,North America,Major Pharmaceuticals,Alan Steiner,Canada,$9600
+Computers,All-in-One,North America,Precious Metals,David So,US-SOUTH,$9600
+Computers,All-in-One,North America,Real Estate Investment Trusts,Alan Steiner,Canada,$9600
+Computers,Desktops,EMEA,,Anne Weiler,Finland,$9600
+Computers,Tablets,EMEA,Telecommunications Equipment,Anne Weiler,Germany,$9600
+Computers,Tablets,North America,Oil & Gas Production,David So,US-SOUTH,$9600
+Software,Design app,LATAM,Industrial Machinery/Components,Sanjay Shah,Peru,$9600
+Computers,All-in-One,North America,Major Chemicals,David So,US-SOUTH,$9500
+Computers,Desktops,North America,Oil & Gas Production,Molly Clark,US-SOUTH,$9500
+Computers,Tablets,EMEA,,Anne Weiler,United Kingdom,$9500
+Electronics,Scanners,APAC,,Renee Lo,New Zealand,$9500
+Furniture,Stand-up Desks,EMEA,Oilfield Services/Equipment,Anne Weiler,United Kingdom,$9500
+Software,Design app,EMEA,Clothing/Shoe/Accessory Stores,Anne Weiler,Germany,$9500
+Software,Design app,LATAM,Real Estate Investment Trusts,Sanjay Shah,Peru,$9500
+Software,Mobile app,North America,Medical/Nursing Services,David So,US-SOUTH,$9500
+Software,Mobile app,North America,Oilfield Services/Equipment,Molly Clark,US-SOUTH,$9500
+Computers,All-in-One,North America,Packaged Foods,Jeff Hay,US-MIDWEST,$9400
+Furniture,Ergonomic Seating,North America,Property-Casualty Insurers,Molly Clark,US-WEST,$9400
+Computers,All-in-One,North America,Automotive Aftermarket,Eric Gruber,US-MIDWEST,$9300
+Computers,Tablets,North America,Major Pharmaceuticals,Alan Steiner,Canada,$9300
+Electronics,Laser Printers,North America,Business Services,Molly Clark,US-SOUTH,$9300
+Software,Design app,North America,Medical/Dental Instruments,Molly Clark,Mexico,$9300
+Software,Mobile app,North America,Savings Institutions,Molly Clark,US-SOUTH,$9300
+Computers,Desktops,LATAM,Life Insurance,Greg Winston,Brazil,$9200
+Computers,Desktops,LATAM,Major Pharmaceuticals,Greg Winston,Brazil,$9200
+Computers,Desktops,North America,Savings Institutions,Molly Clark,US-WEST,$9200
+Furniture,Ergonomic Seating,LATAM,Telecommunications Equipment,Sanjay Shah,Colombia,$9200
+Furniture,Stand-up Desks,EMEA,Medical/Nursing Services,Anne Weiler,Russia,$9200
+Software,Design app,EMEA,Oilfield Services/Equipment,Anne Weiler,United Kingdom,$9200
+Software,Design app,North America,Food Distributors,Alan Steiner,Canada,$9200
+Computers,All-in-One,APAC,Oil & Gas Production,Renee Lo,Australia,$9100
+Computers,Desktops,North America,Diversified Commercial Services,Alicia Thomber,US-WEST,$9100
+Computers,Desktops,North America,Major Pharmaceuticals,Alicia Thomber,US-WEST,$9100
+Computers,Desktops,North America,Precious Metals,David So,US-SOUTH,$9100
+Computers,Tablets,APAC,Automotive Aftermarket,Renee Lo,Australia,$9100
+Electronics,Webcams,North America,Major Pharmaceuticals,Julian Isla,US-NORTHEAST,$9100
+Furniture,Stand-up Desks,EMEA,Hospital/Nursing Management,Anne Weiler,Germany,$9100
+Furniture,Stand-up Desks,North America,Biotechnology: Commercial Physical & Biological Resarch,Eric Gruber,US-MIDWEST,$9100
+Furniture,Stand-up Desks,North America,Industrial Machinery/Components,Alan Steiner,Canada,$9100
+Software,Design app,North America,Investment Managers,Alan Steiner,Canada,$9100
+Software,Mobile app,North America,Packaged Foods,Molly Clark,US-WEST,$9100

@@ -1,0 +1,3 @@
+Manager:Weiler, Anne,Weiler, Anne,Low, Spencer,Weiler, Anne,Low, Spencer,Low, Spencer,Low, Spencer,Weiler, Anne
+Revenue Won:$4027600.0,$3212700.0,$3200000.0,$1872300.0,$1808900.0,$1393600.0,$624900.0,$605400.0
+Product category:Software,Computers,Software,Furniture,Computers,Furniture,Electronics,Electronics

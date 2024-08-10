@@ -1,0 +1,9 @@
+Report Name: corporateSpend
+Page Name: Plan Variance Analysis
+Visual Name: Var Plan %
+
+Insights:
+Single Column: Var Plan %
+
+This csv contains only 1 entry that is Var Plan % and the value is 6.78%
+

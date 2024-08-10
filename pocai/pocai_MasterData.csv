@@ -1,0 +1,18 @@
+,Page_id,Page_Name,Visual_ID,Visualization,Title
+0,ReportSection76c409e0c333d60bb1e2,Key Influencers,01af2f16cdd3b0443588,barChart,Close % by Product category
+1,ReportSectionacd41c847407a998c130,Decomposition Tree,ec80685720004c638d61,keyDriversVisual,Key Influencers
+2,ReportSection909ea50e7939156807d6,Anomaly Detection,dffa0f419ae872471ebc,barChart,Revenue Won by Product
+3,ReportSectionacd41c847407a998c130,Decomposition Tree,143a9f40e6397414f4d5,barChart,Sales Opportunity by Campaign Type
+4,ReportSection909ea50e7939156807d6,Anomaly Detection,24a67f1afa332056d39b,barChart,Opportunity Count by Region
+5,ReportSection76c409e0c333d60bb1e2,Key Influencers,954d6f9432c76cbb2ca1,decompositionTreeVisual,Decomposition tree
+6,ReportSection909ea50e7939156807d6,Anomaly Detection,01af2f16cdd3b0443588,clusteredBarChart,Revenue Won by Manager and Product category
+7,ReportSection76c409e0c333d60bb1e2,Key Influencers,dffa0f419ae872471ebc,barChart,Revenue Won by Product
+8,ReportSectionacd41c847407a998c130,Decomposition Tree,fc17242bbbb17dca1d06,lineChart,Revenue Won by Year and Month
+9,ReportSectionacd41c847407a998c130,Decomposition Tree,973daaf957db1570ac87,slicer,Date slicer
+10,ReportSectionacd41c847407a998c130,Decomposition Tree,143a9f40e6397414f4d5,barChart,Sales Opportunity by Campaign Type
+11,ReportSectionacd41c847407a998c130,Decomposition Tree,24a67f1afa332056d39b,barChart,Opportunity Count by Region
+12,ReportSectionacd41c847407a998c130,Decomposition Tree,954d6f9432c76cbb2ca1,decompositionTreeVisual,Decomposition tree
+13,ReportSection909ea50e7939156807d6,Anomaly Detection,01af2f16cdd3b0443588,clusteredBarChart,Revenue Won by Manager and Product category
+14,ReportSection909ea50e7939156807d6,Anomaly Detection,dffa0f419ae872471ebc,barChart,Revenue Won by Product
+15,ReportSection909ea50e7939156807d6,Anomaly Detection,fc17242bbbb17dca1d06,lineChart,Revenue Won by Year and Month
+16,ReportSection909ea50e7939156807d6,Anomaly Detection,973daaf957db1570ac87,slicer,Date slicer

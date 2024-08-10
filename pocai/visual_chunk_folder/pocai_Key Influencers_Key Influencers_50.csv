@@ -1,0 +1,151 @@
+Status,Purchase Process,Sales owner,Industry,Product,Value,Manager,Product category,Campaign Name,Discount
+Won,Unknown,Eric Gruber,Paper,All-in-One,$15100,"Weiler, Anne",Computers,,1.3%
+Won,Unknown,Eric Gruber,Paper,Mobile app,$15000,"Weiler, Anne",Software,,1.3%
+Won,Unknown,Eric Gruber,Paper,Tablets,$12000,"Weiler, Anne",Computers,,6.3%
+Won,Unknown,Eric Gruber,Real Estate Investment Trusts,All-in-One,$28000,"Weiler, Anne",Computers,,1.3%
+Won,Unknown,Eric Gruber,Real Estate Investment Trusts,All-in-One,$3400,"Weiler, Anne",Computers,Consumer Tradeshow,2.8%
+Won,Unknown,Eric Gruber,Real Estate Investment Trusts,Design app,$2600,"Weiler, Anne",Software,Customer Follow-up,5.8%
+Won,Unknown,Eric Gruber,Real Estate Investment Trusts,Mobile app,$5800,"Weiler, Anne",Software,,1.3%
+Won,Unknown,Eric Gruber,Real Estate Investment Trusts,Mobile app,$6300,"Weiler, Anne",Software,Customer Care Campaign,3.8%
+Won,Unknown,Eric Gruber,Real Estate Investment Trusts,Tablets,$4800,"Weiler, Anne",Computers,,6.3%
+Won,Unknown,Eric Gruber,Transportation Services,All-in-One,$3300,"Weiler, Anne",Computers,,1.3%
+Won,Unknown,Eric Gruber,Transportation Services,Mobile app,$3300,"Weiler, Anne",Software,,1.3%
+Won,Unknown,Eric Gruber,Water Supply,All-in-One,$2700,"Weiler, Anne",Computers,,1.3%
+Won,Unknown,Greg Winston,Business Services,All-in-One,$8700,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Business Services,Design app,$3200,"Weiler, Anne",Software,Customer Follow-up,5.7%
+Won,Unknown,Greg Winston,Business Services,Mobile app,$3400,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Business Services,Mobile app,$3000,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,Business Services,Tablets,$2300,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Computer Software: Prepackaged Software,All-in-One,$3900,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Computer Software: Prepackaged Software,Mobile app,$13800,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Computer Software: Prepackaged Software,Mobile app,$2500,"Weiler, Anne",Software,Consumer Tradeshow,2.7%
+Won,Unknown,Greg Winston,Computer Software: Prepackaged Software,Mobile app,$3300,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,Computer Software: Prepackaged Software,Tablets,$4900,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Computer Software: Prepackaged Software,Tablets,$4400,"Weiler, Anne",Computers,Consumer Tradeshow,7.7%
+Won,Unknown,Greg Winston,"Computer Software: Programming, Data Processing",All-in-One,$22600,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,"Computer Software: Programming, Data Processing",Design app,$3400,"Weiler, Anne",Software,Customer Follow-up,5.7%
+Won,Unknown,Greg Winston,"Computer Software: Programming, Data Processing",Mobile app,$22100,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,"Computer Software: Programming, Data Processing",Mobile app,$5600,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,"Computer Software: Programming, Data Processing",Tablets,$9700,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Industrial Machinery/Components,All-in-One,$8900,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Industrial Machinery/Components,All-in-One,$3500,"Weiler, Anne",Computers,Monthly Newsletter,1.7%
+Won,Unknown,Greg Winston,Industrial Machinery/Components,Design app,$2900,"Weiler, Anne",Software,Customer Follow-up,5.7%
+Won,Unknown,Greg Winston,Industrial Machinery/Components,Mobile app,$19300,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Industrial Machinery/Components,Tablets,$7800,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Life Insurance,All-in-One,$19500,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Life Insurance,All-in-One,$3800,"Weiler, Anne",Computers,Consumer Tradeshow,2.7%
+Won,Unknown,Greg Winston,Life Insurance,All-in-One,$6000,"Weiler, Anne",Computers,Monthly Newsletter,1.7%
+Won,Unknown,Greg Winston,Life Insurance,Design app,$2900,"Weiler, Anne",Software,Customer Care Campaign,5.7%
+Won,Unknown,Greg Winston,Life Insurance,Design app,$6600,"Weiler, Anne",Software,Customer Follow-up,5.7%
+Won,Unknown,Greg Winston,Life Insurance,Mobile app,$20300,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Life Insurance,Mobile app,$7800,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,Life Insurance,Mobile app,$2800,"Weiler, Anne",Software,Monthly Newsletter,1.7%
+Won,Unknown,Greg Winston,Life Insurance,Tablets,$20700,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Major Banks,All-in-One,$6600,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Major Banks,All-in-One,$2600,"Weiler, Anne",Computers,Monthly Newsletter,1.7%
+Won,Unknown,Greg Winston,Major Banks,Mobile app,$18100,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Major Banks,Mobile app,$12200,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,Major Banks,Tablets,$13900,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Major Pharmaceuticals,All-in-One,$22600,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Major Pharmaceuticals,All-in-One,$3700,"Weiler, Anne",Computers,Monthly Newsletter,1.7%
+Won,Unknown,Greg Winston,Major Pharmaceuticals,Design app,$6900,"Weiler, Anne",Software,Customer Follow-up,5.7%
+Won,Unknown,Greg Winston,Major Pharmaceuticals,Mobile app,$6900,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Major Pharmaceuticals,Mobile app,$2700,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,Major Pharmaceuticals,Tablets,$17000,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Marine Transportation,All-in-One,$12900,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Marine Transportation,All-in-One,$2700,"Weiler, Anne",Computers,Consumer Tradeshow,2.7%
+Won,Unknown,Greg Winston,Marine Transportation,Mobile app,$15300,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Marine Transportation,Tablets,$7500,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Marine Transportation,Tablets,$2100,"Weiler, Anne",Computers,Consumer Tradeshow,7.7%
+Won,Unknown,Greg Winston,,All-in-One,$43600,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,,All-in-One,$2700,"Weiler, Anne",Computers,Monthly Newsletter,1.7%
+Won,Unknown,Greg Winston,,Design app,$4000,"Weiler, Anne",Software,Customer Care Campaign,5.7%
+Won,Unknown,Greg Winston,,Design app,$7700,"Weiler, Anne",Software,Customer Follow-up,5.7%
+Won,Unknown,Greg Winston,,Mobile app,$66600,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,,Mobile app,$11600,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,,Tablets,$22300,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,,Tablets,$2800,"Weiler, Anne",Computers,Consumer Tradeshow,7.7%
+Won,Unknown,Greg Winston,Packaged Foods,All-in-One,$10200,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Packaged Foods,Mobile app,$7200,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Packaged Foods,Mobile app,$3000,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,Packaged Foods,Tablets,$8200,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Greg Winston,Restaurants,All-in-One,$8000,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Restaurants,Mobile app,$8500,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Telecommunications Equipment,All-in-One,$10000,"Weiler, Anne",Computers,,1.2%
+Won,Unknown,Greg Winston,Telecommunications Equipment,Mobile app,$9700,"Weiler, Anne",Software,,1.2%
+Won,Unknown,Greg Winston,Telecommunications Equipment,Mobile app,$4600,"Weiler, Anne",Software,Customer Care Campaign,3.7%
+Won,Unknown,Greg Winston,Telecommunications Equipment,Mobile app,$2700,"Weiler, Anne",Software,Monthly Newsletter,1.7%
+Won,Unknown,Greg Winston,Telecommunications Equipment,Tablets,$4900,"Weiler, Anne",Computers,,6.2%
+Won,Unknown,Jeff Hay,Air Freight/Delivery Services,Tablets,$2900,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Jeff Hay,Forest Products,Design app,$3400,"Low, Spencer",Software,Monthly Newsletter,3.8%
+Won,Unknown,Jeff Hay,Forest Products,Laser Printers,$1000,"Low, Spencer",Electronics,Monthly Newsletter,2.8%
+Won,Unknown,Jeff Hay,Forest Products,Mobile app,$3000,"Low, Spencer",Software,Customer Care Campaign,3.8%
+Won,Unknown,Jeff Hay,Forest Products,Tablets,$2000,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Jeff Hay,Investment Managers,Mobile app,$3300,"Low, Spencer",Software,Customer Care Campaign,3.8%
+Won,Unknown,Jeff Hay,Investment Managers,Tablets,$7200,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Jeff Hay,Investment Managers,Webcams,$600,"Low, Spencer",Electronics,Market Trends Newsletter,4.8%
+Won,Unknown,Jeff Hay,Major Chemicals,Laser Printers,$1300,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Jeff Hay,Major Chemicals,Tablets,$1600,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Design app,$5900,"Low, Spencer",Software,Customer Follow-up,5.8%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Desktops,$1500,"Low, Spencer",Computers,,3.8%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Ergonomic Seating,$3900,"Low, Spencer",Furniture,Consumer Tradeshow,5.3%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Laser Printers,$3500,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Laser Printers,$2700,"Low, Spencer",Electronics,Monthly Newsletter,2.8%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Mobile app,$3400,"Low, Spencer",Software,Customer Care Campaign,3.8%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Stand-up Desks,$3800,"Low, Spencer",Furniture,Twitter,3.8%
+Won,Unknown,Jeff Hay,Major Pharmaceuticals,Tablets,$7300,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Jeff Hay,,Design app,$5600,"Low, Spencer",Software,Monthly Newsletter,3.8%
+Won,Unknown,Jeff Hay,,Desktops,$6100,"Low, Spencer",Computers,,3.8%
+Won,Unknown,Jeff Hay,,Ergonomic Seating,$3500,"Low, Spencer",Furniture,New Product Releases,5.3%
+Won,Unknown,Jeff Hay,,Laser Printers,$2500,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Jeff Hay,,Laser Printers,$4500,"Low, Spencer",Electronics,Monthly Newsletter,2.8%
+Won,Unknown,Jeff Hay,,Mobile app,$2900,"Low, Spencer",Software,Customer Care Campaign,3.8%
+Won,Unknown,Jeff Hay,,Stand-up Desks,$2900,"Low, Spencer",Furniture,Market Trends Newsletter,4.8%
+Won,Unknown,Jeff Hay,,Tablets,$31600,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Jeff Hay,,Tablets,$2400,"Low, Spencer",Computers,Consumer Tradeshow,7.8%
+Won,Unknown,Jeff Hay,,Webcams,$200,"Low, Spencer",Electronics,Market Trends Newsletter,4.8%
+Won,Unknown,Jeff Hay,,Webcams,$600,"Low, Spencer",Electronics,Twitter,3.8%
+Won,Unknown,Jeff Hay,Oilfield Services/Equipment,Ergonomic Seating,$3000,"Low, Spencer",Furniture,,3.8%
+Won,Unknown,Jeff Hay,Packaged Foods,Desktops,$2600,"Low, Spencer",Computers,,3.8%
+Won,Unknown,Jeff Hay,Packaged Foods,Ergonomic Seating,$2200,"Low, Spencer",Furniture,New Product Releases,5.3%
+Won,Unknown,Jeff Hay,Packaged Foods,Laser Printers,$2600,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Jeff Hay,Packaged Foods,Mobile app,$2300,"Low, Spencer",Software,Customer Care Campaign,3.8%
+Won,Unknown,Jeff Hay,Packaged Foods,Stand-up Desks,$2300,"Low, Spencer",Furniture,Consumer Tradeshow,4.8%
+Won,Unknown,Jeff Hay,Packaged Foods,Tablets,$12000,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Jeff Hay,Packaged Foods,Tablets,$1600,"Low, Spencer",Computers,Consumer Tradeshow,7.8%
+Won,Unknown,Jeff Hay,Packaged Foods,Webcams,$100,"Low, Spencer",Electronics,Twitter,3.8%
+Won,Unknown,Jeff Hay,Precious Metals,Stand-up Desks,$4600,"Low, Spencer",Furniture,New Product Releases,4.8%
+Won,Unknown,Jeff Hay,Real Estate,Ergonomic Seating,$4400,"Low, Spencer",Furniture,,3.8%
+Won,Unknown,Jeff Hay,Real Estate,Laser Printers,$1000,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Jeff Hay,Real Estate,Tablets,$4800,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Julian Isla,Clothing/Shoe/Accessory Stores,Design app,$7600,"Low, Spencer",Software,,3.3%
+Won,Unknown,Julian Isla,Clothing/Shoe/Accessory Stores,Tablets,$2700,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Julian Isla,Clothing/Shoe/Accessory Stores,Webcams,$500,"Low, Spencer",Electronics,,3.3%
+Won,Unknown,Julian Isla,Diversified Commercial Services,Design app,$6100,"Low, Spencer",Software,,3.3%
+Won,Unknown,Julian Isla,Diversified Commercial Services,Laser Printers,$1200,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Julian Isla,Diversified Commercial Services,Laser Printers,$1200,"Low, Spencer",Electronics,Monthly Newsletter,2.8%
+Won,Unknown,Julian Isla,Diversified Commercial Services,Mobile app,$2300,"Low, Spencer",Software,Customer Care Campaign,3.8%
+Won,Unknown,Julian Isla,Diversified Commercial Services,Tablets,$1800,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Julian Isla,Diversified Commercial Services,Webcams,$200,"Low, Spencer",Electronics,,3.3%
+Won,Unknown,Julian Isla,Diversified Commercial Services,Webcams,$800,"Low, Spencer",Electronics,Market Trends Newsletter,4.8%
+Won,Unknown,Julian Isla,Electric Utilities: Central,All-in-One,$3900,"Low, Spencer",Computers,Consumer Tradeshow,2.8%
+Won,Unknown,Julian Isla,Electric Utilities: Central,Design app,$12800,"Low, Spencer",Software,,3.3%
+Won,Unknown,Julian Isla,Electric Utilities: Central,Design app,$2900,"Low, Spencer",Software,Customer Follow-up,5.8%
+Won,Unknown,Julian Isla,Electric Utilities: Central,Ergonomic Seating,$3800,"Low, Spencer",Furniture,,3.8%
+Won,Unknown,Julian Isla,Forest Products,Design app,$19900,"Low, Spencer",Software,,3.3%
+Won,Unknown,Julian Isla,Forest Products,Ergonomic Seating,$3500,"Low, Spencer",Furniture,,3.8%
+Won,Unknown,Julian Isla,Forest Products,Laser Printers,$1000,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Julian Isla,Forest Products,Laser Printers,$1200,"Low, Spencer",Electronics,Monthly Newsletter,2.8%
+Won,Unknown,Julian Isla,Forest Products,Scanners,$2000,"Low, Spencer",Electronics,New Product Releases,1.8%
+Won,Unknown,Julian Isla,Forest Products,Stand-up Desks,$8800,"Low, Spencer",Furniture,,3.3%
+Won,Unknown,Julian Isla,Forest Products,Tablets,$4700,"Low, Spencer",Computers,,6.3%
+Won,Unknown,Julian Isla,Forest Products,Webcams,$2000,"Low, Spencer",Electronics,,3.3%
+Won,Unknown,Julian Isla,Forest Products,Webcams,$400,"Low, Spencer",Electronics,Twitter,3.8%
+Won,Unknown,Julian Isla,Home Furnishings,All-in-One,$2800,"Low, Spencer",Computers,Monthly Newsletter,1.8%
+Won,Unknown,Julian Isla,Home Furnishings,Design app,$48400,"Low, Spencer",Software,,3.3%
+Won,Unknown,Julian Isla,Home Furnishings,Design app,$3900,"Low, Spencer",Software,Consumer Tradeshow,4.8%
+Won,Unknown,Julian Isla,Home Furnishings,Design app,$3300,"Low, Spencer",Software,Monthly Newsletter,3.8%
+Won,Unknown,Julian Isla,Home Furnishings,Ergonomic Seating,$700,"Low, Spencer",Furniture,New Product Releases,5.3%
+Won,Unknown,Julian Isla,Home Furnishings,Laser Printers,$1400,"Low, Spencer",Electronics,,2.3%
+Won,Unknown,Julian Isla,Home Furnishings,Scanners,$2800,"Low, Spencer",Electronics,New Product Releases,1.8%
+Won,Unknown,Julian Isla,Home Furnishings,Stand-up Desks,$10000,"Low, Spencer",Furniture,,3.3%

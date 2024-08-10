@@ -1,0 +1,2 @@
+Campaign Type:Email,Phone,Tradeshow,Online
+Sales Opportunity:$4045600,$2743600,$1288800,$328800

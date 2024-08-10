@@ -1,0 +1,19 @@
+Report Name: corporateSpend
+Page Name: IT Spend Trend
+Visual Name: Slicer
+
+Insights:
+Single Column: Sales Region
+
+Africa & Asia - 1
+
+Aus and NZ - 1
+
+Canada - 1
+
+Europe - 1
+
+Latin America - 1
+
+USA - 1
+

@@ -1,0 +1,40 @@
+Report Name: corporateSpend
+Page Name: IT Spend Trend
+Visual Name: Actual by Period and Business Area
+
+Insights:
+Categorical columns:
+Business Area
+
+Numerical columns:
+Period, Actual
+
+Columns: Business Area
+ - Infrastructure: 12
+ - Manufacturing: 12
+ - BU: 12
+ - Office & Administrative: 12
+ - R&D: 12
+ - Distribution: 12
+ - Services: 12
+
+Numerical Insights for Period grouped by Business Area:
+          Business Area  count    sum  mean    max   min
+                     BU     12 $78.00 $6.50 $12.00 $1.00
+           Distribution     12 $78.00 $6.50 $12.00 $1.00
+         Infrastructure     12 $78.00 $6.50 $12.00 $1.00
+          Manufacturing     12 $78.00 $6.50 $12.00 $1.00
+Office & Administrative     12 $78.00 $6.50 $12.00 $1.00
+                    R&D     12 $78.00 $6.50 $12.00 $1.00
+               Services     12 $78.00 $6.50 $12.00 $1.00
+
+Numerical Insights for Actual grouped by Business Area:
+          Business Area  count            sum          mean            max         min
+                     BU     12 $29,963,620.00 $2,496,968.33  $5,083,931.00 $218,070.00
+           Distribution     12 $12,739,602.00 $1,061,633.50  $2,007,478.00  $93,708.00
+         Infrastructure     12 $93,448,952.00 $7,787,412.67 $15,527,462.00 $691,531.00
+          Manufacturing     12 $40,215,487.00 $3,351,290.58  $6,208,613.00 $598,517.00
+Office & Administrative     12 $14,794,459.00 $1,232,871.58  $2,188,511.00 $168,829.00
+                    R&D     12 $12,796,732.00 $1,066,394.33  $2,028,178.00 $112,008.00
+               Services     12  $3,194,525.00   $266,210.42    $483,366.00 $114,160.00
+

@@ -1,0 +1,16 @@
+Report Name: RevenueOpportunities
+Page Name: Opportunity Overview
+Visual Name: Pipeline by Stage
+
+Insights:
+Columns: Sales Stage, Opportunity Count
+
+Sum of Opportunity Count grouped by Sales Stage:
+
+Sales Stage  Opportunity Count
+   Finalize                 14
+       Lead                239
+   Proposal                 37
+    Qualify                 94
+   Solution                 74
+

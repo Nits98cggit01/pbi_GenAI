@@ -1,0 +1,251 @@
+Var Plan,Sales Region,Period,IT Area,IT Sub Area,Country/Region
+-14764.950000000004,Europe,2,Functional,R1,Germany
+-14802.806999999972,Europe,6,Infrastructure,Productivity,Austria
+-14815.01100000001,Europe,11,Enablement,Innovation,Austria
+-14863.635000000017,Europe,10,Functional,R2,Spain
+-15141.953999999998,Europe,4,Functional,R3,Switzerland
+-15214.718999999996,Europe,3,Functional,R3,Switzerland
+-15651.723,Europe,4,Enablement,Innovation,Austria
+-15677.136,Europe,3,Infrastructure,Data Centers,Germany
+-15750.0,Europe,4,BU Support,Production,Switzerland
+-15867.320999999996,Europe,6,Functional,R2,Germany
+-15981.290999999996,Europe,3,BU Support,Distribution,Spain
+-16152.642,Europe,5,Functional,R3,Belgium
+-16731.48,Europe,1,Infrastructure,Productivity,Austria
+-16809.434999999998,Europe,4,Functional,R3,Belgium
+-16854.738,Europe,2,Infrastructure,Data Centers,Germany
+-17103.70499999998,Europe,12,Infrastructure,Data Centers,Spain
+-17239.136999999988,Europe,7,Infrastructure,Productivity,Austria
+-17254.94099999999,Europe,5,BU Support,R&D,Spain
+-17276.688000000002,Europe,3,Functional,R3,Belgium
+-17813.49900000001,Europe,3,BU Support,Distribution,France
+-18041.802,Europe,1,Infrastructure,Productivity,Belgium
+-18349.974,Europe,4,Infrastructure,Data Centers,Germany
+-18485.754,Europe,4,BU Support,R&D,Spain
+-18492.09299999999,Europe,8,Infrastructure,Data Centers,Spain
+-18643.206,Europe,2,Governance,GRC,Italy
+-18664.836,Europe,3,BU Support,Planning,France
+-19008.588000000025,Europe,11,Functional,R2,Spain
+-19234.803,Europe,9,Infrastructure,Data Centers,Spain
+-19486.911,Europe,10,Enablement,Innovation,Austria
+-19564.476,Europe,5,Enablement,Innovation,Austria
+-19687.5,Europe,5,BU Support,Production,Switzerland
+-20009.486999999976,Europe,4,Governance,Administration,Italy
+-20122.176000000003,Europe,2,Governance,GRC,Spain
+-20278.914,Europe,9,Enablement,Innovation,Austria
+-20360.736000000004,Europe,5,Infrastructure,Data Centers,Germany
+-20379.861000000004,Europe,5,BU Support,Distribution,France
+-20449.227,Europe,4,BU Support,Distribution,Spain
+-20881.389,Europe,1,BU Support,Manufacturing,Italy
+-21063.60599999994,Europe,3,BU Support,Manufacturing,Ireland
+-21342.618000000017,Europe,7,Infrastructure,Data Centers,Germany
+-21436.305,Europe,8,Enablement,Innovation,Austria
+-21546.761999999995,Europe,3,Governance,GRC,Italy
+-21730.616999999984,Europe,6,BU Support,R&D,Spain
+-21994.659,Europe,1,Infrastructure,Productivity,Ireland
+-22070.25899999999,Europe,3,Functional,R1,Spain
+-22366.554,Europe,7,Enablement,Innovation,Austria
+-22529.736,Europe,2,Infrastructure,Productivity,Belgium
+-22530.68400000001,Europe,4,Governance,GRC,Italy
+-22611.839999999986,Europe,10,Enablement,EIM,Italy
+-22985.883000000016,Europe,6,Infrastructure,Data Centers,Germany
+-23065.788,Europe,5,Governance,GRC,Italy
+-23075.723999999987,Europe,7,BU Support,R&D,Spain
+-23093.253,Europe,3,Enablement,EIM,Italy
+-23294.433000000023,Europe,12,Functional,R2,Spain
+-23477.307,Europe,6,Enablement,Innovation,Austria
+-23625.0,Europe,6,BU Support,Production,Switzerland
+-23916.830999999976,Europe,8,BU Support,R&D,Spain
+-23980.95300000004,Europe,6,Infrastructure,Productivity,Italy
+-24346.112999999983,Europe,6,Governance,GRC,Italy
+-24581.48399999999,Europe,4,BU Support,Planning,France
+-24766.220999999976,Europe,3,Governance,Administration,Italy
+-24850.031999999992,Europe,10,Infrastructure,Data Centers,Spain
+-25085.315999999995,Europe,5,BU Support,Distribution,Spain
+-25336.235999999983,Europe,9,Enablement,EIM,Italy
+-25677.399,Europe,2,Infrastructure,Networking,Germany
+-26304.52800000002,Europe,9,BU Support,R&D,Spain
+-26401.62300000002,Europe,3,BU Support,Manufacturing,Italy
+-26472.822000000004,Europe,2,Enablement,Enterprise Capabilities,United Kingdom
+-27199.041000000005,Europe,1,Governance,GRC,Germany
+-27304.91400000002,Europe,8,Infrastructure,Data Centers,Germany
+-27310.542000000005,Europe,3,Functional,R1,Germany
+-27412.025999999983,Europe,7,Governance,GRC,Italy
+-27562.5,Europe,7,BU Support,Production,Switzerland
+-27605.7,Europe,2,Infrastructure,Productivity,Austria
+-28279.331999999995,Europe,10,BU Support,R&D,Spain
+-28584.744,Europe,2,Infrastructure,Productivity,Netherlands
+-28609.13699999996,Europe,8,Infrastructure,Productivity,Austria
+-28899.25199999997,Europe,8,Enablement,EIM,Italy
+-29028.033,Europe,4,BU Support,Distribution,France
+-29393.271000000008,Europe,6,BU Support,Distribution,France
+-29633.421,Europe,9,Infrastructure,Data Centers,Germany
+-29831.793000000005,Europe,4,Infrastructure,Productivity,Italy
+-30185.562,Europe,6,BU Support,Distribution,Spain
+-30199.52999999999,Europe,4,Enablement,EIM,Italy
+-30402.522,Europe,11,BU Support,R&D,Spain
+-30735.480000000003,Europe,5,BU Support,Planning,France
+-30742.173,Europe,4,Functional,R1,Spain
+-30809.241000000005,Europe,3,Governance,GRC,Spain
+-31335.197999999986,Europe,7,Enablement,EIM,Italy
+-31500.0,Europe,8,BU Support,Production,Switzerland
+-31629.32399999993,Europe,4,BU Support,Manufacturing,Ireland
+-32433.419999999984,Europe,4,BU Support,R&D,United Kingdom
+-32446.043999999994,Europe,7,Infrastructure,Productivity,Italy
+-32458.54500000004,Europe,9,BU Support,Distribution,United Kingdom
+-32480.72099999999,Europe,3,Infrastructure,Networking,Germany
+-32662.45500000003,Europe,12,Governance,GRC,France
+-33217.793999999994,Europe,5,Enablement,EIM,Italy
+-33797.22600000001,Europe,7,Functional,R3,Belgium
+-33959.18099999999,Europe,4,Infrastructure,Networking,Germany
+-34382.553,Europe,4,Functional,R1,Germany
+-34440.09599999999,Europe,8,Governance,GRC,Italy
+-34623.288,Europe,3,Enablement,Enterprise Capabilities,United Kingdom
+-34664.990999999995,Europe,2,BU Support,Manufacturing,Italy
+-34728.68699999995,Europe,1,Infrastructure,Productivity,France
+-34748.89799999999,Europe,12,BU Support,R&D,Spain
+-34763.82299999999,Europe,7,BU Support,Distribution,Spain
+-34933.18500000001,Europe,5,Infrastructure,Networking,Germany
+-35048.643000000004,Europe,8,Functional,R3,Belgium
+-35437.5,Europe,9,BU Support,Production,Switzerland
+-35475.44100000011,Europe,9,Functional,R1,Belgium
+-35499.00299999997,Europe,10,Infrastructure,Productivity,Austria
+-35607.846000000005,Europe,6,Functional,R3,Belgium
+-35811.00900000002,Europe,10,Infrastructure,Data Centers,Germany
+-36303.94799999989,Europe,5,BU Support,Manufacturing,Ireland
+-36557.15699999999,Europe,6,Infrastructure,Networking,Germany
+-37329.36600000001,Europe,11,Infrastructure,Data Centers,Germany
+-38100.29999999999,Europe,7,Infrastructure,Networking,Germany
+-38312.715000000026,Europe,12,Infrastructure,Productivity,Austria
+-38457.633000000045,Europe,2,Infrastructure,Productivity,Germany
+-38519.57700000005,Europe,5,Infrastructure,Productivity,Italy
+-38955.09300000034,Europe,8,Functional,R1,Belgium
+-39229.89599999997,Europe,1,Infrastructure,Productivity,United Kingdom
+-39375.0,Europe,10,BU Support,Production,Switzerland
+-39498.04500000001,Europe,12,Infrastructure,Data Centers,Germany
+-39505.95899999997,Europe,8,Infrastructure,Networking,Germany
+-39676.98,Europe,5,Functional,R1,Spain
+-40244.42699999998,Europe,6,Enablement,EIM,Italy
+-40299.82500000001,Europe,6,BU Support,Planning,France
+-40421.097,Europe,1,Functional,R1,Italy
+-41194.74900000001,Europe,9,Infrastructure,Networking,Germany
+-41259.79799999995,Europe,2,Infrastructure,Productivity,France
+-41451.19500000002,Europe,2,Infrastructure,Productivity,Ireland
+-41492.71800000001,Europe,4,Governance,GRC,Spain
+-41852.259000000005,Europe,5,Functional,R1,Germany
+-42107.22900000028,Europe,12,BU Support,R&D,United Kingdom
+-42121.026,Europe,4,Enablement,Enterprise Capabilities,United Kingdom
+-42508.812000000005,Europe,1,Infrastructure,Productivity,Italy
+-42577.69199999998,Europe,9,Governance,GRC,Italy
+-43215.29099999997,Europe,10,Infrastructure,Productivity,Italy
+-43312.5,Europe,11,BU Support,Production,Switzerland
+-43494.87899999999,Europe,11,Infrastructure,Networking,Germany
+-43613.14199999996,Europe,7,BU Support,Distribution,France
+-43726.281,Europe,8,BU Support,Distribution,Spain
+-43743.24299999999,Europe,10,Infrastructure,Networking,Germany
+-44214.65999999992,Europe,8,Infrastructure,Productivity,Italy
+-44350.23000000004,Europe,8,BU Support,Distribution,United Kingdom
+-44721.36899999995,Europe,12,Infrastructure,Networking,Germany
+-45467.994000000006,Europe,3,Infrastructure,Productivity,Netherlands
+-45868.34700000001,Europe,11,Governance,GRC,Italy
+-46675.425,Europe,1,Functional,R1,Germany
+-46697.804999999935,Europe,9,Infrastructure,Productivity,Italy
+-46881.573,Europe,7,BU Support,Planning,France
+-47250.0,Europe,12,BU Support,Production,Switzerland
+-47806.34999999998,Europe,11,Infrastructure,Productivity,Austria
+-48467.025,Europe,6,Infrastructure,Productivity,Netherlands
+-48520.10400000002,Europe,2,Infrastructure,Productivity,Italy
+-48613.14599999999,Europe,2,Governance,GRC,United Kingdom
+-48816.852,Europe,6,Functional,R1,Spain
+-49119.156,Europe,5,Enablement,Enterprise Capabilities,United Kingdom
+-49513.773,Europe,4,Infrastructure,Productivity,Netherlands
+-49579.25399999999,Europe,8,BU Support,Distribution,France
+-49688.52300000001,Europe,9,BU Support,Distribution,Spain
+-49760.39999999991,Europe,6,BU Support,Manufacturing,France
+-50682.02100000002,Europe,1,Infrastructure,Productivity,Germany
+-50836.07100000005,Europe,10,Governance,GRC,Italy
+-52082.63100000001,Europe,3,Infrastructure,Productivity,Ireland
+-52161.465,Europe,5,Governance,GRC,Spain
+-52380.37800000001,Europe,6,Functional,R1,Germany
+-52420.788000000015,Europe,10,Functional,R3,Belgium
+-52569.09299999988,Europe,6,BU Support,Manufacturing,Ireland
+-52765.76700000005,Europe,10,Infrastructure,Productivity,Netherlands
+-52941.54299999999,Europe,1,Governance,GRC,United Kingdom
+-53102.51700000001,Europe,9,Functional,R3,Belgium
+-53190.99600000003,Europe,9,Infrastructure,Productivity,Netherlands
+-53941.60499999999,Europe,1,BU Support,R&D,United Kingdom
+-54179.82600000001,Europe,10,BU Support,Distribution,Spain
+-55681.47000000003,Europe,12,Infrastructure,Productivity,Netherlands
+-55701.195,Europe,8,Functional,R1,Germany
+-56317.389,Europe,7,Infrastructure,Productivity,Netherlands
+-56471.32200000001,Europe,6,Enablement,Enterprise Capabilities,United Kingdom
+-56968.626,Europe,8,Infrastructure,Productivity,Netherlands
+-57066.015,Europe,7,Functional,R1,Spain
+-58364.628000000026,Europe,12,Governance,GRC,Italy
+-58597.99500000005,Europe,11,Infrastructure,Productivity,Netherlands
+-59302.51199999997,Europe,11,BU Support,Distribution,Spain
+-59724.006,Europe,5,Infrastructure,Productivity,Netherlands
+-59826.59999999999,Europe,7,Functional,R1,Germany
+-60710.49300000004,Europe,7,BU Support,Distribution,United Kingdom
+-61033.806,Europe,8,BU Support,Planning,France
+-61840.51500000004,Europe,6,BU Support,Distribution,United Kingdom
+-61849.890000000014,Europe,3,Governance,GRC,United Kingdom
+-62433.444,Europe,7,Enablement,Enterprise Capabilities,United Kingdom
+-62827.42500000001,Europe,6,Governance,GRC,Spain
+-63523.35600000009,Europe,7,Infrastructure,Productivity,Ireland
+-64394.094000000005,Europe,10,Functional,R1,Germany
+-65097.12299999999,Europe,12,BU Support,Distribution,Spain
+-65617.28100000002,Europe,11,Functional,R3,Belgium
+-66386.03400000001,Europe,8,Functional,R1,Spain
+-66823.25400000002,Europe,8,Governance,GRC,Spain
+-67558.593,Europe,9,BU Support,Distribution,France
+-68092.33200000001,Europe,8,Enablement,Enterprise Capabilities,United Kingdom
+-68144.00100000016,Europe,11,BU Support,R&D,United Kingdom
+-69368.079,Europe,9,Functional,R1,Germany
+-70353.68700000003,Europe,5,BU Support,Distribution,United Kingdom
+-70706.70900000002,Europe,12,Functional,R3,Belgium
+-71325.84600000002,Europe,12,Functional,R1,Germany
+-71490.65400000001,Europe,9,Functional,R1,Spain
+-71749.791,Europe,11,Functional,R1,Germany
+-71877.522,Europe,12,Governance,Administration,Germany
+-73658.073,Europe,7,Governance,GRC,Spain
+-73793.073,Europe,11,Governance,Administration,Germany
+-75163.78800000002,Europe,9,BU Support,Planning,France
+-75267.78299999997,Europe,3,Infrastructure,Productivity,Switzerland
+-75830.02500000001,Europe,10,Governance,Administration,Germany
+-76511.84399999998,Europe,10,BU Support,Distribution,France
+-77653.90500000003,Europe,9,Governance,GRC,Spain
+-77791.122,Europe,9,Governance,Administration,Germany
+-78199.49699999992,Europe,7,BU Support,Manufacturing,Ireland
+-78263.97600000002,Europe,4,BU Support,Distribution,United Kingdom
+-78610.61700000003,Europe,10,Functional,R1,Spain
+-79864.71,Europe,8,Governance,Administration,Germany
+-80120.7479999999,Europe,11,BU Support,Manufacturing,Italy
+-80927.46300000005,Europe,4,BU Support,Manufacturing,Italy
+-81190.65,Europe,2,Functional,R1,Italy
+-81263.094,Europe,7,Governance,Administration,Germany
+-82142.27100000002,Europe,3,BU Support,Distribution,United Kingdom
+-83466.033,Europe,6,BU Support,Manufacturing,Italy
+-83499.87300000002,Europe,11,BU Support,Distribution,France
+-83723.829,Europe,6,Governance,Administration,Germany
+-84316.81799999997,Europe,5,BU Support,R&D,United Kingdom
+-84661.98599999999,Europe,5,Governance,Administration,Germany
+-84916.227,Europe,3,Infrastructure,Productivity,Italy
+-85577.16300000018,Europe,10,BU Support,R&D,United Kingdom
+-86618.96999999986,Europe,8,BU Support,Manufacturing,Ireland
+-86723.12700000002,Europe,9,Enablement,Enterprise Capabilities,United Kingdom
+-87430.18500000003,Europe,11,Functional,R1,Spain
+-88484.55300000004,Europe,10,Governance,GRC,Spain
+-88535.47200000007,Europe,6,Functional,R1,Belgium
+-89422.83300000001,Europe,10,BU Support,Planning,France
+-89932.91700000002,Europe,5,Governance,GRC,United Kingdom
+-90079.08900000004,Europe,4,Infrastructure,Productivity,Ireland
+-90752.793,Europe,1,Functional,R1,Belgium
+-92863.90499999993,Europe,6,BU Support,R&D,United Kingdom
+-93280.28999999992,Europe,9,BU Support,Manufacturing,Ireland
+-93763.743,Europe,10,Enablement,Enterprise Capabilities,United Kingdom
+-95065.161,Europe,1,Functional,R2,United Kingdom
+-96764.41500000004,Europe,12,Functional,R1,Spain
+-97216.27200000004,Europe,6,Infrastructure,Productivity,Ireland
+-98467.6709999998,Europe,11,BU Support,Manufacturing,Ireland
+-99442.42200000014,Europe,9,BU Support,R&D,United Kingdom

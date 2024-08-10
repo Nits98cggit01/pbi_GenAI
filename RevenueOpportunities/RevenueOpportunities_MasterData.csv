@@ -1,0 +1,10 @@
+,Page_id,Page_Name,Visual_ID,Visualization,Title
+0,ReportSection,Opportunity Overview,8a2c970418c8c8b490ba,barChart,Revenue by Region and State
+1,ReportSection,Opportunity Overview,772b1906500006b78011,barChart,Pipeline by Stage
+2,ReportSection,Opportunity Overview,0fa4715079a4d5b14dc6,card,Revenue
+3,ReportSection,Opportunity Overview,efc42a2f1a28997b4092,lineStackedColumnComboChart,Revenue and Opportunity Count by Month
+4,ReportSection,Opportunity Overview,91b894da4c7a504a0d7c,filledMap,Revenue by State
+5,ReportSection,Opportunity Overview,eaf58d9fd08140688010,treemap,Opportunity Count by Region
+6,ReportSection,Opportunity Overview,77960fe4d6dd7e864e6c,slicer,Product Slicer
+7,ReportSection,Opportunity Overview,2a48b7b9c411369725ca,card,Count
+8,ReportSection9380eec50a2a0165bb4b,Detail,df4f5199190e7a2291de,pivotTable,Matrix

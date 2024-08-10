@@ -1,0 +1,327 @@
+Report Name: artificial
+Page Name: Key Influencers
+Visual Name: Key Influencers
+
+Insights:
+Categorical Fields:
+Status, Purchase Process, Sales owner, Industry, Product, Manager, Product category, Campaign Name
+
+Numerical Fields:
+Value, Discount
+
+Field: Status
+ - Won: 5177
+ - Lost: 2806
+
+Field: Purchase Process
+ - Committee: 2782
+ - Individual: 2708
+ - Unknown: 2493
+
+Field: Sales owner
+ - Molly Clark: 1069
+ - David So: 1055
+ - Anne Weiler: 949
+ - Alan Steiner: 874
+ - Greg Winston: 741
+ - Alicia Thomber: 733
+ - Eric Gruber: 712
+ - Sanjay Shah: 436
+ - Spencer Low: 403
+ - Julian Isla: 377
+ - Jeff Hay: 351
+ - Renee Lo: 283
+
+Field: Industry
+ - Major Pharmaceuticals: 583
+ - Real Estate Investment Trusts: 333
+ - Oil & Gas Production: 320
+ - Major Banks: 308
+ - Industrial Machinery/Components: 294
+ - Computer Software: Prepackaged Software: 279
+ - Major Chemicals: 239
+ - Oilfield Services/Equipment: 227
+ - Air Freight/Delivery Services: 220
+ - Restaurants: 217
+ - Business Services: 205
+ - Home Furnishings: 202
+ - Computer Software: Programming, Data Processing: 184
+ - Food Distributors: 182
+ - Packaged Foods: 172
+ - Hospital/Nursing Management: 158
+ - Property-Casualty Insurers: 154
+ - Marine Transportation: 150
+ - Precious Metals: 149
+ - Life Insurance: 149
+ - Medical Specialities: 147
+ - Recreational Products/Toys: 140
+ - Forest Products: 139
+ - Telecommunications Equipment: 138
+ - Clothing/Shoe/Accessory Stores: 136
+ - Savings Institutions: 132
+ - Medical/Nursing Services: 127
+ - Automotive Aftermarket: 119
+ - Real Estate: 119
+ - Transportation Services: 116
+ - Oil/Gas Transmission: 116
+ - Integrated oil Companies: 105
+ - Ordnance And Accessories: 105
+ - Other Specialty Stores: 104
+ - Medical/Dental Instruments: 103
+ - Investment Managers: 99
+ - Diversified Commercial Services: 98
+ - Biotechnology: Commercial Physical & Biological Resarch: 85
+ - EDP Services: 68
+ - Paper: 68
+ - Computer Manufacturing: 68
+ - Water Supply: 61
+ - Specialty Foods: 60
+ - Electric Utilities: Central: 40
+
+Field: Product
+ - Design app: 1470
+ - Stand-up Desks: 991
+ - Webcams: 865
+ - Mobile app: 804
+ - Laser Printers: 737
+ - All-in-One: 718
+ - Scanners: 716
+ - Tablets: 632
+ - Ergonomic Seating: 542
+ - Desktops: 508
+
+Field: Manager
+ - Weiler, Anne: 5064
+ - Low, Spencer: 2919
+
+Field: Product category
+ - Electronics: 2318
+ - Software: 2274
+ - Computers: 1858
+ - Furniture: 1533
+
+Field: Campaign Name
+ - Monthly Newsletter: 765
+ - New Product Releases: 504
+ - Customer Care Campaign: 478
+ - Consumer Tradeshow: 459
+ - Market Trends Newsletter: 378
+ - Twitter: 299
+ - Customer Follow-up: 296
+
+Numerical Insights for Value grouped by Status:
+Status  count            sum      mean         max     min
+  Lost   2806 $14,759,000.00 $5,259.80 $107,800.00 $100.00
+   Won   5177 $29,621,000.00 $5,721.65 $122,800.00 $100.00
+
+Numerical Insights for Discount grouped by Status:
+Status  count        sum  mean   max   min
+  Lost   2806  $7,517.50 $2.68 $7.80 $0.10
+   Won   5177 $19,911.30 $3.85 $9.00 $0.20
+
+Numerical Insights for Value grouped by Purchase Process:
+Purchase Process  count            sum      mean         max     min
+       Committee   2782 $15,737,200.00 $5,656.79 $122,800.00 $100.00
+      Individual   2708 $14,489,600.00 $5,350.66  $84,900.00 $100.00
+         Unknown   2493 $14,153,200.00 $5,677.18 $107,800.00 $100.00
+
+Numerical Insights for Discount grouped by Purchase Process:
+Purchase Process  count       sum  mean   max   min
+       Committee   2782 $9,622.10 $3.46 $9.00 $0.10
+      Individual   2708 $9,345.50 $3.45 $9.00 $0.10
+         Unknown   2493 $8,461.20 $3.39 $9.00 $0.10
+
+Numerical Insights for Value grouped by Sales owner:
+   Sales owner  count           sum      mean         max     min
+  Alan Steiner    874 $3,942,700.00 $4,511.10  $38,400.00 $100.00
+Alicia Thomber    733 $4,510,600.00 $6,153.62  $82,800.00 $100.00
+   Anne Weiler    949 $5,289,900.00 $5,574.18  $95,300.00 $100.00
+      David So   1055 $5,832,800.00 $5,528.72  $73,300.00 $100.00
+   Eric Gruber    712 $3,763,700.00 $5,286.10  $75,900.00 $100.00
+  Greg Winston    741 $5,165,800.00 $6,971.39 $107,800.00 $100.00
+      Jeff Hay    351 $1,746,800.00 $4,976.64  $45,600.00 $100.00
+   Julian Isla    377 $2,007,600.00 $5,325.20  $55,300.00 $100.00
+   Molly Clark   1069 $6,394,600.00 $5,981.85 $122,800.00 $100.00
+      Renee Lo    283 $1,537,300.00 $5,432.16  $61,700.00 $100.00
+   Sanjay Shah    436 $1,685,900.00 $3,866.74  $30,100.00 $100.00
+   Spencer Low    403 $2,502,300.00 $6,209.18  $76,000.00 $100.00
+
+Numerical Insights for Discount grouped by Sales owner:
+   Sales owner  count       sum  mean   max   min
+  Alan Steiner    874 $3,096.30 $3.54 $9.00 $0.30
+Alicia Thomber    733 $2,509.90 $3.42 $8.80 $0.30
+   Anne Weiler    949 $3,351.80 $3.53 $9.00 $0.10
+      David So   1055 $3,577.00 $3.39 $8.80 $0.30
+   Eric Gruber    712 $2,448.10 $3.44 $8.80 $0.30
+  Greg Winston    741 $2,613.70 $3.53 $8.70 $0.20
+      Jeff Hay    351 $1,167.80 $3.33 $7.80 $0.30
+   Julian Isla    377 $1,229.60 $3.26 $8.80 $0.30
+   Molly Clark   1069 $3,600.60 $3.37 $9.00 $0.30
+      Renee Lo    283   $984.20 $3.48 $9.00 $0.20
+   Sanjay Shah    436 $1,452.40 $3.33 $7.70 $0.10
+   Spencer Low    403 $1,397.40 $3.47 $8.80 $0.30
+
+Numerical Insights for Value grouped by Industry:
+                                               Industry  count           sum      mean         max     min
+                          Air Freight/Delivery Services    220 $1,066,300.00 $4,846.82  $38,400.00 $100.00
+                                 Automotive Aftermarket    119   $537,700.00 $4,518.49  $26,000.00 $200.00
+Biotechnology: Commercial Physical & Biological Resarch     85   $412,600.00 $4,854.12  $42,700.00 $200.00
+                                      Business Services    205 $1,198,300.00 $5,845.37  $42,900.00 $100.00
+                         Clothing/Shoe/Accessory Stores    136   $609,200.00 $4,479.41  $29,800.00 $200.00
+                                 Computer Manufacturing     68   $332,500.00 $4,889.71  $29,300.00 $400.00
+                Computer Software: Prepackaged Software    279 $1,538,600.00 $5,514.70  $40,000.00 $100.00
+        Computer Software: Programming, Data Processing    184   $913,800.00 $4,966.30  $26,400.00 $100.00
+                        Diversified Commercial Services     98   $436,800.00 $4,457.14  $45,700.00 $200.00
+                                           EDP Services     68   $249,100.00 $3,663.24  $17,700.00 $600.00
+                            Electric Utilities: Central     40   $170,100.00 $4,252.50  $16,000.00 $100.00
+                                      Food Distributors    182   $717,800.00 $3,943.96  $28,000.00 $200.00
+                                        Forest Products    139   $721,000.00 $5,187.05  $36,200.00 $100.00
+                                       Home Furnishings    202 $1,163,000.00 $5,757.43  $54,300.00 $100.00
+                            Hospital/Nursing Management    158   $748,600.00 $4,737.97  $26,800.00 $100.00
+                        Industrial Machinery/Components    294 $1,754,300.00 $5,967.01  $76,000.00 $100.00
+                               Integrated oil Companies    105   $473,200.00 $4,506.67  $26,100.00 $100.00
+                                    Investment Managers     99   $322,500.00 $3,257.58  $12,000.00 $100.00
+                                         Life Insurance    149   $872,000.00 $5,852.35  $53,000.00 $200.00
+                                            Major Banks    308 $1,780,100.00 $5,779.55  $48,700.00 $100.00
+                                        Major Chemicals    239 $1,248,100.00 $5,222.18  $67,600.00 $100.00
+                                  Major Pharmaceuticals    583 $4,241,100.00 $7,274.61 $122,800.00 $100.00
+                                  Marine Transportation    150   $700,600.00 $4,670.67  $25,600.00 $100.00
+                                   Medical Specialities    147   $597,800.00 $4,066.67  $28,600.00 $200.00
+                             Medical/Dental Instruments    103   $473,300.00 $4,595.15  $31,400.00 $100.00
+                               Medical/Nursing Services    127   $604,300.00 $4,758.27  $32,900.00 $200.00
+                                   Oil & Gas Production    320 $1,554,700.00 $4,858.44  $40,000.00 $100.00
+                                   Oil/Gas Transmission    116   $542,200.00 $4,674.14  $40,300.00 $100.00
+                            Oilfield Services/Equipment    227 $1,149,300.00 $5,063.00  $32,900.00 $100.00
+                               Ordnance And Accessories    105   $603,500.00 $5,747.62  $26,200.00 $100.00
+                                 Other Specialty Stores    104   $630,000.00 $6,057.69  $50,000.00 $300.00
+                                         Packaged Foods    172   $769,600.00 $4,474.42  $23,100.00 $100.00
+                                                  Paper     68   $345,100.00 $5,075.00  $21,200.00 $100.00
+                                        Precious Metals    149   $580,800.00 $3,897.99  $17,800.00 $100.00
+                             Property-Casualty Insurers    154   $732,000.00 $4,753.25  $47,700.00 $100.00
+                                            Real Estate    119   $587,000.00 $4,932.77  $34,100.00 $100.00
+                          Real Estate Investment Trusts    333 $1,835,000.00 $5,510.51  $39,700.00 $100.00
+                             Recreational Products/Toys    140   $818,600.00 $5,847.14  $32,800.00 $200.00
+                                            Restaurants    217 $1,619,500.00 $7,463.13  $95,300.00 $100.00
+                                   Savings Institutions    132   $538,900.00 $4,082.58  $23,200.00 $100.00
+                                        Specialty Foods     60   $237,900.00 $3,965.00  $19,400.00 $100.00
+                           Telecommunications Equipment    138   $610,800.00 $4,426.09  $23,700.00 $200.00
+                                Transportation Services    116   $398,600.00 $3,436.21  $15,900.00 $400.00
+                                           Water Supply     61   $279,900.00 $4,588.52  $26,400.00 $600.00
+
+Numerical Insights for Discount grouped by Industry:
+                                               Industry  count       sum  mean   max   min
+                          Air Freight/Delivery Services    220   $776.50 $3.53 $8.80 $0.30
+                                 Automotive Aftermarket    119   $404.90 $3.40 $7.80 $0.30
+Biotechnology: Commercial Physical & Biological Resarch     85   $279.20 $3.28 $8.00 $0.30
+                                      Business Services    205   $711.90 $3.47 $7.80 $0.20
+                         Clothing/Shoe/Accessory Stores    136   $469.30 $3.45 $9.00 $0.30
+                                 Computer Manufacturing     68   $225.40 $3.31 $7.80 $0.30
+                Computer Software: Prepackaged Software    279   $942.00 $3.38 $8.80 $0.10
+        Computer Software: Programming, Data Processing    184   $637.80 $3.47 $8.70 $0.20
+                        Diversified Commercial Services     98   $319.20 $3.26 $7.80 $0.30
+                                           EDP Services     68   $216.10 $3.18 $7.70 $0.20
+                            Electric Utilities: Central     40   $130.50 $3.26 $7.80 $0.30
+                                      Food Distributors    182   $626.70 $3.44 $8.00 $0.30
+                                        Forest Products    139   $482.70 $3.47 $9.00 $0.30
+                                       Home Furnishings    202   $715.90 $3.54 $8.80 $0.20
+                            Hospital/Nursing Management    158   $548.20 $3.47 $8.00 $0.30
+                        Industrial Machinery/Components    294   $997.30 $3.39 $8.80 $0.20
+                               Integrated oil Companies    105   $350.50 $3.34 $8.80 $0.30
+                                    Investment Managers     99   $347.90 $3.51 $9.00 $0.30
+                                         Life Insurance    149   $529.40 $3.55 $8.80 $0.20
+                                            Major Banks    308 $1,062.30 $3.45 $8.70 $0.20
+                                        Major Chemicals    239   $802.60 $3.36 $7.90 $0.10
+                                  Major Pharmaceuticals    583 $1,978.20 $3.39 $9.00 $0.20
+                                  Marine Transportation    150   $515.20 $3.43 $7.80 $0.20
+                                   Medical Specialities    147   $490.30 $3.34 $9.00 $0.10
+                             Medical/Dental Instruments    103   $334.10 $3.24 $7.80 $0.30
+                               Medical/Nursing Services    127   $436.50 $3.44 $7.80 $0.30
+                                   Oil & Gas Production    320 $1,131.40 $3.54 $8.80 $0.30
+                                   Oil/Gas Transmission    116   $380.10 $3.28 $7.80 $0.20
+                            Oilfield Services/Equipment    227   $752.40 $3.31 $9.00 $0.10
+                               Ordnance And Accessories    105   $385.40 $3.67 $9.00 $0.30
+                                 Other Specialty Stores    104   $358.70 $3.45 $6.30 $0.30
+                                         Packaged Foods    172   $580.60 $3.38 $7.80 $0.20
+                                                  Paper     68   $247.90 $3.65 $7.80 $0.30
+                                        Precious Metals    149   $493.40 $3.31 $7.80 $0.30
+                             Property-Casualty Insurers    154   $537.20 $3.49 $8.00 $0.30
+                                            Real Estate    119   $382.70 $3.22 $7.80 $0.30
+                          Real Estate Investment Trusts    333 $1,158.40 $3.48 $8.80 $0.20
+                             Recreational Products/Toys    140   $502.80 $3.59 $8.00 $0.30
+                                            Restaurants    217   $789.80 $3.64 $9.00 $0.20
+                                   Savings Institutions    132   $435.20 $3.30 $6.50 $0.30
+                                        Specialty Foods     60   $200.00 $3.33 $7.80 $0.30
+                           Telecommunications Equipment    138   $475.90 $3.45 $8.80 $0.20
+                                Transportation Services    116   $387.20 $3.34 $9.00 $0.10
+                                           Water Supply     61   $219.30 $3.60 $9.00 $0.50
+
+Numerical Insights for Value grouped by Product:
+          Product  count            sum       mean         max       min
+       All-in-One    718  $5,856,300.00  $8,156.41  $60,400.00 $2,500.00
+       Design app   1470 $15,000,100.00 $10,204.15 $122,800.00 $2,500.00
+         Desktops    508  $1,481,600.00  $2,916.54  $16,000.00 $1,000.00
+Ergonomic Seating    542  $2,113,900.00  $3,900.18  $27,500.00   $500.00
+   Laser Printers    737  $1,772,300.00  $2,404.75  $17,000.00 $1,000.00
+       Mobile app    804  $4,831,600.00  $6,009.45  $66,600.00 $2,000.00
+         Scanners    716  $1,913,100.00  $2,671.93  $22,900.00   $500.00
+   Stand-up Desks    991  $6,135,200.00  $6,190.92  $46,600.00 $2,000.00
+          Tablets    632  $4,379,000.00  $6,928.80  $41,900.00 $1,000.00
+          Webcams    865    $896,900.00  $1,036.88   $8,400.00   $100.00
+
+Numerical Insights for Discount grouped by Product:
+          Product  count       sum  mean   max   min
+       All-in-One    718 $1,066.80 $1.49 $3.00 $1.10
+       Design app   1470 $5,938.60 $4.04 $6.00 $3.10
+         Desktops    508 $2,172.40 $4.28 $6.50 $3.60
+Ergonomic Seating    542 $2,372.50 $4.38 $5.50 $3.60
+   Laser Printers    737 $1,927.10 $2.61 $5.00 $2.10
+       Mobile app    804 $1,814.90 $2.26 $4.00 $1.10
+         Scanners    716   $735.70 $1.03 $3.00 $0.10
+   Stand-up Desks    991 $3,905.70 $3.94 $5.00 $3.10
+          Tablets    632 $4,273.40 $6.76 $9.00 $6.10
+          Webcams    865 $3,221.70 $3.72 $5.00 $3.10
+
+Numerical Insights for Value grouped by Manager:
+     Manager  count            sum      mean         max     min
+Low, Spencer   2919 $15,874,500.00 $5,438.34 $122,800.00 $100.00
+Weiler, Anne   5064 $28,505,500.00 $5,629.05 $107,800.00 $100.00
+
+Numerical Insights for Discount grouped by Manager:
+     Manager  count        sum  mean   max   min
+Low, Spencer   2919  $9,832.00 $3.37 $9.00 $0.10
+Weiler, Anne   5064 $17,596.80 $3.47 $9.00 $0.10
+
+Numerical Insights for Value grouped by Product category:
+Product category  count            sum      mean         max       min
+       Computers   1858 $11,716,900.00 $6,306.19  $60,400.00 $1,000.00
+     Electronics   2318  $4,582,300.00 $1,976.83  $22,900.00   $100.00
+       Furniture   1533  $8,249,100.00 $5,381.02  $46,600.00   $500.00
+        Software   2274 $19,831,700.00 $8,721.06 $122,800.00 $2,000.00
+
+Numerical Insights for Discount grouped by Product category:
+Product category  count       sum  mean   max   min
+       Computers   1858 $7,512.60 $4.04 $9.00 $1.10
+     Electronics   2318 $5,884.50 $2.54 $5.00 $0.10
+       Furniture   1533 $6,278.20 $4.10 $5.50 $3.10
+        Software   2274 $7,753.50 $3.41 $6.00 $1.10
+
+Numerical Insights for Value grouped by Campaign Name:
+           Campaign Name  count           sum      mean        max       min
+      Consumer Tradeshow    459 $1,474,500.00 $3,212.42 $15,300.00   $700.00
+  Customer Care Campaign    478 $1,662,700.00 $3,478.45 $20,400.00   $500.00
+      Customer Follow-up    296 $1,527,500.00 $5,160.47 $22,700.00 $2,500.00
+Market Trends Newsletter    378   $652,600.00 $1,726.46  $7,900.00   $100.00
+      Monthly Newsletter    765 $2,832,200.00 $3,702.22 $31,400.00 $1,000.00
+    New Product Releases    504 $1,899,000.00 $3,767.86 $18,200.00   $100.00
+                 Twitter    299   $517,100.00 $1,729.43 $12,200.00   $100.00
+
+Numerical Insights for Discount grouped by Campaign Name:
+           Campaign Name  count       sum  mean   max   min
+      Consumer Tradeshow    459 $2,470.30 $5.38 $8.00 $2.70
+  Customer Care Campaign    478 $2,158.90 $4.52 $9.00 $2.60
+      Customer Follow-up    296 $1,719.60 $5.81 $6.00 $5.60
+Market Trends Newsletter    378 $1,393.60 $3.69 $5.50 $1.60
+      Monthly Newsletter    765 $2,374.80 $3.10 $4.00 $1.70
+    New Product Releases    504 $2,265.60 $4.50 $7.80 $1.70
+                 Twitter    299   $935.20 $3.13 $4.50 $0.60
+

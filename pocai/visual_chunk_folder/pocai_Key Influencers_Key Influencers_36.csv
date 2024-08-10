@@ -1,0 +1,151 @@
+Status,Purchase Process,Sales owner,Industry,Product,Value,Manager,Product category,Campaign Name,Discount
+Won,Individual,Renee Lo,,Design app,$3400,"Low, Spencer",Software,Customer Follow-up,5.7%
+Won,Individual,Renee Lo,,Design app,$3500,"Low, Spencer",Software,Monthly Newsletter,3.7%
+Won,Individual,Renee Lo,,Ergonomic Seating,$1200,"Low, Spencer",Furniture,,3.7%
+Won,Individual,Renee Lo,,Laser Printers,$4600,"Low, Spencer",Electronics,,2.2%
+Won,Individual,Renee Lo,,Laser Printers,$1200,"Low, Spencer",Electronics,Monthly Newsletter,2.7%
+Won,Individual,Renee Lo,,Mobile app,$2600,"Low, Spencer",Software,,1.2%
+Won,Individual,Renee Lo,,Scanners,$3000,"Low, Spencer",Electronics,,0.2%
+Won,Individual,Renee Lo,,Scanners,$2700,"Low, Spencer",Electronics,Market Trends Newsletter,1.7%
+Won,Individual,Renee Lo,,Stand-up Desks,$4000,"Low, Spencer",Furniture,,3.2%
+Won,Individual,Renee Lo,,Stand-up Desks,$4100,"Low, Spencer",Furniture,Market Trends Newsletter,4.7%
+Won,Individual,Renee Lo,,Stand-up Desks,$8500,"Low, Spencer",Furniture,New Product Releases,4.7%
+Won,Individual,Renee Lo,,Tablets,$7800,"Low, Spencer",Computers,,6.2%
+Won,Individual,Renee Lo,,Webcams,$2500,"Low, Spencer",Electronics,,3.2%
+Won,Individual,Renee Lo,Oil & Gas Production,All-in-One,$2500,"Low, Spencer",Computers,,1.5%
+Won,Individual,Renee Lo,Oil & Gas Production,Design app,$5700,"Low, Spencer",Software,,3.5%
+Won,Individual,Renee Lo,Oil & Gas Production,Design app,$3500,"Low, Spencer",Software,Monthly Newsletter,4.0%
+Won,Individual,Renee Lo,Oil & Gas Production,Desktops,$6300,"Low, Spencer",Computers,,4.0%
+Won,Individual,Renee Lo,Oil & Gas Production,Desktops,$2300,"Low, Spencer",Computers,Consumer Tradeshow,5.5%
+Won,Individual,Renee Lo,Oil & Gas Production,Ergonomic Seating,$3200,"Low, Spencer",Furniture,Consumer Tradeshow,5.5%
+Won,Individual,Renee Lo,Oil & Gas Production,Laser Printers,$1200,"Low, Spencer",Electronics,,2.5%
+Won,Individual,Renee Lo,Oil & Gas Production,Mobile app,$2700,"Low, Spencer",Software,,1.5%
+Won,Individual,Renee Lo,Oil & Gas Production,Scanners,$2300,"Low, Spencer",Electronics,Twitter,1.0%
+Won,Individual,Renee Lo,Precious Metals,Design app,$6400,"Low, Spencer",Software,,3.5%
+Won,Individual,Renee Lo,Precious Metals,Tablets,$1500,"Low, Spencer",Computers,,6.5%
+Won,Individual,Renee Lo,Precious Metals,Webcams,$700,"Low, Spencer",Electronics,Market Trends Newsletter,5.0%
+Won,Individual,Renee Lo,Property-Casualty Insurers,All-in-One,$3400,"Low, Spencer",Computers,,1.2%
+Won,Individual,Renee Lo,Property-Casualty Insurers,Design app,$5800,"Low, Spencer",Software,,3.2%
+Won,Individual,Renee Lo,Property-Casualty Insurers,Design app,$3800,"Low, Spencer",Software,Consumer Tradeshow,4.7%
+Won,Individual,Renee Lo,Property-Casualty Insurers,Design app,$3300,"Low, Spencer",Software,Monthly Newsletter,3.7%
+Won,Individual,Renee Lo,Property-Casualty Insurers,Desktops,$2900,"Low, Spencer",Computers,Consumer Tradeshow,5.2%
+Won,Individual,Renee Lo,Property-Casualty Insurers,Tablets,$9500,"Low, Spencer",Computers,,6.2%
+Won,Individual,Renee Lo,Transportation Services,All-in-One,$2700,"Low, Spencer",Computers,,1.5%
+Won,Individual,Renee Lo,Transportation Services,Design app,$12100,"Low, Spencer",Software,,3.5%
+Won,Individual,Renee Lo,Transportation Services,Design app,$3100,"Low, Spencer",Software,Consumer Tradeshow,5.0%
+Won,Individual,Renee Lo,Transportation Services,Desktops,$2000,"Low, Spencer",Computers,,4.0%
+Won,Individual,Renee Lo,Transportation Services,Ergonomic Seating,$3900,"Low, Spencer",Furniture,New Product Releases,5.5%
+Won,Individual,Renee Lo,Transportation Services,Stand-up Desks,$3700,"Low, Spencer",Furniture,,3.5%
+Won,Individual,Renee Lo,Transportation Services,Stand-up Desks,$4700,"Low, Spencer",Furniture,New Product Releases,5.0%
+Won,Individual,Renee Lo,Transportation Services,Webcams,$600,"Low, Spencer",Electronics,,3.5%
+Won,Individual,Renee Lo,Water Supply,All-in-One,$6800,"Low, Spencer",Computers,,1.5%
+Won,Individual,Renee Lo,Water Supply,All-in-One,$2600,"Low, Spencer",Computers,Consumer Tradeshow,3.0%
+Won,Individual,Renee Lo,Water Supply,Design app,$10200,"Low, Spencer",Software,,3.5%
+Won,Individual,Renee Lo,Water Supply,Design app,$3500,"Low, Spencer",Software,Customer Care Campaign,6.0%
+Won,Individual,Renee Lo,Water Supply,Desktops,$4200,"Low, Spencer",Computers,,4.0%
+Won,Individual,Renee Lo,Water Supply,Ergonomic Seating,$3100,"Low, Spencer",Furniture,,4.0%
+Won,Individual,Renee Lo,Water Supply,Laser Printers,$2500,"Low, Spencer",Electronics,,2.5%
+Won,Individual,Renee Lo,Water Supply,Mobile app,$3400,"Low, Spencer",Software,,1.5%
+Won,Individual,Renee Lo,Water Supply,Scanners,$2300,"Low, Spencer",Electronics,,0.5%
+Won,Individual,Renee Lo,Water Supply,Stand-up Desks,$3300,"Low, Spencer",Furniture,,3.5%
+Won,Individual,Renee Lo,Water Supply,Stand-up Desks,$2300,"Low, Spencer",Furniture,New Product Releases,5.0%
+Won,Individual,Renee Lo,Water Supply,Tablets,$6500,"Low, Spencer",Computers,,6.5%
+Won,Individual,Renee Lo,Water Supply,Tablets,$3600,"Low, Spencer",Computers,Consumer Tradeshow,8.0%
+Won,Individual,Renee Lo,Water Supply,Webcams,$600,"Low, Spencer",Electronics,,3.5%
+Won,Individual,Sanjay Shah,Computer Software: Prepackaged Software,Design app,$3800,"Low, Spencer",Software,,3.1%
+Won,Individual,Sanjay Shah,Computer Software: Prepackaged Software,Design app,$3600,"Low, Spencer",Software,Customer Follow-up,5.6%
+Won,Individual,Sanjay Shah,Computer Software: Prepackaged Software,Desktops,$2100,"Low, Spencer",Computers,,3.6%
+Won,Individual,Sanjay Shah,Computer Software: Prepackaged Software,Laser Printers,$1000,"Low, Spencer",Electronics,,2.1%
+Won,Individual,Sanjay Shah,Computer Software: Prepackaged Software,Stand-up Desks,$4700,"Low, Spencer",Furniture,,3.1%
+Won,Individual,Sanjay Shah,Computer Software: Prepackaged Software,Webcams,$600,"Low, Spencer",Electronics,,3.1%
+Won,Individual,Sanjay Shah,"Computer Software: Programming, Data Processing",Design app,$7100,"Low, Spencer",Software,,3.2%
+Won,Individual,Sanjay Shah,"Computer Software: Programming, Data Processing",Stand-up Desks,$2100,"Low, Spencer",Furniture,Consumer Tradeshow,4.7%
+Won,Individual,Sanjay Shah,"Computer Software: Programming, Data Processing",Stand-up Desks,$4300,"Low, Spencer",Furniture,New Product Releases,4.7%
+Won,Individual,Sanjay Shah,EDP Services,Design app,$3600,"Low, Spencer",Software,,3.2%
+Won,Individual,Sanjay Shah,EDP Services,Webcams,$800,"Low, Spencer",Electronics,,3.2%
+Won,Individual,Sanjay Shah,Forest Products,Tablets,$2600,"Low, Spencer",Computers,,6.2%
+Won,Individual,Sanjay Shah,Home Furnishings,Design app,$20100,"Low, Spencer",Software,,3.2%
+Won,Individual,Sanjay Shah,Home Furnishings,Design app,$3200,"Low, Spencer",Software,Customer Care Campaign,5.7%
+Won,Individual,Sanjay Shah,Home Furnishings,Design app,$3300,"Low, Spencer",Software,Customer Follow-up,5.7%
+Won,Individual,Sanjay Shah,Home Furnishings,Desktops,$2800,"Low, Spencer",Computers,,3.7%
+Won,Individual,Sanjay Shah,Home Furnishings,Ergonomic Seating,$3800,"Low, Spencer",Furniture,New Product Releases,5.2%
+Won,Individual,Sanjay Shah,Home Furnishings,Laser Printers,$2500,"Low, Spencer",Electronics,,2.2%
+Won,Individual,Sanjay Shah,Home Furnishings,Laser Printers,$1100,"Low, Spencer",Electronics,Customer Care Campaign,4.7%
+Won,Individual,Sanjay Shah,Home Furnishings,Mobile app,$3200,"Low, Spencer",Software,Customer Care Campaign,3.7%
+Won,Individual,Sanjay Shah,Home Furnishings,Stand-up Desks,$6900,"Low, Spencer",Furniture,New Product Releases,4.7%
+Won,Individual,Sanjay Shah,Home Furnishings,Tablets,$2700,"Low, Spencer",Computers,,6.2%
+Won,Individual,Sanjay Shah,Home Furnishings,Webcams,$1200,"Low, Spencer",Electronics,,3.2%
+Won,Individual,Sanjay Shah,Home Furnishings,Webcams,$100,"Low, Spencer",Electronics,New Product Releases,4.7%
+Won,Individual,Sanjay Shah,Industrial Machinery/Components,Design app,$6500,"Low, Spencer",Software,,3.2%
+Won,Individual,Sanjay Shah,Industrial Machinery/Components,Stand-up Desks,$2000,"Low, Spencer",Furniture,,3.2%
+Won,Individual,Sanjay Shah,Integrated oil Companies,Desktops,$1600,"Low, Spencer",Computers,,3.7%
+Won,Individual,Sanjay Shah,Major Banks,All-in-One,$2500,"Low, Spencer",Computers,Consumer Tradeshow,2.7%
+Won,Individual,Sanjay Shah,Major Banks,Design app,$6400,"Low, Spencer",Software,,3.2%
+Won,Individual,Sanjay Shah,Major Banks,Design app,$2700,"Low, Spencer",Software,Customer Care Campaign,5.7%
+Won,Individual,Sanjay Shah,Major Banks,Design app,$6200,"Low, Spencer",Software,Customer Follow-up,5.7%
+Won,Individual,Sanjay Shah,Major Banks,Ergonomic Seating,$2700,"Low, Spencer",Furniture,,3.7%
+Won,Individual,Sanjay Shah,Major Banks,Stand-up Desks,$7900,"Low, Spencer",Furniture,,3.2%
+Won,Individual,Sanjay Shah,Major Banks,Tablets,$5800,"Low, Spencer",Computers,,6.2%
+Won,Individual,Sanjay Shah,Major Banks,Webcams,$100,"Low, Spencer",Electronics,Twitter,3.7%
+Won,Individual,Sanjay Shah,Medical Specialities,Tablets,$1200,"Low, Spencer",Computers,,6.1%
+Won,Individual,Sanjay Shah,,Design app,$12600,"Low, Spencer",Software,,3.1%
+Won,Individual,Sanjay Shah,,Design app,$3800,"Low, Spencer",Software,Customer Follow-up,5.7%
+Won,Individual,Sanjay Shah,,Desktops,$2700,"Low, Spencer",Computers,,3.6%
+Won,Individual,Sanjay Shah,,Desktops,$1600,"Low, Spencer",Computers,Twitter,4.2%
+Won,Individual,Sanjay Shah,,Laser Printers,$1000,"Low, Spencer",Electronics,,2.1%
+Won,Individual,Sanjay Shah,,Laser Printers,$1300,"Low, Spencer",Electronics,Monthly Newsletter,2.6%
+Won,Individual,Sanjay Shah,,Mobile app,$3400,"Low, Spencer",Software,Customer Care Campaign,3.7%
+Won,Individual,Sanjay Shah,,Stand-up Desks,$14100,"Low, Spencer",Furniture,,3.1%
+Won,Individual,Sanjay Shah,,Stand-up Desks,$7600,"Low, Spencer",Furniture,New Product Releases,4.7%
+Won,Individual,Sanjay Shah,,Tablets,$5300,"Low, Spencer",Computers,,6.2%
+Won,Individual,Sanjay Shah,,Webcams,$300,"Low, Spencer",Electronics,,3.2%
+Won,Individual,Sanjay Shah,Oil/Gas Transmission,Ergonomic Seating,$4200,"Low, Spencer",Furniture,Consumer Tradeshow,5.2%
+Won,Individual,Sanjay Shah,Oil/Gas Transmission,Mobile app,$2400,"Low, Spencer",Software,Customer Care Campaign,3.7%
+Won,Individual,Sanjay Shah,Oil/Gas Transmission,Stand-up Desks,$3000,"Low, Spencer",Furniture,,3.2%
+Won,Individual,Sanjay Shah,Oilfield Services/Equipment,Design app,$5400,"Low, Spencer",Software,,3.1%
+Won,Individual,Sanjay Shah,Oilfield Services/Equipment,Design app,$3000,"Low, Spencer",Software,Customer Follow-up,5.6%
+Won,Individual,Sanjay Shah,Oilfield Services/Equipment,Laser Printers,$1100,"Low, Spencer",Electronics,Monthly Newsletter,2.6%
+Won,Individual,Sanjay Shah,Oilfield Services/Equipment,Stand-up Desks,$2900,"Low, Spencer",Furniture,Consumer Tradeshow,4.6%
+Won,Individual,Sanjay Shah,Oilfield Services/Equipment,Stand-up Desks,$8900,"Low, Spencer",Furniture,New Product Releases,4.6%
+Won,Individual,Sanjay Shah,Oilfield Services/Equipment,Webcams,$100,"Low, Spencer",Electronics,Market Trends Newsletter,4.6%
+Won,Individual,Sanjay Shah,Real Estate Investment Trusts,Design app,$3800,"Low, Spencer",Software,,3.2%
+Won,Individual,Sanjay Shah,Real Estate Investment Trusts,Stand-up Desks,$2300,"Low, Spencer",Furniture,New Product Releases,4.7%
+Won,Individual,Sanjay Shah,Real Estate Investment Trusts,Webcams,$800,"Low, Spencer",Electronics,,3.2%
+Won,Individual,Sanjay Shah,Telecommunications Equipment,Design app,$3800,"Low, Spencer",Software,,3.2%
+Won,Individual,Sanjay Shah,Telecommunications Equipment,Laser Printers,$1200,"Low, Spencer",Electronics,,2.2%
+Won,Individual,Sanjay Shah,Telecommunications Equipment,Stand-up Desks,$2400,"Low, Spencer",Furniture,Consumer Tradeshow,4.7%
+Won,Individual,Sanjay Shah,Telecommunications Equipment,Webcams,$900,"Low, Spencer",Electronics,,3.2%
+Won,Individual,Sanjay Shah,Transportation Services,Design app,$2700,"Low, Spencer",Software,,3.1%
+Won,Individual,Sanjay Shah,Transportation Services,Design app,$2500,"Low, Spencer",Software,Monthly Newsletter,3.6%
+Won,Individual,Sanjay Shah,Transportation Services,Stand-up Desks,$3100,"Low, Spencer",Furniture,,3.1%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Design app,$18900,"Low, Spencer",Software,,3.3%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Design app,$3700,"Low, Spencer",Software,Customer Follow-up,5.8%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Ergonomic Seating,$5700,"Low, Spencer",Furniture,,3.8%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Laser Printers,$1300,"Low, Spencer",Electronics,,2.3%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Laser Printers,$3500,"Low, Spencer",Electronics,Monthly Newsletter,2.8%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Stand-up Desks,$12100,"Low, Spencer",Furniture,,3.3%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Stand-up Desks,$2200,"Low, Spencer",Furniture,Twitter,3.8%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Tablets,$3500,"Low, Spencer",Computers,,6.3%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Tablets,$3200,"Low, Spencer",Computers,Consumer Tradeshow,7.8%
+Won,Individual,Spencer Low,"Computer Software: Programming, Data Processing",Webcams,$500,"Low, Spencer",Electronics,,3.3%
+Won,Individual,Spencer Low,Electric Utilities: Central,Design app,$16000,"Low, Spencer",Software,,3.3%
+Won,Individual,Spencer Low,Electric Utilities: Central,Desktops,$2100,"Low, Spencer",Computers,,3.8%
+Won,Individual,Spencer Low,Electric Utilities: Central,Tablets,$4700,"Low, Spencer",Computers,Consumer Tradeshow,7.8%
+Won,Individual,Spencer Low,Food Distributors,Design app,$17200,"Low, Spencer",Software,,3.3%
+Won,Individual,Spencer Low,Food Distributors,Design app,$6900,"Low, Spencer",Software,Customer Follow-up,5.8%
+Won,Individual,Spencer Low,Food Distributors,Design app,$3200,"Low, Spencer",Software,Monthly Newsletter,3.8%
+Won,Individual,Spencer Low,Food Distributors,Desktops,$1900,"Low, Spencer",Computers,,3.8%
+Won,Individual,Spencer Low,Food Distributors,Desktops,$2200,"Low, Spencer",Computers,Twitter,4.3%
+Won,Individual,Spencer Low,Food Distributors,Mobile app,$3000,"Low, Spencer",Software,,1.3%
+Won,Individual,Spencer Low,Food Distributors,Mobile app,$3400,"Low, Spencer",Software,Consumer Tradeshow,2.8%
+Won,Individual,Spencer Low,Food Distributors,Stand-up Desks,$3900,"Low, Spencer",Furniture,,3.3%
+Won,Individual,Spencer Low,Food Distributors,Stand-up Desks,$3000,"Low, Spencer",Furniture,Consumer Tradeshow,4.8%
+Won,Individual,Spencer Low,Food Distributors,Tablets,$3500,"Low, Spencer",Computers,,6.3%
+Won,Individual,Spencer Low,Food Distributors,Webcams,$800,"Low, Spencer",Electronics,,3.3%
+Won,Individual,Spencer Low,Industrial Machinery/Components,All-in-One,$6000,"Low, Spencer",Computers,,1.3%
+Won,Individual,Spencer Low,Industrial Machinery/Components,Design app,$49600,"Low, Spencer",Software,,3.3%
+Won,Individual,Spencer Low,Industrial Machinery/Components,Desktops,$6700,"Low, Spencer",Computers,,3.8%
+Won,Individual,Spencer Low,Industrial Machinery/Components,Desktops,$1500,"Low, Spencer",Computers,Customer Care Campaign,6.3%
+Won,Individual,Spencer Low,Industrial Machinery/Components,Ergonomic Seating,$14400,"Low, Spencer",Furniture,,3.8%
+Won,Individual,Spencer Low,Industrial Machinery/Components,Laser Printers,$3700,"Low, Spencer",Electronics,,2.3%
+Won,Individual,Spencer Low,Industrial Machinery/Components,Laser Printers,$3400,"Low, Spencer",Electronics,Monthly Newsletter,2.8%

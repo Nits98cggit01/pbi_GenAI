@@ -1,0 +1,15 @@
+,Page_id,Page_Name,Visual_ID,Visualization,Title
+0,ReportSection2,IT Spend Trend,VisualContainer3,lineStackedColumnComboChart,Actual and Plan by IT Area
+1,ReportSection2,IT Spend Trend,VisualContainer1,filledMap,Var Plan % by Country/Region
+2,ReportSection2,IT Spend Trend,51517b950503686cead1,decompositionTreeVisual,Decomposition tree
+3,ReportSection2,IT Spend Trend,fedfc8a803e764e8d499,stackedAreaChart,Actual by Period and Business Area
+4,ReportSection2,IT Spend Trend,ace3cabe7089bcaea3b3,slicer,Slicer
+5,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer1,card,Var Plan %
+6,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer10,barChart,Var Plan % by Business Area
+7,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer11,clusteredBarChart,Var Plan by Business Area
+8,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer9,pivotTable,Matrix
+9,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer8,clusteredBarChart,Var Plan by Country/Region
+10,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer4,card,Var LE3 %
+11,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer3,card,Var LE2 %
+12,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,VisualContainer2,card,Var LE1 %
+13,ReportSection32e53fe7c4f4cd87dd85,Plan Variance Analysis,7acf1fd5084b819c079e,slicer,Slicer

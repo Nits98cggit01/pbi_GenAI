@@ -1,0 +1,9 @@
+Report Name: corporateSpend
+Page Name: Plan Variance Analysis
+Visual Name: Var LE1 %
+
+Insights:
+Single Column: Var LE1 %
+
+This csv contains only 1 entry that is Var LE1 % and the value is 4.48%
+

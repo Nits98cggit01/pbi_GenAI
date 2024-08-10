@@ -1,0 +1,18 @@
+Report Name: corporateSpend
+Page Name: Plan Variance Analysis
+Visual Name: Var Plan by Business Area
+
+Insights:
+Columns: Business Area, Var Plan
+
+Sum of Var Plan grouped by Business Area:
+
+          Business Area    Var Plan
+                     BU  709001.658
+           Distribution  374101.044
+         Infrastructure 1608293.109
+          Manufacturing  210743.481
+Office & Administrative -848052.216
+                    R&D   70433.667
+               Services    5238.579
+

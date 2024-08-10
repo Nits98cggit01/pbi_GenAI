@@ -1,0 +1,2 @@
+Region:North America,LATAM,EMEA,APAC
+Opportunity Count:8468,1315,1149,488

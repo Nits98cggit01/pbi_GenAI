@@ -1,0 +1,65 @@
+Report Name: RevenueOpportunities
+Page Name: Opportunity Overview
+Visual Name: Opportunity Count by Region
+
+Insights:
+Categorical Fields:
+Region, State
+
+Numerical Fields:
+Opportunity Count
+
+Field: Region
+ - East: 8
+ - Central: 7
+ - West: 4
+
+Field: State
+ - Illinois: 1
+ - New York: 1
+ - Oregon: 1
+ - Nevada: 1
+ - California: 1
+ - West Virginia: 1
+ - Virginia: 1
+ - Pennsylvania: 1
+ - North Carolina: 1
+ - Maine: 1
+ - Iowa: 1
+ - Georgia: 1
+ - Florida: 1
+ - Wisconsin: 1
+ - Texas: 1
+ - Nebraska: 1
+ - Minnesota: 1
+ - Kansas: 1
+ - Washington: 1
+
+Numerical Insights for Opportunity Count grouped by Region:
+ Region  count     sum   mean    max    min
+Central      7 $168.00 $24.00 $39.00  $7.00
+   East      8 $199.00 $24.88 $53.00 $11.00
+   West      4  $91.00 $22.75 $28.00 $10.00
+
+Numerical Insights for Opportunity Count grouped by State:
+         State  count    sum   mean    max    min
+    California      1 $28.00 $28.00 $28.00 $28.00
+       Florida      1 $11.00 $11.00 $11.00 $11.00
+       Georgia      1 $29.00 $29.00 $29.00 $29.00
+      Illinois      1 $19.00 $19.00 $19.00 $19.00
+          Iowa      1 $39.00 $39.00 $39.00 $39.00
+        Kansas      1 $30.00 $30.00 $30.00 $30.00
+         Maine      1 $11.00 $11.00 $11.00 $11.00
+     Minnesota      1 $16.00 $16.00 $16.00 $16.00
+      Nebraska      1 $31.00 $31.00 $31.00 $31.00
+        Nevada      1 $10.00 $10.00 $10.00 $10.00
+      New York      1 $53.00 $53.00 $53.00 $53.00
+North Carolina      1 $31.00 $31.00 $31.00 $31.00
+        Oregon      1 $27.00 $27.00 $27.00 $27.00
+  Pennsylvania      1 $16.00 $16.00 $16.00 $16.00
+         Texas      1 $26.00 $26.00 $26.00 $26.00
+      Virginia      1 $26.00 $26.00 $26.00 $26.00
+    Washington      1 $26.00 $26.00 $26.00 $26.00
+ West Virginia      1 $22.00 $22.00 $22.00 $22.00
+     Wisconsin      1  $7.00  $7.00  $7.00  $7.00
+
